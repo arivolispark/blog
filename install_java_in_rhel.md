@@ -4,6 +4,7 @@ This page captures info about installing Java in RHEL.
 # ________________________________________________________
 ## Steps
 
+```
 [ec2-user@sbphcsh409-usw2 ~]$ java -version
 -bash: java: command not found
 [ec2-user@sbphcsh409-usw2 Downloads]$ sudo rpm -ivh jdk-8u251-linux-x64.rpm 
@@ -25,7 +26,7 @@ java version "1.8.0_251"
 Java(TM) SE Runtime Environment (build 1.8.0_251-b08)
 Java HotSpot(TM) 64-Bit Server VM (build 25.251-b08, mixed mode)
 [ec2-user@sbphcsh409-usw2 Downloads]$ 
-
+```
 
 # References
 https://docs.datastax.com/en/jdk-install/doc/jdk-install/installOracleJdkRHEL.html
