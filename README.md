@@ -10,8 +10,8 @@ Querying:
 Operations:
 
 #SAPLEMM
-1. *S*quare root
-2. *A*bsolute
+1. _S_quare root
+2. _A_bsolute
 3. *P*ower
 4. *L*ogarithm
 5. *E*xponential
