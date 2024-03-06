@@ -17,3 +17,31 @@ Operations:
 5. *E*xponential
 6. *M*inimum
 7. *M*aximum
+
+
+# inner 
+import numpy as np
+
+1-D array example:
+
+A = np.array([[1,2,3],[4,5,6]])
+B = np.array([[2,2,2],[2,2,2]])
+C = np.inner(A, B)
+
+print(C)
+
+
+A:
+[[1 2 3]
+ [4 5 6]]
+
+B:
+[[2 2 2]
+ [2 2 2]]
+
+C:
+[[12 12]
+ [30 30]]
+
+
+Reference:  https://numpy.org/doc/stable/reference/generated/numpy.inner.html
