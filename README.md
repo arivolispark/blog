@@ -25,7 +25,9 @@ import numpy as np
 1-D array example:
 
 A = np.array([[1,2,3],[4,5,6]])
+
 B = np.array([[2,2,2],[2,2,2]])
+
 C = np.inner(A, B)
 
 print(C)
