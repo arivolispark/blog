@@ -7,6 +7,8 @@ Querying:
 3. View
 
 # Numpy
+'Numpy' is the short form for 'numeric python'.
+
 Operations:
 
 #SAPLEMM
@@ -50,3 +52,7 @@ C:
 
 
 Reference:  https://numpy.org/doc/stable/reference/generated/numpy.inner.html
+
+
+# Pandas
+'Pandas' is the short form for 'Panel data'.
