@@ -56,3 +56,16 @@ Reference:  https://numpy.org/doc/stable/reference/generated/numpy.inner.html
 
 # Pandas
 'Pandas' is the short form for 'Panel data'.
+
+
+Common Table Expressions (CTE)
+
+Perhaps its more meaningful to think of a CTE as a substitute for a view used for a single query. But doesn't require the overhead, metadata, or persistence of a formal view. Very useful when you need to:
+
+Create a recursive query.
+Use the CTE's resultset more than once in your query.
+Promote clarity in your query by reducing large chunks of identical subqueries.
+Enable grouping by a column derived in the CTE's resultset.
+
+Reeference:  https://stackoverflow.com/questions/4740748/when-to-use-common-table-expression-cte
+
