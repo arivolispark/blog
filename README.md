@@ -2,7 +2,6 @@
 
 # Github Markdown cheatsheet
 https://docs.github.com/en/get-started/writing-on-github
-
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 # SQL
