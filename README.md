@@ -72,16 +72,6 @@ Reeference:  https://stackoverflow.com/questions/4740748/when-to-use-common-tabl
 
 # Set vs JOIN
 
-Set:  Vertical stacking
-Join:  Horizontal stacking
-
-
-Vertical stacking:
-The number of columns and datatypes must match.  The number of rows can differ.
-
-Horizontal stacking:
-The number of columns and datatypes may mismatch.
-
 | SET | JOIN
 | --- | ---
 | Vertical stacking | Horizontal stacking 
