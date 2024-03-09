@@ -70,7 +70,8 @@ Enable grouping by a column derived in the CTE's resultset.
 Reeference:  https://stackoverflow.com/questions/4740748/when-to-use-common-table-expression-cte
 
 
-===
+# Set vs JOIN
+
 Set:  Vertical stacking
 Join:  Horizontal stacking
 
@@ -80,5 +81,4 @@ The number of columns and datatypes must match.  The number of rows can differ.
 
 Horizontal stacking:
 The number of columns and datatypes may mismatch.
-===
 
