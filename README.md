@@ -102,10 +102,6 @@ def numpy_cross_product(a, b):
     return np.cross(a, b)
 
 
-def main():
-    pass
-
-
 if __name__ == "__main__":
     a = [1, 2, 3]
     b = [4, 5, 6]
