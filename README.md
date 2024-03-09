@@ -114,3 +114,10 @@ if __name__ == "__main__":
 
 ```
 
+## Output
+
+```
+cross_product:  [-3, 6, -3]
+n_product:  [-3  6 -3]
+```
+
