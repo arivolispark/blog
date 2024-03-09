@@ -82,6 +82,12 @@ The number of columns and datatypes must match.  The number of rows can differ.
 Horizontal stacking:
 The number of columns and datatypes may mismatch.
 
+| SET | JOIN
+| --- | ---
+| Vertical stacking | Horizontal stacking 
+| The number of columns and datatypes must match.  The number of rows can differ. | The number of columns and datatypes may mismatch. 
+
+
 # Matrix operations
 | Matrix operation | Output
 | --- | ---
