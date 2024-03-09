@@ -85,3 +85,36 @@ Reeference:  https://stackoverflow.com/questions/4740748/when-to-use-common-tabl
 | Cross product | Vector 
 
 
+# Cross product
+
+```
+import numpy as np
+
+
+def cross_product(a, b):
+    i_component = a[1] * b[2] - a[2] * b[1]
+    j_component = a[2] * b[0] - a[0] * b[2]
+    k_component = a[0] * b[1] - a[1] * b[0]
+    return [i_component, j_component, k_component]
+
+
+def numpy_cross_product(a, b):
+    return np.cross(a, b)
+
+
+def main():
+    pass
+
+
+if __name__ == "__main__":
+    a = [1, 2, 3]
+    b = [4, 5, 6]
+
+    cross_product = cross_product(a, b)
+    print(" cross_product: ", cross_product)
+
+    n_product = numpy_cross_product(a, b)
+    print(" n_product: ", n_product)
+
+```
+
