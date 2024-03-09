@@ -69,3 +69,16 @@ Enable grouping by a column derived in the CTE's resultset.
 
 Reeference:  https://stackoverflow.com/questions/4740748/when-to-use-common-table-expression-cte
 
+
+===
+Set:  Vertical stacking
+Join:  Horizontal stacking
+
+
+Vertical stacking:
+The number of columns and datatypes must match.  The number of rows can differ.
+
+Horizontal stacking:
+The number of columns and datatypes may mismatch.
+===
+
