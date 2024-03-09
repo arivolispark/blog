@@ -104,20 +104,25 @@ def numpy_cross_product(a, b):
 
 if __name__ == "__main__":
     a = [1, 2, 3]
+    print(" a: ", a)
+
     b = [4, 5, 6]
+    print(" b: ", b)
 
     cross_product = cross_product(a, b)
-    print(" cross_product: ", cross_product)
+    print("\n cross_product: ", cross_product)
 
-    n_product = numpy_cross_product(a, b)
-    print(" n_product: ", n_product)
-
+    cross_product_using_numpy = numpy_cross_product(a, b)
+    print(" cross_product_using_numpy: ", cross_product_using_numpy)
 ```
 
 ## Output
 
 ```
+a:  [1, 2, 3]
+b:  [4, 5, 6]
+
 cross_product:  [-3, 6, -3]
-n_product:  [-3  6 -3]
+cross_product_using_numpy:  [-3  6 -3]
 ```
 
