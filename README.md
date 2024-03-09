@@ -82,3 +82,10 @@ The number of columns and datatypes must match.  The number of rows can differ.
 Horizontal stacking:
 The number of columns and datatypes may mismatch.
 
+
+| Matrix operation | Output
+| --- | ---
+| Dot product | Scalar 
+| Cross product | Vector 
+
+
