@@ -131,3 +131,8 @@ cross_product:  [-3, 6, -3]
 cross_product_using_numpy:  [-3  6 -3]
 ```
 
+# Hadamard product
+
+https://en.wikipedia.org/wiki/Hadamard_matrix
+
+https://stackoverflow.com/questions/30437418/how-can-i-find-out-if-a-b-is-a-hadamard-or-dot-product-in-numpy
