@@ -156,13 +156,13 @@ The following are some of the leading Vector databases:
 3. [Weaviate](https://weaviate.io/ "Weaviate's Homepage")
 
 
+# Database stored procedures vs functions
 
+| Stored procedures | Functions
+| --- | ---
+| Stored procedures perform actions and may or may not return values | Functions return a value and can be used in SQL queries 
+| Stored procedures perform actions and may or may not return values | Functions return a value and can be used in SQL queries 
 
-=====
-
-Is functions here is same as stored procedures?
-
-In databases, functions and stored procedures serve similar purposes but have differences. Functions return a value and can be used in SQL queries, while stored procedures perform actions and may or may not return values.
 
 =====
 
