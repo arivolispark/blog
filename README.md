@@ -136,3 +136,34 @@ cross_product_using_numpy:  [-3  6 -3]
 https://en.wikipedia.org/wiki/Hadamard_matrix
 
 https://stackoverflow.com/questions/30437418/how-can-i-find-out-if-a-b-is-a-hadamard-or-dot-product-in-numpy
+
+
+# Database
+
+The TPC is a non-profit corporation focused on developing data-centric benchmark standards and disseminating objective, verifiable data to the industry.
+https://tpc.org/
+
+Performance = I/O
+
+
+=====
+
+who is the leader in vector dbs today?
+
+Pinecone
+Milvus
+Weaviate
+
+
+
+=====
+
+Is functions here is same as stored procedures?
+
+In databases, functions and stored procedures serve similar purposes but have differences. Functions return a value and can be used in SQL queries, while stored procedures perform actions and may or may not return values.
+
+=====
+
+> 4 joins will throw the Optimizer off
+
+
