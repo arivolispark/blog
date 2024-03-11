@@ -160,12 +160,11 @@ The following are some of the leading Vector databases:
 
 | Stored procedures | Functions
 | --- | ---
-| Perform actions | Return a value 
-| May or may not return values | Can be used in SQL queries 
+| perform actions | return a value 
+| may or may not return values | can be used in SQL queries 
 
 
-=====
+# Database optimizers
 
-> 4 joins will throw the Optimizer off
-
+Up until the 4th normalized form, the optimizers can be impactful.  Beyond 4th normal form, the optimizers would be challenged.  For practical purposes, designing up until 3rd or 4th normal form and Boyce-Codd normalization would suffice.
 
