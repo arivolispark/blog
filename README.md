@@ -152,8 +152,8 @@ Performance = I/O
 The following are some of the leading Vector databases:
 
 1. [Pinecone](https://www.pinecone.io/ "Pinecone's Homepage")
-2. Milvus
-3. Weaviate
+2. [Milvus](https://milvus.io/ "Milvus's Homepage")
+3. [Weaviate](https://weaviate.io/ "Weaviate's Homepage")
 
 
 
