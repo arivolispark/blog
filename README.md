@@ -138,7 +138,7 @@ https://en.wikipedia.org/wiki/Hadamard_matrix
 https://stackoverflow.com/questions/30437418/how-can-i-find-out-if-a-b-is-a-hadamard-or-dot-product-in-numpy
 
 
-# Database
+# Database benchmarking
 
 The TPC is a non-profit corporation focused on developing data-centric benchmark standards and disseminating objective, verifiable data to the industry.
 
@@ -147,13 +147,14 @@ https://tpc.org/
 Performance = I/O
 
 
-=====
+# Vector databases
 
-who is the leader in vector dbs today?
+The following are some of the leading Vector databases:
 
-Pinecone
-Milvus
-Weaviate
+1. [Pinecone](https://www.pinecone.io/ "Pinecone's Homepage")
+2. Milvus
+3. Weaviate
+
 
 
 
