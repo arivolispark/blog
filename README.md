@@ -144,16 +144,7 @@ The TPC is a non-profit corporation focused on developing data-centric benchmark
 
 https://tpc.org/
 
-Performance = I/O
-
-
-# Vector databases
-
-The following are some of the leading Vector databases:
-
-1. [Pinecone](https://www.pinecone.io/ "Pinecone's Homepage")
-2. [Milvus](https://milvus.io/ "Milvus's Homepage")
-3. [Weaviate](https://weaviate.io/ "Weaviate's Homepage")
+The database performance is directly related to I/O.
 
 
 # Database stored procedures vs functions
@@ -167,4 +158,12 @@ The following are some of the leading Vector databases:
 # Database optimizers
 
 Up until the 4th normalized form, the optimizers can be impactful.  Beyond 4th normal form, the optimizers would be challenged.  For practical purposes, designing up until 3rd or 4th normal form and Boyce-Codd normalization would suffice.
+
+# Vector databases
+
+The following are some of the leading Vector databases:
+
+1. [Pinecone](https://www.pinecone.io/ "Pinecone's Homepage")
+2. [Milvus](https://milvus.io/ "Milvus's Homepage")
+3. [Weaviate](https://weaviate.io/ "Weaviate's Homepage")
 
