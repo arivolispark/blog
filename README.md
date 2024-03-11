@@ -160,8 +160,8 @@ The following are some of the leading Vector databases:
 
 | Stored procedures | Functions
 | --- | ---
-| Stored procedures perform actions and may or may not return values | Functions return a value and can be used in SQL queries 
-| Stored procedures perform actions and may or may not return values | Functions return a value and can be used in SQL queries 
+| Perform actions | Return a value 
+| May or may not return values | Can be used in SQL queries 
 
 
 =====
