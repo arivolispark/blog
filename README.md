@@ -176,3 +176,9 @@ Compute answers using Wolfram's breakthrough technology & knowledgebase, relied 
 https://byjus.com/calculus-formulas/
 
 https://sac.edu/AcademicProgs/ScienceMathHealth/MathCenter/Documents/calculus%20cheat%20sheet.pdf
+
+
+# Types of Gradient descent learning algorithms
+1. Batch gradient descent
+2. Stochastic gradient descent
+3. Mini-batch gradient descent
