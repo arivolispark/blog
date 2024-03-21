@@ -170,4 +170,7 @@ The following are some of the leading Vector databases:
 # Wolfram Computational Intelligence
 https://www.wolframalpha.com/
 
-Compute answers using Wolfram's breakthrough technology & knowledgebase, relied on by millions of students & professionals. 
+Compute answers using Wolfram's breakthrough technology & knowledgebase, relied on by millions of students & professionals.
+
+# Calculus formulae
+https://byjus.com/calculus-formulas/
