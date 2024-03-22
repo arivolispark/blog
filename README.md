@@ -182,3 +182,6 @@ https://sac.edu/AcademicProgs/ScienceMathHealth/MathCenter/Documents/calculus%20
 1. Batch gradient descent
 2. Stochastic gradient descent
 3. Mini-batch gradient descent
+
+# Mathematics
+https://math.stackexchange.com/
