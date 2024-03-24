@@ -188,3 +188,7 @@ https://math.stackexchange.com/
 
 # D-Tale
 https://github.com/man-group/dtale
+
+# Realtime Streaming analytics
+https://github.com/madderle/Capstone-Realtime-Streaming-Analytics
+
