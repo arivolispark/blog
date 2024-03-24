@@ -185,3 +185,6 @@ https://sac.edu/AcademicProgs/ScienceMathHealth/MathCenter/Documents/calculus%20
 
 # Mathematics
 https://math.stackexchange.com/
+
+# D-Tale
+https://github.com/man-group/dtale
