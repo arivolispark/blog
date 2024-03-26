@@ -195,4 +195,5 @@ https://github.com/madderle/Capstone-Realtime-Streaming-Analytics
 # Best 16 Vector Databases for 2024
 https://lakefs.io/blog/12-vector-databases-2023/
 
-
+# Animated Math
+https://www.youtube.com/c/3blue1brown
