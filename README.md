@@ -192,3 +192,7 @@ https://github.com/man-group/dtale
 # Realtime Streaming analytics
 https://github.com/madderle/Capstone-Realtime-Streaming-Analytics
 
+# Best 16 Vector Databases for 2024
+https://lakefs.io/blog/12-vector-databases-2023/
+
+
