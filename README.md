@@ -202,3 +202,6 @@ https://www.3blue1brown.com/topics/linear-algebra
 
 # Linear Algebra
 Multiplication can be only between matrices or between a matrix and a vector.  It can not be between vectors.
+
+# Notes
+Submatrix = co-factor
