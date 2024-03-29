@@ -197,3 +197,6 @@ https://lakefs.io/blog/12-vector-databases-2023/
 
 # Animated Math
 https://www.youtube.com/c/3blue1brown
+
+# Linear Algebra
+Multiplication can be only between matrices or between a matrix and a vector.  It can not be between vectors.
