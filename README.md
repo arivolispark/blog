@@ -238,5 +238,7 @@ Eigen values and Eigen vectors exist in 'complex' space.  It exists only sometim
 
 Eigen vector and Eigen values:  If the value and direction are unaffected, then they are independent (from a transformation perspective).
 
+Covariance matrices are symmetric.
+
 # Notes
 Submatrix = co-factor
