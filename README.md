@@ -215,5 +215,8 @@ a.b = |a||b|cos(o)
 
 Linear Independence = Matrix rank
 
+Matrix multiplication is nothing but a bunch of Inner (or Dot) products of all rows of matrix A with all columns of matrix B.
+
+
 # Notes
 Submatrix = co-factor
