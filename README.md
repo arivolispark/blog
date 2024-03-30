@@ -236,7 +236,7 @@ Principle Component Analysis (PCA) is nothing but Identity decomposition.
 Eigen decomposition of vectors:
 Eigen values and Eigen vectors exist in 'complex' space.  It exists only sometimes 'real' space.
 
-If the value and direction are unaffected, then they are independent (from a transformation perspective).
+Eigen vector and Eigen values:  If the value and direction are unaffected, then they are independent (from a transformation perspective).
 
 # Notes
 Submatrix = co-factor
