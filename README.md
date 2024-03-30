@@ -213,5 +213,7 @@ a.b = |a||b|cos(o)
 | Inner product | Outer product 
 
 
+Linear Independence = Matrix rank
+
 # Notes
 Submatrix = co-factor
