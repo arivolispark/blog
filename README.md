@@ -233,5 +233,8 @@ If A is an orthogonal matrix or orthonormal matrix, then (A) into (Transpose of 
 
 PCA is nothing but Identity decomposition.
 
+Eigen decomposition of vectors:
+Eigen values and Eigen vectors exist in 'complex' space.  It exists only sometimes 'real' space.
+
 # Notes
 Submatrix = co-factor
