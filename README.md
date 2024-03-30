@@ -221,7 +221,9 @@ Conceptually, 'matrix multiplication' is a 'linear transformation of spaces'.
 
 Shear mapping = if we shift vertically
 
-Application of 'determinant' of Matrix:  Determinant tells whether the matrix can be inverted or not
+Application of 'determinant' of Matrix:  Determinant tells whether the matrix can be inverted or not.
+
+Determinant tells the change of areas when a region in one space is transformed to another region in a different space.
 
 # Notes
 Submatrix = co-factor
