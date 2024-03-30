@@ -219,7 +219,7 @@ Matrix multiplication is nothing but a bunch of Inner (or Dot) products of all r
 
 Conceptually, 'matrix multiplication' is a 'linear transformation of spaces'.
 
-Shear = if we shift vertically
+Shear mapping = if we shift vertically
 
 
 # Notes
