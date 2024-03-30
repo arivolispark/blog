@@ -227,5 +227,7 @@ Determinant tells the change of areas when a region in one space is transformed 
 
 Application of determinant:  If determinant of a matrix is 0, then there is no inverse of that matrix.  So we are compressing the dimension which helps in dimensionality reduction.  So, looking for determinant = 0 for highly correlated features can help reduce that feature / dimension.
 
+Symmetric matrix: A = Transpose of A
+
 # Notes
 Submatrix = co-factor
