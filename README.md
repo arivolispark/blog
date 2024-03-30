@@ -229,7 +229,7 @@ Application of determinant:  If determinant of a matrix is 0, then there is no i
 
 Symmetric matrix: A = Transpose of A
 
-If A is an orthogonal matrix or orthonormal matrix, then A into Transpose of A = I.
+If A is an orthogonal matrix or orthonormal matrix, then (A) into (Transpose of A) = I.
 
 # Notes
 Submatrix = co-factor
