@@ -225,5 +225,7 @@ Application of 'determinant' of Matrix:  Determinant tells whether the matrix ca
 
 Determinant tells the change of areas when a region in one space is transformed to another region in a different space.
 
+Application of determinant:  If determinant of a matrix is 0, then there is no inverse of that matrix.  So we are compressing the dimension which helps in dimensionality reduction.
+
 # Notes
 Submatrix = co-factor
