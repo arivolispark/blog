@@ -231,5 +231,7 @@ Symmetric matrix: A = Transpose of A
 
 If A is an orthogonal matrix or orthonormal matrix, then (A) into (Transpose of A) = I.
 
+PCA is nothing but Identity decomposition.
+
 # Notes
 Submatrix = co-factor
