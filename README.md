@@ -231,10 +231,12 @@ Symmetric matrix: A = Transpose of A
 
 If A is an orthogonal matrix or orthonormal matrix, then (A) into (Transpose of A) = I.
 
-PCA is nothing but Identity decomposition.
+Principle Component Analysis (PCA) is nothing but Identity decomposition.
 
 Eigen decomposition of vectors:
 Eigen values and Eigen vectors exist in 'complex' space.  It exists only sometimes 'real' space.
+
+If the value and direction are unaffected, then they are independent (from a transformation perspective).
 
 # Notes
 Submatrix = co-factor
