@@ -207,5 +207,11 @@ Dot product of vectors tells how similar in direction the two vectors are.
 
 a.b = |a||b|cos(o)
 
+| Dot product | Cross product
+| --- | ---
+| Returns a scalar | Returns a vector
+| Inner product | Outer product 
+
+
 # Notes
 Submatrix = co-factor
