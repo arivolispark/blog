@@ -217,6 +217,8 @@ Linear Independence = Matrix rank
 
 Matrix multiplication is nothing but a bunch of Inner (or Dot) products of all rows of matrix A with all columns of matrix B.
 
+Conceptually, 'matrix multiplication' is a 'linear transformation of spaces'.
+
 
 # Notes
 Submatrix = co-factor
