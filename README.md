@@ -242,5 +242,7 @@ Determinant of a matrix = product of its eigen values
 
 Covariance matrices are symmetric.
 
+Median is insensitive to outliers.
+
 # Notes
 Submatrix = co-factor
