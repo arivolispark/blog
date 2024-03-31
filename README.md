@@ -244,5 +244,8 @@ Covariance matrices are symmetric.
 
 Median is insensitive to outliers.
 
+https://numpy.org/doc/stable/reference/routines.linalg.html
+
+
 # Notes
 Submatrix = co-factor
