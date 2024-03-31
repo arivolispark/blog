@@ -248,7 +248,7 @@ https://numpy.org/doc/stable/reference/routines.linalg.html
 
 https://en.wikipedia.org/wiki/Homoscedasticity_and_heteroscedasticity
 
-
+R^2 is the Explained part of the error.  So, a high value of R^2 is recommended. 
 
 # Notes
 Submatrix = co-factor
