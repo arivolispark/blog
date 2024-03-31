@@ -246,6 +246,9 @@ Median is insensitive to outliers.
 
 https://numpy.org/doc/stable/reference/routines.linalg.html
 
+https://en.wikipedia.org/wiki/Homoscedasticity_and_heteroscedasticity
+
+
 
 # Notes
 Submatrix = co-factor
