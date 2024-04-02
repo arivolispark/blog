@@ -250,8 +250,22 @@ https://en.wikipedia.org/wiki/Homoscedasticity_and_heteroscedasticity
 
 R^2 is the Explained part of the error.  So, a high value of R^2 is recommended.
 
-_Moore-Penrose pseudo inverse_:
+Moore-Penrose pseudo inverse:
+=
 https://en.wikipedia.org/wiki/Moore%E2%80%93Penrose_inverse
+
+Determinant is not the same as dot product.
+The determinant of a matrix A is equal to the determinant of its transpose.
+
+A non-singular matrix means, it has a determinant which is not zero.
+
+Not all matrices have an inverse.
+
+Determinant value is the Volume.
+
+Determinant of singular matrices = 0
+
+Eigen vectors and Inverse matrices do not exist for all matrices
 
 
 # Notes
