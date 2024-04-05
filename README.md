@@ -278,6 +278,8 @@ The linalg.sklearn internally uses OLS
 https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
 
 
+In "overfitting", the line will go through "data points" and "noise or error points".  This is called "overfitting" because no room for "error" to participate in the equation.
+
 
 # Notes
 Submatrix = co-factor
