@@ -270,6 +270,11 @@ Coefficient of determination = R-squared
 
 OLS (Ordinary Least square) can be achieved by a variety of ways like Gradient Descent, PCA, etc.
 
+PCA can not perform scaling and normalization.
+
+Matrix inversion method is more prone to numerical instability  than the Gradient Descent method.
+
+
 
 # Notes
 Submatrix = co-factor
