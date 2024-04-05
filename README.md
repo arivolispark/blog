@@ -281,5 +281,11 @@ https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearReg
 In "overfitting", the line will go through "data points" and "noise or error points".  This is called "overfitting" because no room for "error" to participate in the equation.
 
 
+| Eigen value decomposition | Singular value decomposition
+| --- | ---
+| Uses Eigen vector and Eigen values | Uses Singular vector and Singular values
+
+
+
 # Notes
 Submatrix = co-factor
