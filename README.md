@@ -264,7 +264,11 @@ Determinant value is the Volume.
 
 Determinant of singular matrices = 0
 
-Eigen vectors and Inverse matrices do not exist for all matrices
+Eigen vectors and Inverse matrices do not exist for all matrices.
+
+Coefficient of determination = R-squared
+
+OLS (Ordinary Least square) can be achieved by a variety of ways like Gradient Descent, PCA, etc.
 
 
 # Notes
