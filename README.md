@@ -274,6 +274,9 @@ PCA can not perform scaling and normalization.
 
 Matrix inversion method is more prone to numerical instability  than the Gradient Descent method.
 
+Which method is internally used by linalg.sklearn?
+Answer:  OLS
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
 
 
 # Notes
