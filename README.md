@@ -297,5 +297,9 @@ The following are the methods to check if the independent variables in a linear 
 Submatrix = co-factor
 
 # Probability
+
 Benford's law:
 https://en.wikipedia.org/wiki/Benford%27s_law
+
+Pareto principle"
+https://en.wikipedia.org/wiki/Pareto_principle
