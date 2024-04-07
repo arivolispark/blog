@@ -310,3 +310,8 @@ Fruits = { Apple, Pear, Mango }
 Statistics:  science of perception where to try to understand the world
 Mathmatics: a way to understand all universes
 Physics:  trying to understand our reality
+
+Newton's law:
+F = G M m / (r ^ 2)
+
+Axiom:  self evident true statement
