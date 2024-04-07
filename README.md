@@ -286,6 +286,11 @@ In "overfitting", the line will go through "data points" and "noise or error poi
 | Uses Eigen vector and Eigen values | Uses Singular vector and Singular values
 
 
+The following are the methods to check if the independent variables in a linear regression model are linearly independent:
+1. Correlation matrix
+2. Scatter plot matrix
+3. Variance inflation factor
+
 
 # Notes
 Submatrix = co-factor
