@@ -301,5 +301,5 @@ Submatrix = co-factor
 Benford's law:
 https://en.wikipedia.org/wiki/Benford%27s_law
 
-Pareto principle"
+Pareto principle:
 https://en.wikipedia.org/wiki/Pareto_principle
