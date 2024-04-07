@@ -315,3 +315,5 @@ Newton's law:
 F = G M m / (r ^ 2)
 
 Axiom:  self evident true statement
+
+Binomial coefficient = Combination
