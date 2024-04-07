@@ -295,3 +295,7 @@ The following are the methods to check if the independent variables in a linear 
 
 # Notes
 Submatrix = co-factor
+
+# Probability
+Benford's law:
+https://en.wikipedia.org/wiki/Benford%27s_law
