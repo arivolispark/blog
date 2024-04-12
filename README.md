@@ -317,3 +317,9 @@ F = G M m / (r ^ 2)
 Axiom:  self evident true statement
 
 Binomial coefficient = Combination
+
+*Law of Large Numbers:*
+https://en.wikipedia.org/wiki/Law_of_large_numbers
+
+*Central limit theorem:*
+https://en.wikipedia.org/wiki/Central_limit_theorem
