@@ -323,3 +323,6 @@ https://en.wikipedia.org/wiki/Law_of_large_numbers
 
 *Central limit theorem:*
 https://en.wikipedia.org/wiki/Central_limit_theorem
+
+*Negative Binomial distribution:*
+https://en.wikipedia.org/wiki/Negative_binomial_distribution
