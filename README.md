@@ -326,3 +326,7 @@ https://en.wikipedia.org/wiki/Central_limit_theorem
 
 *Negative Binomial distribution:*
 https://en.wikipedia.org/wiki/Negative_binomial_distribution
+
+*Bayes theorem:*
+https://www.freecodecamp.org/news/bayes-rule-explained/
+
