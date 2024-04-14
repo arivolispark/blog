@@ -364,3 +364,11 @@ https://learningeconometrics.blogspot.com/2016/09/four-moments-of-distribution-m
 
 
 Normal distribution = Gaussian distribution
+
+Outliers are 3-Sigma events.
+
+
+The famous case where the 3-Sigma events are very rare is the LTCM collapse in the 1990s:
+https://en.wikipedia.org/wiki/Long-Term_Capital_Management
+
+
