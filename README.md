@@ -334,9 +334,9 @@ https://www.freecodecamp.org/news/bayes-rule-explained/
 "density" is an integral of "mass".
 
 Functions:
-1.  Cumulative Distribution Function:  https://en.wikipedia.org/wiki/Cumulative_distribution_function
-2.  Probability Density Function:  https://en.wikipedia.org/wiki/Probability_density_function
-3.  Probability Mass Function:  https://en.wikipedia.org/wiki/Probability_mass_function
+1.  Cumulative Distribution Function (CDF):  https://en.wikipedia.org/wiki/Cumulative_distribution_function
+2.  Probability Mass Function (PMF):  https://en.wikipedia.org/wiki/Probability_mass_function
+3.  Probability Density Function (PDF):  https://en.wikipedia.org/wiki/Probability_density_function
 
 
 
@@ -344,3 +344,6 @@ Bernoulli distribution:
 https://en.wikipedia.org/wiki/Bernoulli_distribution
 
 The probability distribution of coin tosses can be explained by Bernoulli distribution.
+
+
+CDF is an integral of PMF.
