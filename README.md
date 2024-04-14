@@ -347,3 +347,5 @@ The probability distribution of coin tosses can be explained by Bernoulli distri
 
 
 CDF is an integral of PMF.
+
+CDF applies to both discrete and continuous, but PDF applies to only continuous variables.
