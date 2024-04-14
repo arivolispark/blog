@@ -338,3 +338,9 @@ Functions:
 2.  Probability Density Function:  https://en.wikipedia.org/wiki/Probability_density_function
 3.  Probability Mass Function:  https://en.wikipedia.org/wiki/Probability_mass_function
 
+
+
+Bernoulli distribution:
+https://en.wikipedia.org/wiki/Bernoulli_distribution
+
+The probability distribution of coin tosses can be explained by Bernoulli distribution.
