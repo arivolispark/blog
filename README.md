@@ -331,6 +331,7 @@ https://en.wikipedia.org/wiki/Negative_binomial_distribution
 https://www.freecodecamp.org/news/bayes-rule-explained/
 
 "expected" is an integral of "likely".
+"density" is an integral of "mass".
 
 Functions:
 1.  Cumulative Distribution Function:  https://en.wikipedia.org/wiki/Cumulative_distribution_function
