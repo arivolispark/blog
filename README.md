@@ -350,4 +350,15 @@ CDF is an integral of PMF.
 
 CDF applies to both discrete and continuous, but PDF applies to only continuous variables.
 
-Binomial distribution is a _collection_ of _independent_ Bernoulli trials. 
+Binomial distribution is a _collection_ of _independent_ Bernoulli trials.
+
+
+https://learningeconometrics.blogspot.com/2016/09/four-moments-of-distribution-mean.html
+
+| Movement | Concept
+| --- | ---
+| First movement | Mean
+| Second movement | Variance
+| Third movement | Skew
+| Fourth movement | Kurtosis
+
