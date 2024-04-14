@@ -362,3 +362,5 @@ https://learningeconometrics.blogspot.com/2016/09/four-moments-of-distribution-m
 | Third movement | Skew
 | Fourth movement | Kurtosis
 
+
+Normal distribution = Gaussian distribution
