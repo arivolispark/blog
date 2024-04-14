@@ -332,3 +332,8 @@ https://www.freecodecamp.org/news/bayes-rule-explained/
 
 "expected" is an integral of "likely".
 
+Functions:
+1.  Cumulative Distribution Function:  https://en.wikipedia.org/wiki/Cumulative_distribution_function
+2.  Probability Density Function:  https://en.wikipedia.org/wiki/Probability_density_function
+3.  Probability Mass Function:  https://en.wikipedia.org/wiki/Probability_mass_function
+
