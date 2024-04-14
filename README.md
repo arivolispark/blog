@@ -330,3 +330,5 @@ https://en.wikipedia.org/wiki/Negative_binomial_distribution
 *Bayes theorem:*
 https://www.freecodecamp.org/news/bayes-rule-explained/
 
+"expected" is an integral of "likely".
+
