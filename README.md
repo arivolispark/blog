@@ -372,6 +372,8 @@ The famous case where the 3-Sigma events are very rare is the LTCM collapse in t
 https://en.wikipedia.org/wiki/Long-Term_Capital_Management
 
 
+The most important property of *Expectation* is *linearity*.
+
 
 # "Pattern recognition and Machine Learning”, by Christopher Bishop
 
