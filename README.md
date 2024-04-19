@@ -374,6 +374,10 @@ https://en.wikipedia.org/wiki/Long-Term_Capital_Management
 
 The most important property of *Expectation* is *linearity*.
 
+Standard Normal Distribution table:
+https://www.math.arizona.edu/~rsims/ma464/standardnormaltable.pdf
+
+
 
 # "Pattern recognition and Machine Learning”, by Christopher Bishop
 
