@@ -418,3 +418,14 @@ $\sqrt{3x + 1} + (1+x)^2$
 &psi; | &#968; | Greek small letter psi | w |
 &omega; | &#969; | Greek small letter omega | w |
 ```
+
+# Posterior, Likelihood and Prior
+Posterior is proportional to the product of likelihood and prior.
+
+# Other conjugate prior examples
+
+| Name | Description
+| --- | ---
+| Beta-Bernoulli | Here Beta is conjugate and Bernoulli is likelihood
+| Gamma-Poisson | Here Gamma is conjugate and Bernoulli is likelihood
+| Dirichlet-Multinomial | Here Dirichlet is conjugate and Multinomial is likelihood
