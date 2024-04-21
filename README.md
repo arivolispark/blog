@@ -436,5 +436,5 @@ Posterior is proportional to the product of likelihood and prior.
 | Prior | Hypothesis or belief, before any data has been incorporated
 | Posterior | The understanding of the distribution of the data, after incorporating data
 
-# Posterior, Likelihood and Prior
+# COVID-19 data
 https://github.com/owid/covid-19-data/tree/master/public/data
