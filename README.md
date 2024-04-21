@@ -401,4 +401,10 @@ https://en.wikipedia.org/wiki/Student%27s_t-distribution
 
 The t-distribution becomes normal distribution as the sample size increases.  When the sample size increases, the degrees of freedom increases as well.
 
+# Git markdown for calculus formulae and greek letters
+
 $\sqrt{3x + 1} + (1+x)^2$
+
+\\\
+@omega
+\\\
