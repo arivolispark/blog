@@ -429,3 +429,9 @@ Posterior is proportional to the product of likelihood and prior.
 | Beta-Bernoulli | Here Beta is conjugate and Bernoulli is likelihood
 | Gamma-Poisson | Here Gamma is conjugate and Bernoulli is likelihood
 | Dirichlet-Multinomial | Here Dirichlet is conjugate and Multinomial is likelihood
+
+# Prior, Posterior
+| Name | Description
+| --- | ---
+| Prior | Hypothesis or belief, before any data has been incorporated
+| Posterior | The understanding of the distribution of the data, after incorporating data
