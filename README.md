@@ -387,5 +387,11 @@ https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/03
 # LightGBM (Light Gradient Boosting Machine)
 https://www.geeksforgeeks.org/lightgbm-light-gradient-boosting-machine/
 
-# Black Monday 1987:
+# Black Monday 1987
 https://en.wikipedia.org/wiki/Black_Monday_(1987)
+
+# Beta distribution
+https://en.wikipedia.org/wiki/Beta_distribution
+
+# Conjugate prior
+https://en.wikipedia.org/wiki/Conjugate_prior
