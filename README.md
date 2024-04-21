@@ -303,6 +303,7 @@ https://en.wikipedia.org/wiki/Benford%27s_law
 
 Pareto principle:
 https://en.wikipedia.org/wiki/Pareto_principle
+https://blog.hubspot.com/marketing/pareto-principle
 
 Set = well defined collection of objects
 Fruits = { Apple, Pear, Mango }
