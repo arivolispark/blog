@@ -406,5 +406,5 @@ The t-distribution becomes normal distribution as the sample size increases.  Wh
 $\sqrt{3x + 1} + (1+x)^2$
 
 ```
-@omega
+&omega
 ```
