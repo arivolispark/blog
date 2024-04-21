@@ -400,3 +400,5 @@ https://en.wikipedia.org/wiki/Conjugate_prior
 https://en.wikipedia.org/wiki/Student%27s_t-distribution
 
 The t-distribution becomes normal distribution as the sample size increases.  When the sample size increases, the degrees of freedom increases as well.
+
+$\sqrt{3x + 1} + (1+x)^2$
