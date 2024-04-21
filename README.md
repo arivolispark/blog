@@ -406,5 +406,6 @@ The t-distribution becomes normal distribution as the sample size increases.  Wh
 $\sqrt{3x + 1} + (1+x)^2$
 
 ```
-&omega
+&psi; | &#968; | Greek small letter psi | w |
+&omega; | &#969; | Greek small letter omega | w |
 ```
