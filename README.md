@@ -404,6 +404,12 @@ The t-distribution becomes normal distribution as the sample size increases.  Wh
 # Memoryless property
 https://www.statisticshowto.com/memoryless-property/
 
+# Monte Carlo method
+https://en.wikipedia.org/wiki/Monte_Carlo_method
+
+# Frequentist statistics
+https://reflectivedata.com/dictionary/frequentist-statistics/
+
 # Git markdown for calculus formulae and greek letters
 
 $\sqrt{3x + 1} + (1+x)^2$
