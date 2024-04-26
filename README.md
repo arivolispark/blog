@@ -438,3 +438,7 @@ Posterior is proportional to the product of likelihood and prior.
 
 # COVID-19 data
 https://github.com/owid/covid-19-data/tree/master/public/data
+
+# t-distribution
+When the sample size is 30 or less, then t-distribution is typically the choice.
+
