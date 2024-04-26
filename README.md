@@ -444,6 +444,7 @@ When the sample size is 30 or less, then t-distribution is typically the choice.
 
 https://www.tdistributiontable.com/
 
-
 Beta distribution is a the conjugate prior for Binomial likelihood.
 
+# Cumulative distribution function
+https://en.wikipedia.org/wiki/Cumulative_distribution_function
