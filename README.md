@@ -442,3 +442,8 @@ https://github.com/owid/covid-19-data/tree/master/public/data
 # t-distribution
 When the sample size is 30 or less, then t-distribution is typically the choice.
 
+https://www.tdistributiontable.com/
+
+
+Beta distribution is a the conjugate prior for Binomial likelihood.
+
