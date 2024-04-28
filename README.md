@@ -448,3 +448,5 @@ Beta distribution is a the conjugate prior for Binomial likelihood.
 
 # Cumulative distribution function
 https://en.wikipedia.org/wiki/Cumulative_distribution_function
+
+# Statistics
