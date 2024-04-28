@@ -456,3 +456,17 @@ https://en.wikipedia.org/wiki/Cumulative_distribution_function
 | Probability | Deal with uncertainty
 | Statistics | Deal with data; no uncertainty involved
 | Statistical Inference | Deal with data under uncertainty
+
+
+# What are the different scenarios where mean = median = mode?
+The mean, median and mode could be same for any of the following scenarios:
+
+1. If the sample size is one
+2. If the data distribution has only one value:
+     eg: 200, 200, 200, 200, 200
+3. If the data distrbution is like this:  100, 200, 200, 200, 100
+4. Uniform distribution
+5. Normal distribution
+
+
+Usually, having no outliers helps immensely.
