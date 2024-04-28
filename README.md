@@ -474,10 +474,10 @@ Usually, having no outliers helps immensely.
 # Interquartile range:
 https://en.wikipedia.org/wiki/Interquartile_range
 
-| Quartile range | Quartile range | Quartile range
-| --- | --- | ---
-| 1st quartile | 2nd quartile | 3rd quartile
-| 25th percentile | 50th percentile | 75th percentile
+| Quartile range | Quartile range | Quartile range | Quartile range
+| --- | --- | --- | ---
+| 1st quartile | 2nd quartile | 3rd quartile | 4th quartile
+| 25th percentile | 50th percentile | 75th percentile | 100th percentile
 
 
 # Box plot
