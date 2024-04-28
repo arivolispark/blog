@@ -485,9 +485,11 @@ https://en.wikipedia.org/wiki/Box_plot
 
 https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.boxplot.html
 
-
 # Law of large numbers
 https://en.wikipedia.org/wiki/Law_of_large_numbers
 
 # Central limit theorem
 https://en.wikipedia.org/wiki/Central_limit_theorem
+
+# CRLB
+https://en.wikipedia.org/wiki/Cram%C3%A9r%E2%80%93Rao_bound
