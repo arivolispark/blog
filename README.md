@@ -470,3 +470,19 @@ The mean, median and mode could be same for any of the following scenarios:
 
 
 Usually, having no outliers helps immensely.
+
+# Interquartile range:
+https://en.wikipedia.org/wiki/Interquartile_range
+
+| --- | ---
+| 1st quartile | 2nd quartile | 3rd quartile
+| 25th percentile | 50th percentile | 75th percentile
+
+
+# Box plot
+https://en.wikipedia.org/wiki/Box_plot
+
+https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.boxplot.html
+
+
+
