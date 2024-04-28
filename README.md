@@ -466,7 +466,7 @@ The mean, median and mode could be same for any of the following scenarios:
      eg: 200, 200, 200, 200, 200
 3. If the data distrbution is like this:  100, 200, 200, 200, 100
 4. Uniform distribution
-5. Normal distribution
+5. Normal distribution (in some cases)
 
 
 Usually, having no outliers helps immensely.
