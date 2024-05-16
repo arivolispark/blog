@@ -166,6 +166,7 @@ The following are some of the leading Vector databases:
 2. [Milvus](https://milvus.io/ "Milvus's Homepage")
 3. [Weaviate](https://weaviate.io/ "Weaviate's Homepage")
 
+Qdrant (https://qdrant.tech/) is a vector database implemented using Rust.
 
 # Wolfram Computational Intelligence
 https://www.wolframalpha.com/
