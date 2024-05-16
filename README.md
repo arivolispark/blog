@@ -497,3 +497,9 @@ https://en.wikipedia.org/wiki/Cram%C3%A9r%E2%80%93Rao_bound
 
 # Dify
 https://dify.ai/
+
+# Kubernetes vs SLURM
+
+| SLURM | Kubernetes
+| --- | ---
+| SLURM is the go-to scheduler for managing distributed, batch-oriented workloads typical for HPC | Kube-schedule is the go-to scheduler for management of flexible, containerized workloads and microservices
