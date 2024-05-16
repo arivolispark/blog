@@ -500,7 +500,7 @@ https://dify.ai/
 
 # SLURM vs LSF vs Kubernetes scheduler
 
-LSF stands for the IBM's Platform *L*oad *S*haring *F*acility.
+LSF stands for the IBM's Platform _L_oad _S_haring _F_acility.
 
 https://www.run.ai/guides/slurm/slurm-vs-lsf-vs-kubernetes-scheduler-which-is-right-for-you#:~:text=kube%2Dscheduler%20vs%20Slurm&text=Slurm%20is%20the%20go%2Dto,to%20integrate%20with%20common%20frameworks
 
