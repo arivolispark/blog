@@ -519,3 +519,9 @@ If the MSE of the training set is minium (ie, looks near perfect), but the MSE o
 
 _Using many features in a model that is trained on a small training set_ could likely lead to Overfitting.
 
+# Underfitting
+- Using few features in a model that is trained on a large training set
+- Using linear features to fit a polynomial relationship
+  
+
+
