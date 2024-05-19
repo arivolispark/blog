@@ -507,3 +507,7 @@ https://www.run.ai/guides/slurm/slurm-vs-lsf-vs-kubernetes-scheduler-which-is-ri
 | SLURM | Kubernetes
 | --- | ---
 | SLURM is the go-to scheduler for managing distributed, batch-oriented workloads typical for HPC | Kube-schedule is the go-to scheduler for management of flexible, containerized workloads and microservices
+
+
+# Homoscedasticity, Heteroscedasticity
+https://en.wikipedia.org/wiki/Homoscedasticity_and_heteroscedasticity
