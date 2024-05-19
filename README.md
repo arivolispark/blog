@@ -526,3 +526,6 @@ _Using many features in a model that is trained on a small training set_ could l
 # Spurious Correlation
 https://statisticsbyjim.com/basics/spurious-correlation/
 
+# K-fold cross validation
+https://machinelearningmastery.com/k-fold-cross-validation/
+
