@@ -529,3 +529,6 @@ https://statisticsbyjim.com/basics/spurious-correlation/
 # K-fold cross validation
 https://machinelearningmastery.com/k-fold-cross-validation/
 
+# Manage Machine Learning with Amazon SageMaker Experiments
+https://docs.aws.amazon.com/sagemaker/latest/dg/experiments.html
+
