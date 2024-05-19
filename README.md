@@ -517,3 +517,5 @@ MSE = Mean Squared Error
 
 If the MSE of the training set is minium (ie, looks near perfect), but the MSE of the testing set is not, this could mean _Overfitting_.
 
+_Using many features in a model that is trained on a small training set_ could likely lead to Overfitting.
+
