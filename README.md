@@ -523,5 +523,6 @@ _Using many features in a model that is trained on a small training set_ could l
 - Using few features in a model that is trained on a large training set
 - Using linear features to fit a polynomial relationship
   
-
+# Spurious Correlation
+https://statisticsbyjim.com/basics/spurious-correlation/
 
