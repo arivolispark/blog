@@ -511,3 +511,9 @@ https://www.run.ai/guides/slurm/slurm-vs-lsf-vs-kubernetes-scheduler-which-is-ri
 
 # Homoscedasticity, Heteroscedasticity
 https://en.wikipedia.org/wiki/Homoscedasticity_and_heteroscedasticity
+
+# Overfitting
+MSE = Mean Squared Error
+
+If the MSE of the training set is minium (ie, looks near perfect), but the MSE of the testing set is not, this could mean _Overfitting_.
+
