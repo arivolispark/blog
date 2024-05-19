@@ -532,3 +532,9 @@ https://machinelearningmastery.com/k-fold-cross-validation/
 # Manage Machine Learning with Amazon SageMaker Experiments
 https://docs.aws.amazon.com/sagemaker/latest/dg/experiments.html
 
+# Quantile normalization
+https://en.wikipedia.org/wiki/Quantile_normalization
+
+# Feature scaling
+1. Standard scaler
+2. MinMax scaler
