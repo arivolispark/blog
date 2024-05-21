@@ -538,3 +538,9 @@ https://en.wikipedia.org/wiki/Quantile_normalization
 # Feature scaling
 1. Standard scaler
 2. MinMax scaler
+
+# AlloyDB, BigQuery
+| AlloyDB | BigQuery
+| --- | ---
+| If the workloads require faster response time | If workloads require data warehousing needs
+
