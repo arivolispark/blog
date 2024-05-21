@@ -542,5 +542,5 @@ https://en.wikipedia.org/wiki/Quantile_normalization
 # AlloyDB, BigQuery
 | AlloyDB | BigQuery
 | --- | ---
-| If the workloads require faster response time | If workloads require data warehousing needs
+| If the workloads require faster response time (for eg:  OLTP) | If workloads require data warehousing needs (for eg:  OLAP)
 
