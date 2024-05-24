@@ -544,3 +544,5 @@ https://en.wikipedia.org/wiki/Quantile_normalization
 | --- | ---
 | If the workloads require faster response time (for eg:  OLTP) | If workloads require data warehousing needs (for eg:  OLAP)
 
+
+Regularization is a set of methods for reducing overfitting in machine learning models.
