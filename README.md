@@ -546,3 +546,7 @@ https://en.wikipedia.org/wiki/Quantile_normalization
 
 
 Regularization is a set of methods for reducing overfitting in machine learning models.
+
+# ANOVA
+https://www.investopedia.com/terms/a/anova.asp
+
