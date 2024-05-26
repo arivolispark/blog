@@ -550,3 +550,22 @@ Regularization is a set of methods for reducing overfitting in machine learning 
 # ANOVA
 https://www.investopedia.com/terms/a/anova.asp
 
+
+# Bayesian estimation:
+The following are some give-away words for 'Bayesian':
+1. "Limited data"
+2. "Prior knowledge"
+
+
+Bayesian estimation is a technique where "prior knowledge" is used with "new" data to estimate parameters.
+
+# Mean = Median = Mode
+The following are the distributions:
+
+1. Normal distribution
+2. Uniform distribution
+3. Symmetric distribution
+
+
+In skewed or multimodal distributions, mean <> median <> mode.
+
