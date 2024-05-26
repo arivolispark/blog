@@ -569,3 +569,11 @@ The following are the distributions:
 
 In skewed or multimodal distributions, mean <> median <> mode.
 
+
+# Mean, Median
+| S.No. | Where median is better | Where mean is better
+| --- | --- | ---
+| 1 | Skewed data | Symmetric data
+| 2 | Ordinal data | Interval or ratio data
+
+
