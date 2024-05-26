@@ -577,3 +577,13 @@ In skewed or multimodal distributions, mean <> median <> mode.
 | 2 | Ordinal data | Interval or ratio data
 
 
+# Point estimation
+1. We want to assign a rating for a test for the students.  It is not always feasible to do the exercise on ALL students.  So, the exercise is done with a sample set of student population.  Based on that, the point estimation is calculated.
+2. Clinical Trials:  Whether a medication works or not - it is not always feasible to do the exercise on ALL students.
+
+
+# Unknown, determined vs Known, random
+
+# Estimators
+1. Maximum Likelihood  Estimators (MLE)
+2. Method of Moments (MoM)
