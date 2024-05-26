@@ -587,3 +587,6 @@ In skewed or multimodal distributions, mean <> median <> mode.
 # Estimators
 1. Maximum Likelihood  Estimators (MLE)
 2. Method of Moments (MoM)
+
+
+Bias is inversely proportional to the volume of data.
