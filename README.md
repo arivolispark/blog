@@ -590,3 +590,5 @@ In skewed or multimodal distributions, mean <> median <> mode.
 
 
 Bias is inversely proportional to the volume of data.
+
+Underfitting = under parameterized
