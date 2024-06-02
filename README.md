@@ -601,7 +601,7 @@ There are several approaches.  They are:
    
 
 # Regression types
-1. Linear regression
+1. Vanilla Linear regression
 2. Ridge regression
 3. Lasso regression
 
