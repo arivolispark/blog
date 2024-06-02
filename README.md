@@ -617,7 +617,7 @@ Likelihood starts with the data, and approximate the probability.  Probability i
 Logit function = Inverse of Sigmoid function
 
 ```
-logit(p) = ln (p / (1-p))
+logit(p) = ln ( p / (1-p) )
 ```
 
 # Cross entropy loss
