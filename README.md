@@ -592,3 +592,9 @@ In skewed or multimodal distributions, mean <> median <> mode.
 Bias is inversely proportional to the volume of data.
 
 Underfitting = under parameterized
+
+# Regression types
+1. Linear regression
+2. Ridge regression
+3. Lasso regression
+
