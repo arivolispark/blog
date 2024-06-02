@@ -605,3 +605,5 @@ There are several approaches.  They are:
 2. Ridge regression
 3. Lasso regression
 
+
+Clustering comes under Unsupervised classification.
