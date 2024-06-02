@@ -609,3 +609,21 @@ There are several approaches.  They are:
 Clustering comes under Unsupervised classification.
 
 Logistic regression is the only Classification algorithm with _regression_ in it?
+
+# Probability vs Likelihood
+
+Likelihood starts with the data, and approximate the probability.  Probability is based on the distribution.
+
+Logit function = Inverse of Sigmoid function
+
+logit(p) = ln( p / (1-p) )
+
+$\sqrt{3x + 1} + (1+x)^2$
+
+```
+&psi; | &#968; | Greek small letter psi | w |
+&omega; | &#969; | Greek small letter omega | w |
+```
+
+# Cross entropy loss
+https://en.wikipedia.org/wiki/Cross-entropy
