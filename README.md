@@ -618,11 +618,8 @@ Logit function = Inverse of Sigmoid function
 
 logit(p) = ln( p / (1-p) )
 
-$\sqrt{3x + 1} + (1+x)^2$
-
 ```
-&psi; | &#968; | Greek small letter psi | w |
-&omega; | &#969; | Greek small letter omega | w |
+logit(p) = ln( p / (1-p) )
 ```
 
 # Cross entropy loss
