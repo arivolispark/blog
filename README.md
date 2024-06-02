@@ -620,5 +620,16 @@ Logit function = Inverse of Sigmoid function
 logit(p) = ln ( p / (1-p) )
 ```
 
-# Cross entropy loss
+# Cross Entropy loss
 https://en.wikipedia.org/wiki/Cross-entropy
+
+# Harmonic mean
+https://www.investopedia.com/terms/h/harmonicaverage.asp
+
+# ROC curve
+https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc#:~:text=An%20ROC%20curve%20(receiver%20operating,False%20Positive%20Rate
+
+AUC under ROC curve = 1
+
+# F1 score
+https://www.labelf.ai/blog/what-is-accuracy-precision-recall-and-f1-score
