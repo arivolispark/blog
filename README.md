@@ -593,6 +593,13 @@ Bias is inversely proportional to the volume of data.
 
 Underfitting = under parameterized
 
+# Ways of modeling regressions:
+There are several approaches.  They are:
+1. Linear modeling
+2. Neural networks
+3. Decision trees
+   
+
 # Regression types
 1. Linear regression
 2. Ridge regression
