@@ -607,3 +607,5 @@ There are several approaches.  They are:
 
 
 Clustering comes under Unsupervised classification.
+
+Logistic regression is the only Classification algorithm with _regression_ in it?
