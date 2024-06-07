@@ -602,8 +602,8 @@ There are several approaches.  They are:
 
 # Regression types
 1. Vanilla Linear regression
-2. Ridge regression
-3. Lasso regression
+2. Ridge regression (L1 regularization)
+3. Lasso regression (L2 regularization)
 
 
 Clustering comes under Unsupervised classification.
