@@ -633,3 +633,6 @@ AUC under ROC curve = 1
 
 # F1 score
 https://www.labelf.ai/blog/what-is-accuracy-precision-recall-and-f1-score
+
+# Haversine_formula
+https://en.wikipedia.org/wiki/Haversine_formula
