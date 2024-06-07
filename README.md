@@ -235,8 +235,9 @@ If A is an orthogonal matrix or orthonormal matrix, then (A) into (Transpose of 
 
 Principle Component Analysis (PCA) is nothing but Identity decomposition.  
 1. PCA is meant for dimension reduction.
-2. PCA is not meant for feature selection.
+2. PCA is not meant for Feature selection.
 
+Note:  If you are going to go the PCA route, then you dont have to do Feature selection.  For example, if you are using Linear regression, then you typically dont do PCA.
 
 Eigen decomposition of vectors:
 Eigen values and Eigen vectors exist in 'complex' space.  It exists only sometimes 'real' space.
