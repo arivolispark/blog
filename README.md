@@ -636,3 +636,6 @@ https://www.labelf.ai/blog/what-is-accuracy-precision-recall-and-f1-score
 
 # Haversine_formula
 https://en.wikipedia.org/wiki/Haversine_formula
+
+
+PCA is meant for dimension reduction.  It is not meant for feature selection.
