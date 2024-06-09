@@ -652,5 +652,23 @@ https://en.wikipedia.org/wiki/Mean_absolute_percentage_error
 Logistic regression termed “regression” even though it is used for classification tasks because it was historically developed from linear regression models.
 
 # Exotic Link functions for GLMs
+Generalized linear models (GLMs) are a class of linear-based regression models developed to handle varying types of error distributions.
+
 https://freakonometrics.hypotheses.org/56682
+
+# KNN
+K-nearest neighbor can be used for both:
+1. Regression
+2. Classification
+
+KNN comes under Supervised learning.
+
+K-means comes under Unsupervised learning.
+
+| Supervised learning | Unsupervised learning
+| --- | --- 
+| KNN | K-means
+
+
+
 
