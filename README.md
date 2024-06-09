@@ -690,4 +690,7 @@ https://codedamn.com/news/machine-learning/what-are-support-vector-machines
 ### Maximum Margin Classifier
 https://bookdown.org/mpfoley1973/data-sci/maximal-margin-classifier.html
 
+### Hyperplane separation theorem
+https://en.wikipedia.org/wiki/Hyperplane_separation_theorem
+
 
