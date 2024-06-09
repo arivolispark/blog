@@ -644,3 +644,6 @@ https://en.wikipedia.org/wiki/Haversine_formula
 
 
 PCA is meant for dimension reduction.  It is not meant for feature selection.
+
+# MAPE
+https://en.wikipedia.org/wiki/Mean_absolute_percentage_error
