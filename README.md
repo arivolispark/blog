@@ -647,3 +647,10 @@ PCA is meant for dimension reduction.  It is not meant for feature selection.
 
 # MAPE
 https://en.wikipedia.org/wiki/Mean_absolute_percentage_error
+
+
+Logistic regression termed “regression” even though it is used for classification tasks because it was historically developed from linear regression models.
+
+# Exotic Link functions for GLMs
+https://freakonometrics.hypotheses.org/56682
+
