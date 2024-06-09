@@ -661,14 +661,14 @@ K-nearest neighbor can be used for both:
 1. Regression
 2. Classification
 
-KNN comes under Supervised learning.
-
-K-means comes under Unsupervised learning.
+KNN comes under Supervised learning.  K-means comes under Unsupervised learning.
 
 | Supervised learning | Unsupervised learning
 | --- | --- 
 | KNN | K-means
 
+
+KNN can be used for imputing data.
 
 
 
