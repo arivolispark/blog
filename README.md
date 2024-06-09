@@ -677,3 +677,9 @@ https://en.wikipedia.org/wiki/Euclidean_distance
 | Over fitting | Under fitting
 | --- | --- 
 |  If 'k' is very small | If 'k' is very large
+
+# Naive Bayes
+1. Features need to be independent of one another
+
+
+For unbalanced data, Naive Bayes performs better than KNN.
