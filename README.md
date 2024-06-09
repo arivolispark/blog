@@ -702,3 +702,4 @@ https://bookdown.org/mpfoley1973/data-sci/maximal-margin-classifier.html
 https://en.wikipedia.org/wiki/Hyperplane_separation_theorem
 
 
+The 'c' parameter and Kernel are the 2 concepts that control the accuracy of SVMs.
