@@ -683,3 +683,11 @@ https://en.wikipedia.org/wiki/Euclidean_distance
 
 
 For unbalanced data, Naive Bayes performs better than KNN.
+
+# SVM
+https://codedamn.com/news/machine-learning/what-are-support-vector-machines
+
+### Maximum Margin Classifier
+https://bookdown.org/mpfoley1973/data-sci/maximal-margin-classifier.html
+
+
