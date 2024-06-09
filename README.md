@@ -687,6 +687,11 @@ For unbalanced data, Naive Bayes performs better than KNN.
 # SVM
 https://codedamn.com/news/machine-learning/what-are-support-vector-machines
 
+| High 'c' | Low 'c'
+| --- | --- 
+|  No mis-classification | Mis-classification is tolerated
+
+
 ### Maximum Margin Classifier
 https://bookdown.org/mpfoley1973/data-sci/maximal-margin-classifier.html
 
