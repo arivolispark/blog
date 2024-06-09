@@ -692,6 +692,9 @@ https://codedamn.com/news/machine-learning/what-are-support-vector-machines
 |  No mis-classification | Mis-classification is tolerated
 
 
+If data has outliers, we would have ‘c’ to deal with them.
+
+
 ### Maximum Margin Classifier
 https://bookdown.org/mpfoley1973/data-sci/maximal-margin-classifier.html
 
