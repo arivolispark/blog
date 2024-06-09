@@ -670,5 +670,5 @@ KNN comes under Supervised learning.  K-means comes under Unsupervised learning.
 
 KNN can be used for imputing data.
 
-
-
+# Euclidean distance
+https://en.wikipedia.org/wiki/Euclidean_distance
