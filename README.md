@@ -672,3 +672,7 @@ KNN can be used for imputing data.
 
 # Euclidean distance
 https://en.wikipedia.org/wiki/Euclidean_distance
+
+If k is very small => Overfit
+If k is very large => Underfit
+
