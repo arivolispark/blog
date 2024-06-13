@@ -719,7 +719,7 @@ The 'c' parameter and Kernel are the 2 concepts that control the accuracy of SVM
   | --- | --- 
   |  model fits the training data well | model does not fit the training data well
   |  fails to generalize to new data | fails to generalize to new data
-
+  |  Regularization technique is used to address this issue | 
 
 
 
