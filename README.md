@@ -708,6 +708,19 @@ https://en.wikipedia.org/wiki/Hyperplane_separation_theorem
 
 The 'c' parameter and Kernel are the 2 concepts that control the accuracy of SVMs.
 
-# Regularization
-This is a technique to prevent overfitting in a classification model by adding a penalty term to the loss function.
+# Notes
+- *Regularation* technique is used to prevent overfitting in a classification model by adding a penalty term to the loss function.
+
+# Cross validation
+- In *Cross validation* technique, dataset is split into a training set and a test set.
+
+- *Accuracy* is an evaluation metric which is used to measure the performance of a classification model.
+
+
+
+
+
+
+
+
 
