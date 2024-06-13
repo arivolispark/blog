@@ -702,8 +702,12 @@ If data has outliers, we would have ‘c’ to deal with them.
 ### Maximum Margin Classifier
 https://bookdown.org/mpfoley1973/data-sci/maximal-margin-classifier.html
 
+
 ### Hyperplane separation theorem
 https://en.wikipedia.org/wiki/Hyperplane_separation_theorem
 
-
 The 'c' parameter and Kernel are the 2 concepts that control the accuracy of SVMs.
+
+# Regularization
+This is a technique to prevent overfitting in a classification model by adding a penalty term to the loss function.
+
