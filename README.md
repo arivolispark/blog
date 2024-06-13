@@ -717,7 +717,8 @@ The 'c' parameter and Kernel are the 2 concepts that control the accuracy of SVM
 
 - | Overfitting | Underfitting
   | --- | --- 
-  |  When a model fits the training data well but fails to generalize to new data | When a model does not fit the training data well and also fails to generalize to new data
+  |  model fits the training data well | model does not fit the training data well
+  |  fails to generalize to new data | fails to generalize to new data
 
 
 
