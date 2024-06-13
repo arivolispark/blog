@@ -724,7 +724,7 @@ The 'c' parameter and Kernel are the 2 concepts that control the accuracy of SVM
   | - use regularization technique |
 
 
-- Tikhonov regularization = Ridge regression = L2 regularization 
+- Tikhonov regularization = Ridge regression = L2 regularization,
 is a regularization technique in regression 
 
 
