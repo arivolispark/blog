@@ -715,7 +715,9 @@ The 'c' parameter and Kernel are the 2 concepts that control the accuracy of SVM
 
 - *Accuracy* is an evaluation metric which is used to measure the performance of a classification model.
 
-
+- | Overfitting | Underfitting
+  | --- | --- 
+  |  When a model fits the training data well but fails to generalize to new data | When a model does not fit the training data well and also fails to generalize to new data
 
 
 
