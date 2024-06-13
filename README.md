@@ -721,7 +721,11 @@ The 'c' parameter and Kernel are the 2 concepts that control the accuracy of SVM
   |  fails to generalize to new data | fails to generalize to new data
   |  To address this, use: |           
   | - increase training dataset |
-  | - use regularization technique | 
+  | - use regularization technique |
+
+
+- Tikhonov regularization = Ridge regression = L2 regularization 
+is a regularization technique in regression 
 
 
 
