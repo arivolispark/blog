@@ -737,7 +737,9 @@ is a regularization technique in regression
 
 - Decision boundary in the K-NN algorithm is non-linear.
 
-- Time complexity of training a Bayesian Classifier is linear in number of features. 
+- Time complexity of training a Bayesian Classifier is linear in number of features.
+  
+- https://towardsdatascience.com/tree-algorithms-explained-ball-tree-algorithm-vs-kd-tree-vs-brute-force-9746debcd940
   
 
 
