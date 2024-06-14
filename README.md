@@ -732,6 +732,8 @@ is a regularization technique in regression
 | Bias | Variance
   | --- | --- 
   |  error due to underfitting the training data | error due to overfitting the training data
+
+- Direction of the margin in a SVM is orthogonal to the decision boundary.
   
 
 
