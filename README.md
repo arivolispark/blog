@@ -734,6 +734,10 @@ is a regularization technique in regression
   |  error due to underfitting the training data | error due to overfitting the training data
 
 - Direction of the margin in a SVM is orthogonal to the decision boundary.
+
+- Decision boundary in the K-NN algorithm is non-linear.
+
+- Time complexity of training a Bayesian Classifier is linear in number of features. 
   
 
 
