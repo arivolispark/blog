@@ -741,6 +741,8 @@ is a regularization technique in regression
   
 - https://towardsdatascience.com/tree-algorithms-explained-ball-tree-algorithm-vs-kd-tree-vs-brute-force-9746debcd940
   
+- https://en.wikipedia.org/wiki/Centroidal_Voronoi_tessellation#:~:text=Centroidal%20Voronoi%20tessellations%20are%20useful,according%20to%20a%20certain%20function.
+  
 
 
 
