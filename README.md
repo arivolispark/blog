@@ -775,9 +775,13 @@ Random Forest is a Bagging algorithm.
 https://en.wikipedia.org/wiki/Random_forest
 
 # Boosting
-Used in solving Underfitting.  
-
-If the data is tabular, Boosting is the champion, even better than Neural Networks.
+- Used in solving Underfitting.  
+- If the data is tabular, Boosting is the champion, even better than Neural Networks.
+- Popular applications:
+    - Online websites:
+        - CTR:  Click through rate
+        - CVR:  Conversion rate
+        - CPC:  Cost per click  
 
 
 
