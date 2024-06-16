@@ -783,8 +783,11 @@ https://en.wikipedia.org/wiki/Random_forest
         - CVR:  Conversion rate
         - CPC:  Cost per click  
 
-# AdaBoost
+## AdaBoost
 https://en.wikipedia.org/wiki/AdaBoost
 
-# Gradient Boosting
+## Gradient Boosting
 Gradient Boosting = Gradient Descent + Boosting
+
+## CatBoost vs XGBoost vs LightGBM
+https://www.kaggle.com/code/nholloway/catboost-v-xgboost-v-lightgbm
