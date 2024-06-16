@@ -789,5 +789,8 @@ https://en.wikipedia.org/wiki/AdaBoost
 ## Gradient Boosting
 Gradient Boosting = Gradient Descent + Boosting
 
+### XGBoost
+https://arxiv.org/pdf/1603.02754
+
 ## CatBoost vs XGBoost vs LightGBM
 https://www.kaggle.com/code/nholloway/catboost-v-xgboost-v-lightgbm
