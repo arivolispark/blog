@@ -776,13 +776,13 @@ https://en.wikipedia.org/wiki/Random_forest
 
 # Boosting
 - Used in solving Underfitting.  
-- If the data is tabular, Boosting is the champion, even better than Neural Networks.
+- For 'Tabular' data, Boosting is the champion, even better than Neural Networks.  (Note:  For imaging data, Neural Networks are a better choice).
 - Popular applications:
     - Online websites:
         - CTR:  Click through rate
         - CVR:  Conversion rate
         - CPC:  Cost per click  
 
-
-
+# AdaBoost
+https://en.wikipedia.org/wiki/AdaBoost
 
