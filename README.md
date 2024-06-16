@@ -742,6 +742,29 @@ is a regularization technique in regression
 - https://towardsdatascience.com/tree-algorithms-explained-ball-tree-algorithm-vs-kd-tree-vs-brute-force-9746debcd940
   
 - https://en.wikipedia.org/wiki/Centroidal_Voronoi_tessellation#:~:text=Centroidal%20Voronoi%20tessellations%20are%20useful,according%20to%20a%20certain%20function.
+
+# Bagging, Boosting
+
+| Bagging | Boosting
+| --- | --- 
+|  this technique is used for solving overfitting | this technique is used for solving underfitting
+
+# Ensemble techniques
+The following are various ensemble techniques:
+1. Neural Networks
+2. SVM
+3. Decision Tree
+4. Linear Regression
+
+
+The following are various techniques for solving overfitting/underfitting:
+1. Bagging
+2. Boosting
+3. Stacking/blending
+4. Mixture of Experts (MoE)
+
+MoE is used in GenAI.
+
   
 # Rho
 'rho' typically refers to the correlation coefficient between the predictions of different base models (often Decision Trees or other classifiers) within the ensemble. This correlation coefficient measures how strongly the predictions of different models within the bagging ensemble are related to each other.
