@@ -786,3 +786,5 @@ https://en.wikipedia.org/wiki/Random_forest
 # AdaBoost
 https://en.wikipedia.org/wiki/AdaBoost
 
+# Gradient Boosting
+Gradient Boosting = Gradient Descent + Boosting
