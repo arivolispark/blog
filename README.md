@@ -769,6 +769,16 @@ MoE is used in GenAI.
 # Rho
 'rho' typically refers to the correlation coefficient between the predictions of different base models (often Decision Trees or other classifiers) within the ensemble. This correlation coefficient measures how strongly the predictions of different models within the bagging ensemble are related to each other.
 
+# Random Forest
+Random Forest is a Bagging algorithm.
+
+https://en.wikipedia.org/wiki/Random_forest
+
+# Boosting
+Used in solving Underfitting.  
+
+If the data is tabular, Boosting is the champion, even better than Neural Networks.
+
 
 
 
