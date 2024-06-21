@@ -797,3 +797,12 @@ https://proceedings.neurips.cc/paper_files/paper/2017/file/6449f44a102fde848669b
 
 ## CatBoost vs XGBoost vs LightGBM
 https://www.kaggle.com/code/nholloway/catboost-v-xgboost-v-lightgbm
+
+
+- Random forest is preferred instead of Decision tree to reduce variance of the model.
+
+
+
+
+
+
