@@ -806,6 +806,7 @@ https://www.kaggle.com/code/nholloway/catboost-v-xgboost-v-lightgbm
 | Bagging | Boosting
 | --- | ---
 | Does not increase bias | May increase variance
+| Bagging is a parallel process | Boosting is a sequential process
 
 
 
