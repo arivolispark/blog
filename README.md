@@ -808,8 +808,8 @@ https://www.kaggle.com/code/nholloway/catboost-v-xgboost-v-lightgbm
 | Does not increase bias | May increase variance
 | Bagging is a parallel process | Boosting is a sequential process
 
-Estimators = Decision trees
+- Estimators = Decision trees
 
-
+- Mixture of Experts (MoE) is used in Neural Networks.  It is complex to get it right.
 
 
