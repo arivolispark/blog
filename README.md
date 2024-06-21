@@ -802,6 +802,10 @@ https://www.kaggle.com/code/nholloway/catboost-v-xgboost-v-lightgbm
 # Notes
 
 - Random forest is preferred instead of Decision tree to reduce variance of the model.
+- 
+| Bagging | Boosting
+| --- | ---
+| Does not increase bias | May increase variance
 
 
 
