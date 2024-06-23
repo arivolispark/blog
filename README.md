@@ -815,4 +815,4 @@ https://www.kaggle.com/code/nholloway/catboost-v-xgboost-v-lightgbm
 # Eigenface
 https://en.wikipedia.org/wiki/Eigenface
 
-There are about 8 billion people in the world.  Statistically, currently only need about 50 features to represent all 8 billion people.  This is "dimensional reduction" in "Unsupervised learning".
+There are about 8 billion people in the world.  Based on the latest statistical research, all 8 billion people can be represented by about 50 features.  This is "dimensionality reduction" in "Unsupervised learning".  PCA is one of the popular dimensionality reduction techniques.
