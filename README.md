@@ -832,3 +832,7 @@ https://pantelis.github.io/cs301/docs/common/lectures/recommenders/netflix/
 https://sqlandsiva.blogspot.com/2023/02/svd-vs-pca-vs-nmf-singular-value.html
 
 https://stats.stackexchange.com/questions/502072/what-is-the-main-difference-between-pca-and-nmf-and-why-to-choose-one-rather-tha
+
+# Elbow method for K-means clustering
+https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/
+
