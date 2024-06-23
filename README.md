@@ -823,6 +823,10 @@ https://sites.cs.ucsb.edu/~mturk/Papers/mturk-CVPR91.pdf
 - Question:  The number of hairs and weight or height is correlated as well.  Likewise, there are many other feature combinations.  How to pick which ones for dimensionality reduction?  Is it looking at more data?
   Answer:  To pick features for dimensionality reduction, you can use correlation analysis to remove highly correlated features, principal component analysis (PCA) to capture the most variance, feature importance from models to select relevant features, domain knowledge to prioritize important features, variance threshold to remove low variance features, and recursive feature elimination (RFE) to iteratively remove less important features using a model. Looking at more data can help clarify feature importance but isn't the only factor.
 
+# Netflix competition
+The winner of a Netflix competition used SVD.
+
+https://pantelis.github.io/cs301/docs/common/lectures/recommenders/netflix/
 
 # PCA vs vs SVD vs NMF 
 https://sqlandsiva.blogspot.com/2023/02/svd-vs-pca-vs-nmf-singular-value.html
