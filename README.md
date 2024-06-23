@@ -836,3 +836,6 @@ https://stats.stackexchange.com/questions/502072/what-is-the-main-difference-bet
 # Elbow method for K-means clustering
 https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/
 
+# Silhoutte score
+This is the most common technique used to evaluate the k-means clustering approach.
+https://en.wikipedia.org/wiki/Silhouette_(clustering)
