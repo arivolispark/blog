@@ -839,3 +839,6 @@ https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/
 # Silhoutte score
 This is the most common technique used to evaluate the k-means clustering approach.
 https://en.wikipedia.org/wiki/Silhouette_(clustering)
+
+# Dendrogram
+https://en.wikipedia.org/wiki/Dendrogram
