@@ -845,3 +845,7 @@ https://en.wikipedia.org/wiki/Dendrogram
 
 # Decision trees vs Hierarchical clustering 
 Hierarchical clustering is similar to decision trees in that both create a hierarchical structure to represent data, but they differ in purpose and approach. Hierarchical clustering groups data points based on similarity to form clusters, while decision trees split data based on feature values to make predictions or classifications.
+
+# StatQuest with Josh Starmer 
+https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw
+
