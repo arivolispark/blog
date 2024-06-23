@@ -817,6 +817,6 @@ https://en.wikipedia.org/wiki/Eigenface
 
 There are about 8 billion people in the world.  Based on the latest statistical research, all 8 billion people can be represented by about 50 features.  This is "dimensionality reduction" in "Unsupervised learning".  PCA is one of the popular dimensionality reduction techniques.
 
-## Face recognition using Eigenface
+## Face recognition using Eigenfaces
 https://sites.cs.ucsb.edu/~mturk/Papers/mturk-CVPR91.pdf
 
