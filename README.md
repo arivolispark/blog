@@ -849,3 +849,8 @@ Hierarchical clustering is similar to decision trees in that both create a hiera
 # StatQuest with Josh Starmer 
 https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw
 
+# PCA vs t-SNE
+https://www.kaggle.com/code/agsam23/pca-vs-t-sne
+
+t-SNE is very good for visulizating high dimensional data in low dimension space.  t-SNE is not very good for data analysis.
+
