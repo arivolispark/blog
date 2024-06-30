@@ -854,3 +854,7 @@ https://www.kaggle.com/code/agsam23/pca-vs-t-sne
 
 t-SNE is very good for visulizating high dimensional data in low dimension space.  t-SNE is not very good for data analysis.
 
+# Graph theory
+
+## Centrality
+https://en.wikipedia.org/wiki/Centrality
