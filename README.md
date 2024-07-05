@@ -858,3 +858,6 @@ t-SNE is very good for visulizating high dimensional data in low dimension space
 
 ## Centrality
 https://en.wikipedia.org/wiki/Centrality
+
+# Pinecone vs Milvus
+https://myscale.com/blog/pinecone-vs-milvus-best-vector-database-efficiency/
