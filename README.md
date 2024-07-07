@@ -861,3 +861,8 @@ https://en.wikipedia.org/wiki/Centrality
 
 # Pinecone vs Milvus
 https://myscale.com/blog/pinecone-vs-milvus-best-vector-database-efficiency/
+
+# Sentence Transformer
+https://sbert.net/
+
+Sentence Transformers (a.k.a. SBERT) is the go-to Python module for accessing, using, and training state-of-the-art text and image embedding models. It can be used to compute embeddings using Sentence Transformer models (quickstart) or to calculate similarity scores using Cross-Encoder models (quickstart). This unlocks a wide range of applications, including semantic search, semantic textual similarity, and paraphrase mining.
