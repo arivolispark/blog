@@ -903,4 +903,5 @@ Adam optimizer = RMSProp + SGD with momentum
 
 SGD = Stochastic Gradient Descent
 
-- Data augmentation = augmenting existing training data
+# Data augmentation
+Data augmentation = augmenting existing training data
