@@ -878,6 +878,16 @@ https://github.com/ultralytics/ultralytics
 
 https://docs.ultralytics.com/modes/predict/#why-use-ultralytics-yolo-for-inference
 
+# Vanishing Gradient problem
+https://medium.com/@amanatulla1606/vanishing-gradient-problem-in-deep-learning-understanding-intuition-and-solutions-da90ef4ecb54#:~:text=A1%3A%20The%20vanishing%20gradient%20problem,to%20update%20the%20weights%20effectively.
 
+# RNN
+https://en.wikipedia.org/wiki/Recurrent_neural_network
+
+# GRU
+https://en.wikipedia.org/wiki/Gated_recurrent_unit
+
+# LSTM
+https://en.wikipedia.org/wiki/Long_short-term_memory#:~:text=Long%20short%2Dterm%20memory%20(LSTM,and%20other%20sequence%20learning%20methods.
 
 
