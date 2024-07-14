@@ -869,3 +869,8 @@ Sentence Transformers (a.k.a. SBERT) is the go-to Python module for accessing, u
 
 # Geodesic distance
 https://en.wikipedia.org/wiki/Geodesic
+
+# Backward propagation
+https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
+
+
