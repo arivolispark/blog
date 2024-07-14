@@ -896,3 +896,8 @@ https://en.wikipedia.org/wiki/Long_short-term_memory#:~:text=Long%20short%2Dterm
 # Ada-Grad optimizer
 https://medium.com/@brijesh_soni/understanding-the-adagrad-optimization-algorithm-an-adaptive-learning-rate-approach-9dfaae2077bb
 
+# Adam optimizer
+https://www.geeksforgeeks.org/adam-optimizer/
+
+Adam optimizer = RMSProp + SGD with momentum
+SGD = Stochastic Gradient Descent
