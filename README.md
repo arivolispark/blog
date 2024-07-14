@@ -912,3 +912,4 @@ Data augmentation = augmenting existing training data
 | --- | ---
 | L1 | Lasso regression
 | L2 | Ridge regression
+| Elastic net regularization | https://en.wikipedia.org/wiki/Elastic_net_regularization
