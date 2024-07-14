@@ -900,4 +900,5 @@ https://medium.com/@brijesh_soni/understanding-the-adagrad-optimization-algorith
 https://www.geeksforgeeks.org/adam-optimizer/
 
 Adam optimizer = RMSProp + SGD with momentum
+
 SGD = Stochastic Gradient Descent
