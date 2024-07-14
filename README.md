@@ -905,3 +905,10 @@ SGD = Stochastic Gradient Descent
 
 # Data augmentation
 Data augmentation = augmenting existing training data
+
+# Regularization
+
+| Name | Technique
+| --- | ---
+| L1 | Lasso regression
+| L2 | Ridge regression
