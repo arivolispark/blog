@@ -892,3 +892,7 @@ https://en.wikipedia.org/wiki/Gated_recurrent_unit
 
 # LSTM
 https://en.wikipedia.org/wiki/Long_short-term_memory#:~:text=Long%20short%2Dterm%20memory%20(LSTM,and%20other%20sequence%20learning%20methods.
+
+# Ada-Grad optimizer
+https://medium.com/@brijesh_soni/understanding-the-adagrad-optimization-algorithm-an-adaptive-learning-rate-approach-9dfaae2077bb
+
