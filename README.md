@@ -873,4 +873,11 @@ https://en.wikipedia.org/wiki/Geodesic
 # Backward propagation
 https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
 
+# Ultralytics
+https://github.com/ultralytics/ultralytics
+
+https://docs.ultralytics.com/modes/predict/#why-use-ultralytics-yolo-for-inference
+
+
+
 
