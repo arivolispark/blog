@@ -922,3 +922,8 @@ Data augmentation = augmenting existing training data
 
 # Theano
 https://pypi.org/project/Theano/
+
+# Renumics Spotlight
+https://renumics.com/docs/getting-started
+
+This is a tool used to identify outliers in imaging data.
