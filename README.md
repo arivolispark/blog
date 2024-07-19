@@ -916,3 +916,6 @@ Data augmentation = augmenting existing training data
 
 # Internal Covariate Shift
 
+
+# Theano
+https://pypi.org/project/Theano/
