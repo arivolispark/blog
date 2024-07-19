@@ -927,3 +927,7 @@ https://pypi.org/project/Theano/
 https://renumics.com/docs/getting-started
 
 This is a tool used to identify outliers in imaging data.
+
+# Imaging
+- Weights and biases are the parameters.  The parameters impact the quality of the Deep Learning model.
+- Learning rate is a hyper-parameter.  Hyper-parameters do not impact the quality of the Deep Learning model.
