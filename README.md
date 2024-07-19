@@ -1,5 +1,8 @@
 # blog
 
+# Tools
+https://explaineverything.com/
+
 # Github Markdown cheatsheet
 https://docs.github.com/en/get-started/writing-on-github
 
