@@ -931,3 +931,14 @@ This is a tool used to identify outliers in imaging data.
 # Imaging
 - Weights and biases are the parameters.  The parameters impact the quality of the Deep Learning model.
 - Learning rate is a hyper-parameter.  Hyper-parameters do not impact the quality of the Deep Learning model.
+
+# Trainable parameters of Batch normalization:
+1. Scale
+2. Shift
+3. EMA of mean
+4. EMA of variance
+
+
+https://keras.io/api/layers/normalization_layers/batch_normalization/
+
+
