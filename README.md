@@ -943,4 +943,8 @@ The following are the trainable parameters of Batch normalization:
 
 https://keras.io/api/layers/normalization_layers/batch_normalization/
 
+# Davies–Bouldin index
+https://en.wikipedia.org/wiki/Davies%E2%80%93Bouldin_index
 
+# 
+https://en.wikipedia.org/wiki/Calinski%E2%80%93Harabasz_index
