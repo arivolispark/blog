@@ -946,5 +946,5 @@ https://keras.io/api/layers/normalization_layers/batch_normalization/
 # Davies–Bouldin index
 https://en.wikipedia.org/wiki/Davies%E2%80%93Bouldin_index
 
-# 
+# Calinski–Harabasz index
 https://en.wikipedia.org/wiki/Calinski%E2%80%93Harabasz_index
