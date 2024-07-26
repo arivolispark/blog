@@ -948,3 +948,7 @@ https://en.wikipedia.org/wiki/Davies%E2%80%93Bouldin_index
 
 # Calinski–Harabasz index
 https://en.wikipedia.org/wiki/Calinski%E2%80%93Harabasz_index
+
+# Pytorch
+For "binary classification" problem, "Binary entropy" would be a great candidate for the loss function, and "Sigmoid function" would be a great candidate for the "Final" layer.
+
