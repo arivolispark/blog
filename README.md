@@ -954,3 +954,6 @@ For "binary classification" problem, "Binary entropy" would be a great candidate
 
 # Autograd
 Autograd in PyTorch tracks the operations performed on tensors and automatically computes gradients.
+
+# NN to LLM evolution
+NN -> RNN -> LSTM -> Transformers -> LLMs
