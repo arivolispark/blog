@@ -957,3 +957,6 @@ Autograd in PyTorch tracks the operations performed on tensors and automatically
 
 # NN to LLM evolution
 NN -> RNN -> LSTM -> Transformers -> LLMs
+
+# CNN
+https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks
