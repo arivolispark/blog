@@ -975,3 +975,8 @@ https://medium.com/@saba99/feature-map-35ba7e6c689e#:~:text=In%20Convolutional%2
 
 Regularization is a technique to take care of overfitting.
 Dropout is a regularization technique.
+
+# XAI
+Explainable AI
+
+https://ethical.institute/xai.html
