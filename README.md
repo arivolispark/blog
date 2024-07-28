@@ -960,3 +960,11 @@ NN -> RNN -> LSTM -> Transformers -> LLMs
 
 # CNN
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks
+
+## Stride
+_Stride is how far the filter moves in every step along one direction._
+
+https://medium.com/machine-learning-algorithms/what-is-stride-in-convolutional-neural-network-e3b4ae9baedb
+
+## Feature Map
+https://medium.com/@saba99/feature-map-35ba7e6c689e#:~:text=In%20Convolutional%20Neural%20Networks%20(CNNs,a%20previous%20layer's%20feature%20map.
