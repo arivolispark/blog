@@ -972,3 +972,6 @@ Each filter corresponds to a neuron.
 
 ## Feature Map
 https://medium.com/@saba99/feature-map-35ba7e6c689e#:~:text=In%20Convolutional%20Neural%20Networks%20(CNNs,a%20previous%20layer's%20feature%20map.
+
+Regularization is a technique to take care of overfitting.
+Dropout is a regularization technique.
