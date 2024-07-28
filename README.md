@@ -968,5 +968,7 @@ https://medium.com/machine-learning-algorithms/what-is-stride-in-convolutional-n
 
 Each filter corresponds to a neuron.
 
+"Kernels" and "filters" can be used interchangeably.
+
 ## Feature Map
 https://medium.com/@saba99/feature-map-35ba7e6c689e#:~:text=In%20Convolutional%20Neural%20Networks%20(CNNs,a%20previous%20layer's%20feature%20map.
