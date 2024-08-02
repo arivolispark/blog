@@ -989,3 +989,6 @@ https://en.wikipedia.org/wiki/Gated_recurrent_unit
 | Keras | PyTorch
 | --- | ---
 | Recommended for educational purposes and quick PoC | Efficient for deployment
+
+# Gradients and Weights
+Training uses Gradients.  Testing uses Weights.
