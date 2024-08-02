@@ -980,3 +980,7 @@ Dropout is a regularization technique.
 Explainable AI
 
 https://ethical.institute/xai.html
+
+# Gated Recurrent Unit (GRU)
+https://en.wikipedia.org/wiki/Gated_recurrent_unit
+
