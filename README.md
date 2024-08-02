@@ -984,3 +984,8 @@ https://ethical.institute/xai.html
 # Gated Recurrent Unit (GRU)
 https://en.wikipedia.org/wiki/Gated_recurrent_unit
 
+# Keras, PyTorch
+
+| Keras | PyTorch
+| --- | ---
+| Recommended for educational purposes and quick PoC | Efficient for deployment
