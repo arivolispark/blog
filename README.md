@@ -998,3 +998,10 @@ https://livebook.manning.com/book/deep-learning-for-vision-systems/chapter-1/
 
 # Data Annotator
 https://trainingdata.pro/who-is-data-annotator
+
+# Computer Vision tasks
+1. Classification
+2. Detection
+3. Segmentation
+4. Generation
+5. Image Similarity
