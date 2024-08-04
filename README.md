@@ -1020,3 +1020,5 @@ https://www.baeldung.com/cs/image-processing-occlusions
 # Pixel density
 https://en.wikipedia.org/wiki/Pixel_density#:~:text=%22PPI%22%20or%20%22pixel%20density,the%20area%20of%20the%20sensor.
 
+# RGB and HSV color model demo
+https://math.hws.edu/graphicsbook/demos/c2/rgb-hsv.html
