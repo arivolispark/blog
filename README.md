@@ -1011,3 +1011,6 @@ https://trainingdata.pro/who-is-data-annotator
 | Multiclass classification | Maultilabel classification
 | --- | ---
 | Sum of all probabilities would equate to 1 | Sum of all probabilities may equate to more than 1
+
+# Image processing Occlusion
+https://www.baeldung.com/cs/image-processing-occlusions
