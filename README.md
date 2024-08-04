@@ -1014,3 +1014,7 @@ https://trainingdata.pro/who-is-data-annotator
 
 # Image processing Occlusion
 https://www.baeldung.com/cs/image-processing-occlusions
+
+# Pixel density
+https://en.wikipedia.org/wiki/Pixel_density#:~:text=%22PPI%22%20or%20%22pixel%20density,the%20area%20of%20the%20sensor.
+
