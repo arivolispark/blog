@@ -1022,3 +1022,6 @@ https://en.wikipedia.org/wiki/Pixel_density#:~:text=%22PPI%22%20or%20%22pixel%20
 
 # RGB and HSV color model demo
 https://math.hws.edu/graphicsbook/demos/c2/rgb-hsv.html
+
+# Kurtosis
+https://www.scribbr.com/statistics/kurtosis/#:~:text=Kurtosis%20is%20a%20measure%20of,(medium%20tails)%20are%20mesokurtic.
