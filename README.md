@@ -992,3 +992,6 @@ https://en.wikipedia.org/wiki/Gated_recurrent_unit
 
 # Gradients and Weights
 Training uses Gradients.  Testing uses Weights.
+
+# Computer Vision
+https://livebook.manning.com/book/deep-learning-for-vision-systems/chapter-1/
