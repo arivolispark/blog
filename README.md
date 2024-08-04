@@ -995,3 +995,6 @@ Training uses Gradients.  Testing uses Weights.
 
 # Computer Vision
 https://livebook.manning.com/book/deep-learning-for-vision-systems/chapter-1/
+
+# Data Annotator
+https://trainingdata.pro/who-is-data-annotator
