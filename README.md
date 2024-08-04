@@ -1005,3 +1005,9 @@ https://trainingdata.pro/who-is-data-annotator
 3. Segmentation
 4. Generation
 5. Image Similarity
+
+# Multiclass classification vs Multilabel classification
+
+| Multiclass classification | Maultilabel classification
+| --- | ---
+| Sum of all probabilities would equate to 1 | Sum of all probabilities may equate to more than 1
