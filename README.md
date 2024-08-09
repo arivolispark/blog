@@ -1025,3 +1025,11 @@ https://math.hws.edu/graphicsbook/demos/c2/rgb-hsv.html
 
 # Kurtosis
 https://www.scribbr.com/statistics/kurtosis/#:~:text=Kurtosis%20is%20a%20measure%20of,(medium%20tails)%20are%20mesokurtic.
+
+# ResNet
+ResNet primarily addresses vanishing gradient problem in deep neural networks.
+
+
+
+
+
