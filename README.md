@@ -1031,3 +1031,11 @@ ResNet primarily addresses vanishing gradient problem in deep neural networks.
 
 # Computer Vision - Object detection
 Object detection = Localization (boundary identification) + Classification (assign labels like ‘Cat’, ‘Dog’, ‘Mouse’)
+
+# Intersection over Union (IoU)
+https://pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/
+
+IoU = GT / P
+
+where GT = Ground Truth
+      P = Predicted
