@@ -1043,3 +1043,6 @@ where GT = Ground Truth
 # Mean Average Precision (mAP)
 https://www.v7labs.com/blog/mean-average-precision
 
+# YOLO (You Only Look Once)
+https://encord.com/blog/yolo-object-detection-guide/
+
