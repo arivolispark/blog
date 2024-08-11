@@ -1039,3 +1039,7 @@ IoU = GT / P
 
 where GT = Ground Truth
       P = Predicted
+
+# Mean Average Precision (mAP)
+https://www.v7labs.com/blog/mean-average-precision
+
