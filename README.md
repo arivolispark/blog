@@ -1029,7 +1029,5 @@ https://www.scribbr.com/statistics/kurtosis/#:~:text=Kurtosis%20is%20a%20measure
 # ResNet
 ResNet primarily addresses vanishing gradient problem in deep neural networks.
 
-
-
-
-
+# Computer Vision - Object detection
+Object detection = Localization (boundary identification) + Classification (assign labels like ‘Cat’, ‘Dog’, ‘Mouse’)
