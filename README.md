@@ -1088,3 +1088,19 @@ https://medium.com/@siddheshb008/resnet-architecture-explained-47309ea9283d
 ## YOLO notebook
 https://colab.research.google.com/drive/1dC6m2S0nefw2Dv8bAV4jbuP5EDCQHqgG?usp=sharing
 
+# FCN, CNN, RNN
+FCN: for tabular data
+CNN: ?
+RNN:  for sequence of words
+
+# Understanding LSTMs
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+# Illustrated Guide to Transformers Neural Network: A step by step explanation
+https://www.youtube.com/watch?v=4Bdc55j80l8
+
+
+https://jalammar.github.io/illustrated-transformer/
+
+# Attention is all you need
+https://arxiv.org/abs/1706.03762
