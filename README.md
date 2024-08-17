@@ -1078,3 +1078,6 @@ List the optimizers here.
 
 # 3blue1brown Neural Networks    
 https://www.3blue1brown.com/topics/neural-networks
+
+# ResNet
+In deeper architecture, ResNet is for addressing the vanishing gradient problem.
