@@ -1107,3 +1107,6 @@ https://arxiv.org/abs/1706.03762
 
 # Image classification demo
 https://colab.research.google.com/drive/1pAhxl7GWKrbIHi5nJsLjAV-FnH1guBL9?usp=sharing
+
+# Fourier series graph
+https://www.mathsisfun.com/calculus/fourier-series-graph.html
