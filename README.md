@@ -1046,3 +1046,14 @@ https://www.v7labs.com/blog/mean-average-precision
 # YOLO (You Only Look Once)
 https://encord.com/blog/yolo-object-detection-guide/
 
+# Action functions:
+
+## Scalar
+The following operates on scalar values:
+
+1. Sigmoid
+2. Tanh
+3. RELU
+   
+## Distribution function
+**Softmax** operations on distributions to produce probabilities. 
