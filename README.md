@@ -1081,3 +1081,10 @@ https://www.3blue1brown.com/topics/neural-networks
 
 # ResNet
 In deeper architecture, ResNet is for addressing the vanishing gradient problem.
+
+## Resnet Architecture Explained
+https://medium.com/@siddheshb008/resnet-architecture-explained-47309ea9283d
+
+## YOLO notebook
+https://colab.research.google.com/drive/1dC6m2S0nefw2Dv8bAV4jbuP5EDCQHqgG?usp=sharing
+
