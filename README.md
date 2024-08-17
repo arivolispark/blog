@@ -1063,7 +1063,10 @@ The following operates on scalar values:
 ## L1/L2 loss
 
 ### L1 loss
+Mean Average Error (MAE)
+
 ### L2 loss
+Mean Squared Error (MSE)
 
 ## Entropy loss
 
