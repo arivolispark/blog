@@ -1110,3 +1110,7 @@ https://colab.research.google.com/drive/1pAhxl7GWKrbIHi5nJsLjAV-FnH1guBL9?usp=sh
 
 # Fourier series graph
 https://www.mathsisfun.com/calculus/fourier-series-graph.html
+
+# Time series analysis using Prophet in Python — Part 1: Math explained
+https://github.com/sophiamyang/sophiamyang.github.io/blob/master/DS/timeseries/timeseries1.md
+
