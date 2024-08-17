@@ -1114,3 +1114,5 @@ https://www.mathsisfun.com/calculus/fourier-series-graph.html
 # Time series analysis using Prophet in Python — Part 1: Math explained
 https://github.com/sophiamyang/sophiamyang.github.io/blob/master/DS/timeseries/timeseries1.md
 
+
+https://www.geeksforgeeks.org/derivative-of-the-sigmoid-function/
