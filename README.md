@@ -1046,7 +1046,7 @@ https://www.v7labs.com/blog/mean-average-precision
 # YOLO (You Only Look Once)
 https://encord.com/blog/yolo-object-detection-guide/
 
-# Action functions:
+# Action functions
 
 ## Scalar
 The following operates on scalar values:
@@ -1057,3 +1057,17 @@ The following operates on scalar values:
    
 ## Distribution function
 **Softmax** operations on distributions to produce probabilities. 
+
+# Loss functions
+
+## L1/L2 loss
+
+### L1 loss
+### L2 loss
+
+## Entropy loss
+
+### Cross Entropy Loss
+### Binary Cross Entropy Loss
+
+
