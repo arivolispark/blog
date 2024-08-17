@@ -1073,4 +1073,8 @@ Mean Squared Error (MSE)
 ### Cross Entropy Loss
 ### Binary Cross Entropy Loss
 
+# Optimizers
+List the optimizers here.
 
+# 3blue1brown Neural Networks    
+https://www.3blue1brown.com/topics/neural-networks
