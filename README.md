@@ -1051,8 +1051,8 @@ https://encord.com/blog/yolo-object-detection-guide/
 ## Scalar
 The following operates on scalar values:
 
-1. Sigmoid
-2. Tanh
+1. Sigmoid:  (if you want positive output values)
+2. Tanh:  (if you want posistive or negative output values)
 3. RELU
    
 ## Distribution function
