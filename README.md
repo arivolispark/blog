@@ -1147,3 +1147,6 @@ https://github.com/lnugraha/trimap_generator
 
 # Penn-Fudan Database for Pedestrian Detection and Segmentation
 https://www.cis.upenn.edu/~jshi/ped_html/
+
+# Siamese networks
+https://www.analyticsvidhya.com/blog/2023/08/introduction-and-implementation-of-siamese-networks/
