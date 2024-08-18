@@ -1129,3 +1129,9 @@ Panoptic segmentation = Semantic segmentation + Instance segmentation
 
 # Dice loss
 https://cvinvolution.medium.com/dice-loss-in-medical-image-segmentation-d0e476eb486
+
+# Precision Agriculture
+https://en.wikipedia.org/wiki/Precision_agriculture
+
+# U-net Convolutional Networks for Biomedical Image Segmentation
+
