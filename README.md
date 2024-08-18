@@ -1141,3 +1141,6 @@ https://www.robots.ox.ac.uk/~vgg/data/pets/
 
 # Intro to Diffusion Model — Part 5
 https://dzdata.medium.com/intro-to-diffusion-model-part-5-d0af8331871
+
+# Trimap
+https://github.com/lnugraha/trimap_generator
