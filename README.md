@@ -1150,3 +1150,6 @@ https://www.cis.upenn.edu/~jshi/ped_html/
 
 # Siamese networks
 https://www.analyticsvidhya.com/blog/2023/08/introduction-and-implementation-of-siamese-networks/
+
+# Popular Similarity measures
+https://dataaspirant.com/five-most-popular-similarity-measures-implementation-in-python/
