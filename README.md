@@ -1135,3 +1135,6 @@ https://en.wikipedia.org/wiki/Precision_agriculture
 
 # U-net Convolutional Networks for Biomedical Image Segmentation
 https://arxiv.org/abs/1505.04597
+
+# Oxford-IIIT Pet Dataset
+https://www.robots.ox.ac.uk/~vgg/data/pets/
