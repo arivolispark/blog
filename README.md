@@ -1111,8 +1111,18 @@ https://colab.research.google.com/drive/1pAhxl7GWKrbIHi5nJsLjAV-FnH1guBL9?usp=sh
 # Fourier series graph
 https://www.mathsisfun.com/calculus/fourier-series-graph.html
 
-# Time series analysis using Prophet in Python — Part 1: Math explained
+# Time series analysis using Prophet in Python — Part 1: Math explained 
 https://github.com/sophiamyang/sophiamyang.github.io/blob/master/DS/timeseries/timeseries1.md
 
 
 https://www.geeksforgeeks.org/derivative-of-the-sigmoid-function/
+
+# Invariants
+Here are some examples of Invariants:
+1. Scale
+2. Texture
+3. Brightness
+
+**Viewing angle** is key.  
+
+Panoptic segmentation = Semantic segmentation + Instance segmentation
