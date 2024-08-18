@@ -1134,4 +1134,4 @@ https://cvinvolution.medium.com/dice-loss-in-medical-image-segmentation-d0e476eb
 https://en.wikipedia.org/wiki/Precision_agriculture
 
 # U-net Convolutional Networks for Biomedical Image Segmentation
-
+https://arxiv.org/abs/1505.04597
