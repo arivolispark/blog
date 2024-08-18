@@ -1153,3 +1153,6 @@ https://www.analyticsvidhya.com/blog/2023/08/introduction-and-implementation-of-
 
 # Popular Similarity measures
 https://dataaspirant.com/five-most-popular-similarity-measures-implementation-in-python/
+
+# The Database of Faces (AT&T)
+https://git-disl.github.io/GTDLBench/datasets/att_face_dataset/
