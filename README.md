@@ -1144,3 +1144,6 @@ https://dzdata.medium.com/intro-to-diffusion-model-part-5-d0af8331871
 
 # Trimap
 https://github.com/lnugraha/trimap_generator
+
+# Penn-Fudan Database for Pedestrian Detection and Segmentation
+https://www.cis.upenn.edu/~jshi/ped_html/
