@@ -1126,3 +1126,6 @@ Here are some examples of Invariants:
 **Viewing angle** is key.  
 
 Panoptic segmentation = Semantic segmentation + Instance segmentation
+
+# Dice loss
+https://cvinvolution.medium.com/dice-loss-in-medical-image-segmentation-d0e476eb486
