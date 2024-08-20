@@ -1156,3 +1156,9 @@ https://dataaspirant.com/five-most-popular-similarity-measures-implementation-in
 
 # The Database of Faces (AT&T)
 https://git-disl.github.io/GTDLBench/datasets/att_face_dataset/
+
+# History of Trignometry
+https://en.wikipedia.org/wiki/History_of_trigonometry#:~:text=In%20the%2015th%20century%2C%20Jamsh%C4%ABd,a%20form%20suitable%20for%20triangulation.
+
+Cosine similarity was founded in the 15th century.
+
