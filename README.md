@@ -1160,5 +1160,5 @@ https://git-disl.github.io/GTDLBench/datasets/att_face_dataset/
 # History of Trignometry
 https://en.wikipedia.org/wiki/History_of_trigonometry#:~:text=In%20the%2015th%20century%2C%20Jamsh%C4%ABd,a%20form%20suitable%20for%20triangulation.
 
-Cosine similarity was founded in the 15th century.
+In the 15th century, Jamshīd al-Kāshī provided the first explicit statement of the law of cosines in a form suitable for triangulation.
 
