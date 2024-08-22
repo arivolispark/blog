@@ -1164,3 +1164,9 @@ In the 15th century, Jamshīd al-Kāshī provided the first explicit statement o
 
 # Spline regression
 https://en.wikipedia.org/wiki/Spline_(mathematics)
+
+# AlexNet
+https://en.wikipedia.org/wiki/AlexNet#:~:text=AlexNet%20is%20the%20name%20of,D.
+
+# LeNet
+https://en.wikipedia.org/wiki/LeNet
