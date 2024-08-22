@@ -1162,3 +1162,5 @@ https://en.wikipedia.org/wiki/History_of_trigonometry#:~:text=In%20the%2015th%20
 
 In the 15th century, Jamshīd al-Kāshī provided the first explicit statement of the law of cosines in a form suitable for triangulation.
 
+# Spline regression
+https://en.wikipedia.org/wiki/Spline_(mathematics)
