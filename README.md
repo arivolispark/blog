@@ -1173,3 +1173,6 @@ https://en.wikipedia.org/wiki/LeNet
 
 # Bag of Words
 https://en.wikipedia.org/wiki/Bag-of-words_model
+
+# TF-IDF
+https://en.wikipedia.org/wiki/Tf%E2%80%93idf
