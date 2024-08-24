@@ -1170,3 +1170,6 @@ https://en.wikipedia.org/wiki/AlexNet#:~:text=AlexNet%20is%20the%20name%20of,D.
 
 # LeNet
 https://en.wikipedia.org/wiki/LeNet
+
+# Bag of Words
+https://en.wikipedia.org/wiki/Bag-of-words_model
