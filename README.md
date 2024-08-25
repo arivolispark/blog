@@ -1184,3 +1184,6 @@ https://www.analyticsvidhya.com/blog/2022/06/stemming-vs-lemmatization-in-nlp-mu
 
 # Vader
 https://medium.com/@rslavanyageetha/vader-a-comprehensive-guide-to-sentiment-analysis-in-python-c4f1868b0d2e
+
+# Gated Recurrent Unit (GRU)
+https://medium.com/@anishnama20/understanding-gated-recurrent-unit-gru-in-deep-learning-2e54923f3e2
