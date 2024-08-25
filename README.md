@@ -1179,3 +1179,6 @@ https://en.wikipedia.org/wiki/Tf%E2%80%93idf
 
 # Stemming vs Lemmatization
 https://www.analyticsvidhya.com/blog/2022/06/stemming-vs-lemmatization-in-nlp-must-know-differences/
+
+# Vader
+https://medium.com/@rslavanyageetha/vader-a-comprehensive-guide-to-sentiment-analysis-in-python-c4f1868b0d2e
