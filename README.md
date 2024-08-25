@@ -1176,3 +1176,6 @@ https://en.wikipedia.org/wiki/Bag-of-words_model
 
 # TF-IDF
 https://en.wikipedia.org/wiki/Tf%E2%80%93idf
+
+# Stemming vs Lemmatization
+https://www.analyticsvidhya.com/blog/2022/06/stemming-vs-lemmatization-in-nlp-must-know-differences/
