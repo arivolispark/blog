@@ -1187,3 +1187,6 @@ https://medium.com/@rslavanyageetha/vader-a-comprehensive-guide-to-sentiment-ana
 
 # Gated Recurrent Unit (GRU)
 https://medium.com/@anishnama20/understanding-gated-recurrent-unit-gru-in-deep-learning-2e54923f3e2
+
+# Sequence to Sequence Learning with Neural Networks
+https://arxiv.org/abs/1409.3215
