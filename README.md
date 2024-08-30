@@ -1211,3 +1211,8 @@ https://paperswithcode.com/task/document-layout-analysis
 
 # Spacy NER models
 https://spacy.io/models/en
+
+# en_core_web_trf
+https://spacy.io/models/en#en_core_web_trf
+
+This is one of the best models, even better than the large model ( https://spacy.io/models/en#en_core_web_lg ).
