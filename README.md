@@ -1199,3 +1199,6 @@ https://pymupdf.readthedocs.io/en/latest/
 
 # Spacy - Industrial-Strength Natural Language Processing
 https://spacy.io/
+
+# Optical Character Recognition (OCR)
+Used to extract text from images
