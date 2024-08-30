@@ -1216,3 +1216,8 @@ https://spacy.io/models/en
 https://spacy.io/models/en#en_core_web_trf
 
 This is one of the best models, even better than the large model ( https://spacy.io/models/en#en_core_web_lg ).
+
+# Concurrent futures
+https://docs.python.org/3/library/concurrent.futures.html
+
+This is for parallel processing.
