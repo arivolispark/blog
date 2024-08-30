@@ -1190,3 +1190,12 @@ https://medium.com/@anishnama20/understanding-gated-recurrent-unit-gru-in-deep-l
 
 # Sequence to Sequence Learning with Neural Networks
 https://arxiv.org/abs/1409.3215
+
+# pdfplumber
+https://github.com/jsvine/pdfplumber
+
+# pymupdf
+https://pymupdf.readthedocs.io/en/latest/
+
+# Spacy - Industrial-Strength Natural Language Processing
+https://spacy.io/
