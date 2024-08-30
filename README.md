@@ -1208,3 +1208,6 @@ https://github.com/py-pdf/benchmarks
 
 # Document layout analysis
 https://paperswithcode.com/task/document-layout-analysis
+
+# Spacy NER models
+https://spacy.io/models/en
