@@ -1202,3 +1202,6 @@ https://spacy.io/
 
 # Optical Character Recognition (OCR)
 Used to extract text from images
+
+# PDF parsing benchmarking
+https://github.com/py-pdf/benchmarks
