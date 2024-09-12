@@ -1221,3 +1221,6 @@ This is one of the best models, even better than the large model ( https://spacy
 https://docs.python.org/3/library/concurrent.futures.html
 
 This is for parallel processing.
+
+# ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
+https://www.microsoft.com/en-us/research/publication/zero-memory-optimizations-toward-training-trillion-parameter-models/
