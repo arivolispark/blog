@@ -1224,3 +1224,6 @@ This is for parallel processing.
 
 # ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
 https://www.microsoft.com/en-us/research/publication/zero-memory-optimizations-toward-training-trillion-parameter-models/
+
+# FullyShardedDataParallel
+https://pytorch.org/docs/stable/fsdp.html
