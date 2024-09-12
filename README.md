@@ -1227,3 +1227,15 @@ https://www.microsoft.com/en-us/research/publication/zero-memory-optimizations-t
 
 # FullyShardedDataParallel
 https://pytorch.org/docs/stable/fsdp.html
+
+# GloVe: Global Vectors for Word Representation
+https://nlp.stanford.edu/projects/glove/
+
+https://nlp.stanford.edu/pubs/glove.pdf
+
+# GloVe Twitter Pickles 27B - 25d, 50d, 100d, 200d
+https://www.kaggle.com/datasets/robertyoung/glove-twitter-pickles-27b-25d-50d-100d-200d
+
+# Spline regression
+https://joshua-nugent.github.io/splines/
+
