@@ -1244,3 +1244,6 @@ https://www.swebench.com/
 
 # Community.AWS
 https://community.aws/
+
+# Clean code
+https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
