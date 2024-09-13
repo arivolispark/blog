@@ -1241,3 +1241,6 @@ https://joshua-nugent.github.io/splines/
 
 # SWE-bench
 https://www.swebench.com/
+
+# Community.AWS
+https://community.aws/
