@@ -1239,3 +1239,5 @@ https://www.kaggle.com/datasets/robertyoung/glove-twitter-pickles-27b-25d-50d-10
 # Spline regression
 https://joshua-nugent.github.io/splines/
 
+# SWE-bench
+https://www.swebench.com/
