@@ -1257,7 +1257,8 @@ https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
 | Phase 3 | BERT
 
 
-# NLP
+# BERT variants
+https://www.oreilly.com/library/view/getting-started-with/9781838821593/1ea7cd82-74c8-4a9e-8462-40b657ea25ca.xhtml
 
 | Phase # | Name | Name2
 | --- | --- | ---
