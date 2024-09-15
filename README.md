@@ -1261,7 +1261,5 @@ https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
 
 | Phase # | Name | Name2
 | --- | --- | ---
-| Phase 1 | Word embeddings, Seq2SEQ |
-| Phase 2 | Transformers |
-| Phase 3 | BERT |
+| RoBERTa | Word embeddings, Seq2SEQ |
 
