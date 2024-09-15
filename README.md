@@ -1247,3 +1247,12 @@ https://community.aws/
 
 # Clean code
 https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
+
+# NLP
+
+| Phase # | Name
+| --- | ---
+| Phase 1 | Word embeddings, Seq2SEQ
+| Phase 2 | Transformers
+| Phase 3 | BERT
+
