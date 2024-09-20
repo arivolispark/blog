@@ -1264,3 +1264,5 @@ https://www.oreilly.com/library/view/getting-started-with/9781838821593/1ea7cd82
 | --- | --- | ---
 | RoBERTa | Word embeddings, Seq2SEQ |
 
+# Image denoising
+https://blogs.nvidia.com/blog/what-is-denoising/
