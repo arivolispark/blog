@@ -1269,3 +1269,6 @@ https://blogs.nvidia.com/blog/what-is-denoising/
 
 # Teacher forcing
 https://en.wikipedia.org/wiki/Teacher_forcing#:~:text=Teacher%20forcing%20is%20an%20algorithm,to%20the%20ground%2Dtruth%20sequence.
+
+# Milvus integrations overview
+https://milvus.io/docs/integrations_overview.md
