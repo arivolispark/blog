@@ -1274,8 +1274,8 @@ https://en.wikipedia.org/wiki/Teacher_forcing#:~:text=Teacher%20forcing%20is%20a
 https://milvus.io/docs/integrations_overview.md
 
 # Common Dimensionality reduction techniques
-1. Principal Component Analysis (PCA)
-2. t-Distributed Stochastic Neighbor Embedding (t-SNE)
+1. Principal Component Analysis (PCA):  This is a linear technique
+2. t-Distributed Stochastic Neighbor Embedding (t-SNE):  This is a non-linear technique
 
 
 https://encord.com/blog/dimentionality-reduction-techniques-machine-learning/?utm_content=ai_after_hours
