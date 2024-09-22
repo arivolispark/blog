@@ -1272,3 +1272,11 @@ https://en.wikipedia.org/wiki/Teacher_forcing#:~:text=Teacher%20forcing%20is%20a
 
 # Milvus integrations overview
 https://milvus.io/docs/integrations_overview.md
+
+# Common Dimensionality reduction techniques
+1. Principal Component Analysis (PCA)
+2. t-Distributed Stochastic Neighbor Embedding (t-SNE)
+
+
+https://encord.com/blog/dimentionality-reduction-techniques-machine-learning/?utm_content=ai_after_hours
+
