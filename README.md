@@ -1282,3 +1282,6 @@ https://encord.com/blog/dimentionality-reduction-techniques-machine-learning/?ut
 
 # Categorical features
 The one-hot encoding is a technique used to get the categorical features.
+
+# OneHot Encoder
+https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html
