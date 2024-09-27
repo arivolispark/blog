@@ -1291,3 +1291,11 @@ https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEn
 | Tabular data | Unstructured data
 | --- | ---
 | PCA shines | Autoencoders shine
+
+
+# Books
+
+| Name | Links
+| --- | ---
+| Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python 2nd Edition | https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X/ref=sr_1_3?crid=HEJOG5OYPDWW&dib=eyJ2IjoiMSJ9.TTQpo8vDYIs4jEAPwOmsUFrJLjrsvK7VJiengkEAe0yI74vd2PDOaAnigzARp21uUgmFVISvP_XnL14i3yafzRhA0IsemGbN_Bes_uecT3zmzzddazzW8_bai5PmFjN2WMr5bvMzU6HMURguCydG0OMrR0fWmszcYH4ijtxRE1dyJSKlncVBVQs3H7Je8AbUFfXL90LBdf06I1pcVpHg_RKVA36OyHS2iWA1omQjn-c.u9Bv6RKBwMnMcg082sSzYxRAU1NVxUEubg6ZBPZlhQc&dib_tag=se&keywords=data+science+statistics&qid=1727404734&sprefix=data+science+statistcis%2Caps%2C144&sr=8-3
+| Deep Learning with PyTorch: Build, train, and tune neural networks using Python tools First Edition | https://www.amazon.com/Deep-Learning-PyTorch-Eli-Stevens/dp/1617295264/ref=sr_1_1?crid=DA4IR5QERCAJ&dib=eyJ2IjoiMSJ9.3POOWD5GBKrBpQ2PYjynMAUYWeHHfMJ5cLmhyey3MDa9MZPbdNDZYCedjSxSFEgvZ5v_WJt9hHQdsjjjF1dBIHwWv2Z2l8iJL1D_G0PLh-AFpo1ZVWKP__27qXgh0LQbgI1Xm-Ezqaej9EHIaPov_nnx0qztVuhQFjrcP94hoiwcMmEcQa-fU0oBzZPtE3Ek_6Q-A9PMOjP7bxgVB2sS2PF1sqU7n4QaNkP_NLF0aig.y1KSLZ4JudUw6aSOUjVczewcrP9J1IMFva33dxptuMo&dib_tag=se&keywords=deep+learning+in+pytorch&qid=1727404845&sprefix=deep+learning+in+pytorch%2Caps%2C129&sr=8-1
