@@ -1287,5 +1287,7 @@ The one-hot encoding is a technique used to get the categorical features.
 https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html
 
 # PCA, Autoencoders
-For tabular data, PCA shines.
-For Unstructured data, Autoencoders shine.
+
+| Tabular data | Unstructured data
+| --- | ---
+| PCA shines | Autoencoders shine
