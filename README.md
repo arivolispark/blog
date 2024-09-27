@@ -1280,3 +1280,5 @@ https://milvus.io/docs/integrations_overview.md
 
 https://encord.com/blog/dimentionality-reduction-techniques-machine-learning/?utm_content=ai_after_hours
 
+# Categorical features
+The one-hot encoding is a technique used to get the categorical features.
