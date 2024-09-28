@@ -1310,3 +1310,29 @@ https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&r
 
 # Reinforcement Learning By Groundhog Day
 https://medium.com/codex/reinforcement-learning-by-groundhog-day-b82e897391fe
+
+# Machine Learning, Deep Learning
+## Concepts
+1. What is overfitting?
+2. What is regularization?
+3. What kind of activation function is recommended for a given XYZ situation?
+
+## Machine Learning
+1. Supervised learning
+    1. Regression and classification
+2. Unsupervised learning
+    1. Clustering
+3. Reinforced learning
+    1. Deep learning
+  
+## Activate function
+1. Why activation function?
+
+### Common activation functions:
+More than one activation functions can be used in an end-to-end architecture.
+
+1. ReLU (typically used in intermediate hidden layer)
+2. Leaky ReLU (typically used in intermediate hidden layer)
+3. Sigmoid (typically used in output layer)
+4. Tanh (typically used in output layer)
+5. Softmax
