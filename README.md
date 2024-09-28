@@ -1303,3 +1303,7 @@ https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEn
 | Natural Language Processing in Action, Second Edition 2nd ed. Edition | https://www.amazon.com/dp/1617299448/?coliid=IDCDTLL3E3GK&colid=1XBOIQKTQVQKC&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it
 | Real-World Natural Language Processing: Practical applications with deep learning | https://www.amazon.com/Real-World-Natural-Language-Processing-applications/dp/1617296422/ref=sr_1_5?crid=2QVET3PWMZUT5&dib=eyJ2IjoiMSJ9.VwZZcT6Q7GnKHIqh0wUIWyQqoVkczU47viHw1rB-anvfUtkQ3PoF4_T9bw7moFU920wGHKKcBQGj67DCF6bdkI9THuEYuduUrIv-RKgP1RsgrQtkX6U5fJ3ajNKiY77UBYZ4FwLyZbSGMFZCPuLsxwIccNfhZHzqKfkHKrZPf91Ptagy2ti44eyDYJ2tWRJKs4eNZ9_C9i1FSUr3ZLwDbw4DGBrBpau9ZueJIJYftGI.C-Bhy5FAbi_Jr4FFUu9FTMFYlqTCY0nBN98JPZuKpWI&dib_tag=se&keywords=natural+language+processing+manning&qid=1727405067&s=books&sprefix=natural+language+processing+manning%2Cstripbooks%2C118&sr=1-5
 | Neural Networks and Deep Learning: A Textbook Second Edition 2023 | https://www.amazon.com/dp/3031296419/?coliid=IWDM9VTHOCLKI&colid=1XBOIQKTQVQKC&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it
+
+
+# Tensorflow playground
+https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.35661&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
