@@ -1336,3 +1336,11 @@ More than one activation functions can be used in an end-to-end architecture.
 3. Sigmoid (typically used in output layer)
 4. Tanh (typically used in output layer)
 5. Softmax
+
+
+# NLP
+
+One Hot encoding => TF IDF => Word2Vec
+
+1. Bag of Words
+2. TF IDF
