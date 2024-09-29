@@ -1295,6 +1295,11 @@ https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEn
 
 # Books
 
+1. *Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python 2nd Edition*
+
+https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X/ref=sr_1_3?crid=HEJOG5OYPDWW&dib=eyJ2IjoiMSJ9.TTQpo8vDYIs4jEAPwOmsUFrJLjrsvK7VJiengkEAe0yI74vd2PDOaAnigzARp21uUgmFVISvP_XnL14i3yafzRhA0IsemGbN_Bes_uecT3zmzzddazzW8_bai5PmFjN2WMr5bvMzU6HMURguCydG0OMrR0fWmszcYH4ijtxRE1dyJSKlncVBVQs3H7Je8AbUFfXL90LBdf06I1pcVpHg_RKVA36OyHS2iWA1omQjn-c.u9Bv6RKBwMnMcg082sSzYxRAU1NVxUEubg6ZBPZlhQc&dib_tag=se&keywords=data+science+statistics&qid=1727404734&sprefix=data+science+statistcis%2Caps%2C144&sr=8-3
+ 
+3.  
 | Name | Links
 | --- | ---
 | Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python 2nd Edition | https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X/ref=sr_1_3?crid=HEJOG5OYPDWW&dib=eyJ2IjoiMSJ9.TTQpo8vDYIs4jEAPwOmsUFrJLjrsvK7VJiengkEAe0yI74vd2PDOaAnigzARp21uUgmFVISvP_XnL14i3yafzRhA0IsemGbN_Bes_uecT3zmzzddazzW8_bai5PmFjN2WMr5bvMzU6HMURguCydG0OMrR0fWmszcYH4ijtxRE1dyJSKlncVBVQs3H7Je8AbUFfXL90LBdf06I1pcVpHg_RKVA36OyHS2iWA1omQjn-c.u9Bv6RKBwMnMcg082sSzYxRAU1NVxUEubg6ZBPZlhQc&dib_tag=se&keywords=data+science+statistics&qid=1727404734&sprefix=data+science+statistcis%2Caps%2C144&sr=8-3
