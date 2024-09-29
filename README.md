@@ -1358,3 +1358,11 @@ https://huggingface.co/docs/transformers/en/model_doc/distilbert
 
 # Trainer
 https://huggingface.co/docs/transformers/en/main_classes/trainer
+
+# Label Studio
+https://labelstud.io/
+
+https://labelstud.io/blog/object-detection-with-yolov8/
+
+# Ultralytics
+https://github.com/ultralytics/ultralytics
