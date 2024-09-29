@@ -1351,3 +1351,12 @@ One Hot encoding => TF IDF => Word2Vec
 
 1. Bag of Words
 2. TF IDF
+
+
+# DistilBERT
+https://huggingface.co/docs/transformers/en/model_doc/distilbert
+
+# Trainer
+https://huggingface.co/docs/transformers/en/main_classes/trainer
+
+
