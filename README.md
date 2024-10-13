@@ -1366,3 +1366,6 @@ https://labelstud.io/blog/object-detection-with-yolov8/
 
 # Ultralytics
 https://github.com/ultralytics/ultralytics
+
+# Conversational Agents (Dialogflow CX) documentation
+https://cloud.google.com/dialogflow/cx/docs
