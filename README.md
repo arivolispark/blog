@@ -1369,3 +1369,6 @@ https://github.com/ultralytics/ultralytics
 
 # Conversational Agents (Dialogflow CX) documentation
 https://cloud.google.com/dialogflow/cx/docs
+
+# Chain of Thought (CoT) prompting
+https://www.promptingguide.ai/techniques/cot
