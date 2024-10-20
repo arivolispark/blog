@@ -1310,6 +1310,7 @@ https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1492072
 | Neural Networks and Deep Learning: A Textbook Second Edition 2023 | https://www.amazon.com/dp/3031296419/?coliid=IWDM9VTHOCLKI&colid=1XBOIQKTQVQKC&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it
 | Deep Learning with PyTorch: Build, train, and tune neural networks using Python tools First Edition | https://www.amazon.com/Deep-Learning-PyTorch-Eli-Stevens/dp/1617295264
 |  | https://github.com/borninfreedom/DeepLearning/blob/master/Books/Deep-Learning-with-PyTorch.pdf
+| Build a Large Language Model (From Scratch) | 
 
 
 # Tensorflow playground
