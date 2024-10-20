@@ -1379,3 +1379,9 @@ https://www.promptingguide.ai/techniques/cot
 | --- | ---
 | Input = text, Output = embedding | Input = text, Output = text
 |                                  | eg:  GPT
+
+# Beam Search
+https://www.geeksforgeeks.org/introduction-to-beam-search-algorithm/
+
+# Foundations of NLP Explained Visually: Beam Search, How It Works
+https://towardsdatascience.com/foundations-of-nlp-explained-visually-beam-search-how-it-works-1586b9849a24
