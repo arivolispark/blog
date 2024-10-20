@@ -1372,3 +1372,10 @@ https://cloud.google.com/dialogflow/cx/docs
 
 # Chain of Thought (CoT) prompting
 https://www.promptingguide.ai/techniques/cot
+
+# Encoder - Decoder models
+
+| Encoder-only models | Decoder-only models
+| --- | ---
+| Input = text, Output = embedding | Input = text, Output = text
+|                                  | eg:  GPT
