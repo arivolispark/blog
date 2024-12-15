@@ -1400,3 +1400,7 @@ https://en.wikipedia.org/wiki/Proximal_policy_optimization
 
 # P-tuning
 https://huggingface.co/docs/peft/en/package_reference/p_tuning
+
+# Parameter-Efficient Fine-Tuning (PEFT) methods
+https://github.com/huggingface/peft
+
