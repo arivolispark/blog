@@ -1386,3 +1386,8 @@ https://www.geeksforgeeks.org/introduction-to-beam-search-algorithm/
 
 # Foundations of NLP Explained Visually: Beam Search, How It Works
 https://towardsdatascience.com/foundations-of-nlp-explained-visually-beam-search-how-it-works-1586b9849a24
+
+# RLHF
+https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback
+
+
