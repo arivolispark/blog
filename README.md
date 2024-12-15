@@ -1404,3 +1404,5 @@ https://huggingface.co/docs/peft/en/package_reference/p_tuning
 # Parameter-Efficient Fine-Tuning (PEFT) methods
 https://github.com/huggingface/peft
 
+# Fine-Tune Your Own Llama 2 Model in a Colab Notebook
+https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/2.Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.ipynb
