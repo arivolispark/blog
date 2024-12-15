@@ -1395,4 +1395,8 @@ KL divergence.
 
 https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
 
+# Proximal policy optimization
+https://en.wikipedia.org/wiki/Proximal_policy_optimization
 
+# P-tuning
+https://huggingface.co/docs/peft/en/package_reference/p_tuning
