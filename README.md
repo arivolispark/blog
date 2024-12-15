@@ -1390,4 +1390,9 @@ https://towardsdatascience.com/foundations-of-nlp-explained-visually-beam-search
 # RLHF
 https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback
 
+# How to compare two distributions?
+KL divergence.
+
+https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
+
 
