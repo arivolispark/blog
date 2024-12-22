@@ -1415,3 +1415,6 @@ In diffusion models, the process of adding and removing noise can be viewed as a
 1. States – Different stages of the image (from clear to noisy)
 2. Transition – Adding/removing noise in small steps over time
 3. Reversibility – Diffusion models reverse the Markov chain to reconstruct data
+
+# Langevin_equation
+https://en.wikipedia.org/wiki/Langevin_equation
