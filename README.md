@@ -1427,3 +1427,6 @@ https://arxiv.org/pdf/2010.11929
 
 2. *DINOv2: Learning Robust Visual Features without Supervision*
 https://arxiv.org/pdf/2304.07193
+
+# InfoNCE
+https://paperswithcode.com/method/infonce
