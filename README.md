@@ -1430,3 +1430,6 @@ https://arxiv.org/pdf/2304.07193
 
 # InfoNCE
 https://paperswithcode.com/method/infonce
+
+# Visual Language Model (VLM)
+https://huggingface.co/blog/vlms
