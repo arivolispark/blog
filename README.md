@@ -1418,3 +1418,6 @@ In diffusion models, the process of adding and removing noise can be viewed as a
 
 # Langevin_equation
 https://en.wikipedia.org/wiki/Langevin_equation
+
+# DINOv2: Learning Robust Visual Features without Supervision
+https://arxiv.org/pdf/2304.07193
