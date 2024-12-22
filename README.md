@@ -1419,9 +1419,11 @@ In diffusion models, the process of adding and removing noise can be viewed as a
 # Langevin_equation
 https://en.wikipedia.org/wiki/Langevin_equation
 
-# Papers for Inage recognition at scale
+# Papers for Image encoders at scale
+The idea is to supply an Image as input and produce embeddings as output.
+
 1. An Image is worth 16x16 words:  Transformers for image recognition at scale
 https://arxiv.org/pdf/2010.11929
 
-3. DINOv2: Learning Robust Visual Features without Supervision
+2. DINOv2: Learning Robust Visual Features without Supervision
 https://arxiv.org/pdf/2304.07193
