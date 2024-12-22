@@ -1406,3 +1406,11 @@ https://github.com/huggingface/peft
 
 # P-tuning
 https://huggingface.co/docs/peft/en/package_reference/p_tuning
+
+# Markov chain
+A Markov Chain is a mathematical system that undergoes transitions from one state to another, where the next state depends only on the current state (not the entire history). This property is known as the Markov property.
+
+In diffusion models, the process of adding and removing noise can be viewed as a Markov chain where:
+    1. States – Different stages of the image (from clear to noisy)
+    2. Transition – Adding/removing noise in small steps over time
+    3. Reversibility – Diffusion models reverse the Markov chain to reconstruct data
