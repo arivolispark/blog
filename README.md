@@ -1422,8 +1422,8 @@ https://en.wikipedia.org/wiki/Langevin_equation
 # Papers for Image encoders at scale
 The idea is to supply an Image as input and produce embeddings as output.
 
-1. An Image is worth 16x16 words:  Transformers for image recognition at scale
+1. *An Image is worth 16x16 words:  Transformers for image recognition at scale*
 https://arxiv.org/pdf/2010.11929
 
-2. DINOv2: Learning Robust Visual Features without Supervision
+2. *DINOv2: Learning Robust Visual Features without Supervision*
 https://arxiv.org/pdf/2304.07193
