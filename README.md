@@ -1451,3 +1451,6 @@ https://arxiv.org/pdf/2010.11929
 
 # Log 
 Log is a monotonously increasing function
+
+# Byte_pair_encoding
+https://en.wikipedia.org/wiki/Byte_pair_encoding
