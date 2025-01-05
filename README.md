@@ -1454,3 +1454,6 @@ Log is a monotonously increasing function
 
 # Byte_pair_encoding
 https://en.wikipedia.org/wiki/Byte_pair_encoding
+
+# Softmax
+Softmax will take every row and changes the entries so that they sum up to 1.
