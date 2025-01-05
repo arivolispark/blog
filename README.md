@@ -1442,3 +1442,6 @@ https://en.wikipedia.org/wiki/Multivariate_normal_distribution
 
 # Ilya_Sutskever
 https://en.wikipedia.org/wiki/Ilya_Sutskever
+
+# CLIP (Contrastive Language-Image Pre-Training)
+https://huggingface.co/docs/transformers/en/model_doc/clip
