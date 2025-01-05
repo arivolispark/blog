@@ -1436,3 +1436,6 @@ https://paperswithcode.com/method/infonce
 
 # Reparameterization trick
 https://en.wikipedia.org/wiki/Reparameterization_trick
+
+# Multivariate_normal_distribution
+https://en.wikipedia.org/wiki/Multivariate_normal_distribution
