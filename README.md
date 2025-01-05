@@ -1439,3 +1439,6 @@ https://en.wikipedia.org/wiki/Reparameterization_trick
 
 # Multivariate_normal_distribution
 https://en.wikipedia.org/wiki/Multivariate_normal_distribution
+
+# Ilya_Sutskever
+https://en.wikipedia.org/wiki/Ilya_Sutskever
