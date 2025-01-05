@@ -1433,3 +1433,6 @@ https://huggingface.co/blog/vlms
 
 # InfoNCE
 https://paperswithcode.com/method/infonce
+
+# Reparameterization trick
+https://en.wikipedia.org/wiki/Reparameterization_trick
