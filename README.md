@@ -1460,3 +1460,6 @@ Softmax will take every row and changes the entries so that they sum up to 1.
 
 # Self attention vs Cross attention
 https://www.linkedin.com/posts/damienbenveniste_what-is-the-difference-between-self-attention-activity-7211029906166624257-m0Wn/
+
+# Byte_pair_encoding
+https://en.wikipedia.org/wiki/Byte_pair_encoding
