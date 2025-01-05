@@ -1445,3 +1445,6 @@ https://en.wikipedia.org/wiki/Ilya_Sutskever
 
 # CLIP (Contrastive Language-Image Pre-Training)
 https://huggingface.co/docs/transformers/en/model_doc/clip
+
+# AN IMAGE IS WORTH 16X16 WORDS:  TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE
+https://arxiv.org/pdf/2010.11929
