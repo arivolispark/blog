@@ -1408,6 +1408,7 @@ https://github.com/huggingface/peft
 https://huggingface.co/docs/peft/en/package_reference/p_tuning
 
 # Markov chain
+https://en.wikipedia.org/wiki/Markov_decision_process
 A Markov Chain is a mathematical system that undergoes transitions from one state to another, where the next state depends only on the current state (not the entire history). This property is known as the Markov property.
 
 In diffusion models, the process of adding and removing noise can be viewed as a Markov chain where:
