@@ -1467,3 +1467,6 @@ https://en.wikipedia.org/wiki/Byte_pair_encoding
 
 # Bellman_equation
 https://en.wikipedia.org/wiki/Bellman_equation
+
+# Epsilon greedy strategy
+https://www.geeksforgeeks.org/epsilon-greedy-algorithm-in-reinforcement-learning/
