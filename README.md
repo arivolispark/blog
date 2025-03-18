@@ -1470,3 +1470,8 @@ https://en.wikipedia.org/wiki/Bellman_equation
 
 # Epsilon greedy strategy
 https://www.geeksforgeeks.org/epsilon-greedy-algorithm-in-reinforcement-learning/
+
+# Markov Decision Process (MDP)
+https://www.geeksforgeeks.org/markov-decision-process/
+
+
