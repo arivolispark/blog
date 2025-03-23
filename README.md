@@ -1474,4 +1474,17 @@ https://www.geeksforgeeks.org/epsilon-greedy-algorithm-in-reinforcement-learning
 # Markov Decision Process (MDP)
 https://www.geeksforgeeks.org/markov-decision-process/
 
+# Transformers
+Transformers are:
+1. encoders and decoders
+2. get a sequence of tokens as inputs and output a sequence of tokens
+3. has attention (encoders and decoders have attention)
+
+## Why attention
+1. context aware
+2. parallelism is possible:  more hardware can be thrown for efficiency (which helps in low latency -> upto a point)
+
+ 
+4. 
+
 
