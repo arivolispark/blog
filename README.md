@@ -1485,6 +1485,5 @@ Transformers are:
 2. parallelism is possible:  more hardware can be thrown for efficiency (which helps in low latency -> upto a point)
 
  
-4. 
-
-
+# MLflow vs Comet
+https://www.restack.io/docs/mlflow-knowledge-mlflow-vs-comet-comparison
