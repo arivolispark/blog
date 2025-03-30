@@ -1490,3 +1490,8 @@ https://www.restack.io/docs/mlflow-knowledge-mlflow-vs-comet-comparison
 
 # MCP servers and Agentic AI
 https://generativeai.pub/mcp-servers-explained-python-and-agentic-ai-tool-integration-aa2ddca6cbe5
+
+# Q Learning
+Q learning can be used for TicTacToe or Chess.  It can not be used in Autonomous driving.  
+
+Typically, Q learning is used for smaller problem.  Policy gradient is used for larger problem.
