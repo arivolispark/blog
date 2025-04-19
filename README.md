@@ -1499,3 +1499,6 @@ Typically, Q learning is used for smaller problem.  Policy gradient is used for 
 # Github Copilot
 
 https://github.com/features/copilot?ef_id=_k_CjwKCAjwwe2_BhBEEiwAM1I7sVvhkgs5IzVVX5dK9djZirpSYcWtUEaFZeT3E1Z7t8Ca3DJTElWXgxoCC2oQAvD_BwE_k_&OCID=AIDcmmb150vbv1_SEM__k_CjwKCAjwwe2_BhBEEiwAM1I7sVvhkgs5IzVVX5dK9djZirpSYcWtUEaFZeT3E1Z7t8Ca3DJTElWXgxoCC2oQAvD_BwE_k_&gad_source=1&gclid=CjwKCAjwwe2_BhBEEiwAM1I7sVvhkgs5IzVVX5dK9djZirpSYcWtUEaFZeT3E1Z7t8Ca3DJTElWXgxoCC2oQAvD_BwE
+
+# Awesome MCP servers
+https://github.com/punkpeye/awesome-mcp-servers
