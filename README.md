@@ -1502,3 +1502,6 @@ https://github.com/features/copilot?ef_id=_k_CjwKCAjwwe2_BhBEEiwAM1I7sVvhkgs5IzV
 
 # Awesome MCP servers
 https://github.com/punkpeye/awesome-mcp-servers
+
+# Kedro
+https://docs.kedro.org/en/stable/introduction/index.html
