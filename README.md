@@ -1505,3 +1505,6 @@ https://github.com/punkpeye/awesome-mcp-servers
 
 # Kedro
 https://docs.kedro.org/en/stable/introduction/index.html
+
+# Papermill
+https://netflixtechblog.com/scheduling-notebooks-348e6c14cfd6
