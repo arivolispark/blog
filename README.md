@@ -1514,3 +1514,6 @@ GPT uses around ~1.76 Trillion parameters
 
 # Neural Networks 
 https://mlu-explain.github.io/neural-networks/
+
+# Lex Fridman Podcast
+DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast #459
