@@ -1508,3 +1508,6 @@ https://docs.kedro.org/en/stable/introduction/index.html
 
 # Papermill
 https://netflixtechblog.com/scheduling-notebooks-348e6c14cfd6
+
+# Number of parameters GPT
+GPT uses around ~1.76 Trillion parameters
