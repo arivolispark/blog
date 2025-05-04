@@ -1513,6 +1513,8 @@ https://netflixtechblog.com/scheduling-notebooks-348e6c14cfd6
 GPT uses around ~1.76 Trillion parameters
 
 # Neural Networks 
+https://mlu-explain.github.io/
+
 https://mlu-explain.github.io/neural-networks/
 
 # Lex Fridman Podcast
