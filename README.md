@@ -1519,3 +1519,6 @@ https://mlu-explain.github.io/neural-networks/
 
 # Lex Fridman Podcast
 DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast #459
+
+# Prompt Engineering - Google white paper
+https://www.kaggle.com/whitepaper-prompt-engineering
