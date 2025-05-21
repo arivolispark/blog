@@ -1522,3 +1522,6 @@ DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex 
 
 # Prompt Engineering - Google white paper
 https://www.kaggle.com/whitepaper-prompt-engineering
+
+# Amazon Q Dev
+https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html
