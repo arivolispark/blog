@@ -1528,3 +1528,6 @@ https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html
 
 # anthropic-claude-4-opus-sonnet-amazon-bedrock
 https://www.aboutamazon.com/news/aws/anthropic-claude-4-opus-sonnet-amazon-bedrock?utm_source=ecsocial&utm_medium=linkedin&utm_term=11
+
+# AGNTCY
+https://agntcy.org/
