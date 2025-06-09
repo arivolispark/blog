@@ -1531,3 +1531,6 @@ https://www.aboutamazon.com/news/aws/anthropic-claude-4-opus-sonnet-amazon-bedro
 
 # AGNTCY
 https://agntcy.org/
+
+# A2A
+https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/
