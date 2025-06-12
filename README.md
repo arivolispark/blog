@@ -1534,3 +1534,6 @@ https://agntcy.org/
 
 # A2A
 https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/
+
+# MCP Servers are not safe!
+https://medium.com/data-science-in-your-pocket/mcp-servers-are-not-safe-bfbc2bb7aef8
