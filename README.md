@@ -1536,7 +1536,11 @@ https://agntcy.org/
 https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/
 
 # MCP Servers are not safe!
-https://medium.com/data-science-in-your-pocket/mcp-servers-are-not-safe-bfbc2bb7aef8
+https://medium.com/data-science-in-your-pocket/mcp-servers-are-not-safe-bfbc2bb7aef8@
+
+
+https://www.linkedin.com/posts/goyalshalini_confused-between-ml-nlp-generative-and-activity-7338814838044872704-eEgc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABnXL8B3rVGKTDwu3DrnCDElC94Xerv0Cg
+
 
 # Lakeflow Designer: No-Code ETL, Powered by the Databricks Intelligence Platform
 https://www.databricks.com/blog/announcing-lakeflow-designer-no-code-etl
