@@ -1549,3 +1549,6 @@ https://www.databricks.com/blog/announcing-lakeflow-designer-no-code-etl
 https://www.linkedin.com/posts/moabukar_devops-interviewtips-linux-activity-7338934071525343233-Rr30?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABnXL8B3rVGKTDwu3DrnCDElC94Xerv0Cg
 
 ![DevOps cheatsheet](assets/DevOps_commands_cheatsheet.jpeg)
+
+# The Illusion of the Illusion of Thinking A Comment on Shojaee et al. (2025)
+https://arxiv.org/html/2506.09250v1
