@@ -1550,6 +1550,9 @@ https://www.linkedin.com/posts/moabukar_devops-interviewtips-linux-activity-7338
 
 ![DevOps cheatsheet](assets/DevOps_commands_cheatsheet.jpeg)
 
+# The Illusion of Thinking
+https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf
+
 # The Illusion of the Illusion of Thinking 
 A Comment on Shojaee et al. (2025)
 https://arxiv.org/html/2506.09250v1
