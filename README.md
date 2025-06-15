@@ -1544,3 +1544,6 @@ https://www.linkedin.com/posts/goyalshalini_confused-between-ml-nlp-generative-a
 
 # Lakeflow Designer: No-Code ETL, Powered by the Databricks Intelligence Platform
 https://www.databricks.com/blog/announcing-lakeflow-designer-no-code-etl
+
+# DevOps commands cheatsheet
+https://www.linkedin.com/posts/moabukar_devops-interviewtips-linux-activity-7338934071525343233-Rr30?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABnXL8B3rVGKTDwu3DrnCDElC94Xerv0Cg
