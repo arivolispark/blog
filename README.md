@@ -1559,3 +1559,6 @@ https://arxiv.org/html/2506.09250v1
 
 # Anthropic:  How we built our multi-agent research system
 https://www.anthropic.com/engineering/built-multi-agent-research-system
+
+# CL4R1T4S
+https://github.com/elder-plinius/CL4R1T4S
