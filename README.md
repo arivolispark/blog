@@ -1556,3 +1556,6 @@ https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf
 # The Illusion of the Illusion of Thinking 
 A Comment on Shojaee et al. (2025)
 https://arxiv.org/html/2506.09250v1
+
+# Anthropic:  How we built our multi-agent research system
+https://www.anthropic.com/engineering/built-multi-agent-research-system
