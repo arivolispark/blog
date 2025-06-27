@@ -1560,5 +1560,8 @@ https://arxiv.org/html/2506.09250v1
 # Anthropic:  How we built our multi-agent research system
 https://www.anthropic.com/engineering/built-multi-agent-research-system
 
+# Amazon Q CLI
+https://www.linkedin.com/posts/aaronedell_genai-agents-codegen-activity-7343082810003378178-CyyO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABnXL8B3rVGKTDwu3DrnCDElC94Xerv0Cg
+
 # CL4R1T4S
 https://github.com/elder-plinius/CL4R1T4S
