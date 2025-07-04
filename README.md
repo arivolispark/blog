@@ -1566,5 +1566,5 @@ https://www.linkedin.com/posts/aaronedell_genai-agents-codegen-activity-73430828
 # CL4R1T4S
 https://github.com/elder-plinius/CL4R1T4S
 
-# https://medium.com/@the_manoj_desai/the-power-duo-how-a2a-mcp-let-you-build-practical-ai-systems-today-9c19064b027b
+# The Power Duo: How A2A + MCP Let You Build Practical AI Systems Today
 https://medium.com/@the_manoj_desai/the-power-duo-how-a2a-mcp-let-you-build-practical-ai-systems-today-9c19064b027b
