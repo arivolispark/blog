@@ -1575,6 +1575,5 @@ https://www.linkedin.com/posts/hamna-aslam-kahn_this-guy-used-one-ai-prompt-to-r
 # A2A Explained
 https://www.youtube.com/watch?v=Sl9EZpE61xA&t=2s
 
-# 
+# Model Context Protocol Clearly Explained | MCP Beyond the Hype
 https://www.youtube.com/watch?v=tzrwxLNHtRY
-
