@@ -1578,5 +1578,5 @@ https://www.youtube.com/watch?v=Sl9EZpE61xA&t=2s
 # Model Context Protocol Clearly Explained | MCP Beyond the Hype
 https://www.youtube.com/watch?v=tzrwxLNHtRY
 
-# 
+# FastAPI tutorial
 https://fastapi.tiangolo.com/tutorial/first-steps/
