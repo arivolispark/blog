@@ -1580,3 +1580,6 @@ https://www.youtube.com/watch?v=tzrwxLNHtRY
 
 # FastAPI tutorial
 https://fastapi.tiangolo.com/tutorial/first-steps/
+
+#
+https://gyliu513.medium.com/building-an-open-agent-framework-with-openai-compatible-apis-a2a-and-mcp-533bee1bfcca
