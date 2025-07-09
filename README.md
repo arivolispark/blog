@@ -1585,3 +1585,4 @@ https://fastapi.tiangolo.com/tutorial/first-steps/
 https://gyliu513.medium.com/building-an-open-agent-framework-with-openai-compatible-apis-a2a-and-mcp-533bee1bfcca
 
 # How to build MCP server in python using FastAPI
+https://medium.com/@miki_45906/how-to-build-mcp-server-in-python-using-fastapi-d3efbcb3da3a
