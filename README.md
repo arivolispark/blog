@@ -1586,3 +1586,6 @@ https://gyliu513.medium.com/building-an-open-agent-framework-with-openai-compati
 
 # How to build MCP server in python using FastAPI
 https://medium.com/@miki_45906/how-to-build-mcp-server-in-python-using-fastapi-d3efbcb3da3a
+
+# 
+https://medium.com/@elisowski/agntcy-explained-how-it-compares-to-mcp-and-a2a-in-the-ai-agent-ecosystem-5523ff4e1db7
