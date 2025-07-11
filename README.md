@@ -1590,5 +1590,5 @@ https://medium.com/@miki_45906/how-to-build-mcp-server-in-python-using-fastapi-d
 # AGNTCY Explained: How It Compares to MCP and A2A in the AI Agent Ecosystem
 https://medium.com/@elisowski/agntcy-explained-how-it-compares-to-mcp-and-a2a-in-the-ai-agent-ecosystem-5523ff4e1db7
 
-#
+# A2A with MCP as Registry
 https://github.com/a2aproject/a2a-samples/tree/main/samples/python/agents/a2a_mcp
