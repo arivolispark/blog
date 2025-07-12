@@ -1592,3 +1592,5 @@ https://medium.com/@elisowski/agntcy-explained-how-it-compares-to-mcp-and-a2a-in
 
 # A2A with MCP as Registry
 https://github.com/a2aproject/a2a-samples/tree/main/samples/python/agents/a2a_mcp
+
+# Building an AI-Powered Study Assistant with MCP, CrewAI, and Streamlit
