@@ -1594,3 +1594,4 @@ https://medium.com/@elisowski/agntcy-explained-how-it-compares-to-mcp-and-a2a-in
 https://github.com/a2aproject/a2a-samples/tree/main/samples/python/agents/a2a_mcp
 
 # Building an AI-Powered Study Assistant with MCP, CrewAI, and Streamlit
+https://medium.com/the-ai-forum/building-an-ai-powered-study-assistant-with-mcp-crewai-and-streamlit-2a3d51d53b38
