@@ -1596,6 +1596,5 @@ https://github.com/a2aproject/a2a-samples/tree/main/samples/python/agents/a2a_mc
 # Building an AI-Powered Study Assistant with MCP, CrewAI, and Streamlit
 https://medium.com/the-ai-forum/building-an-ai-powered-study-assistant-with-mcp-crewai-and-streamlit-2a3d51d53b38
 
+# Building a Multi-Agent Chatbot with Gemini 2.0 for ServiceNow, Jira, and Confluence
 https://bgiri-gcloud.medium.com/building-a-multi-agent-chatbot-with-gemini-2-0-for-servicenow-jira-and-confluence-a3243ee4517b
-#Building a Multi-Agent Chatbot with Gemini 2.0 for ServiceNow, Jira, and Confluence
-
