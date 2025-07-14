@@ -1601,3 +1601,6 @@ https://bgiri-gcloud.medium.com/building-a-multi-agent-chatbot-with-gemini-2-0-f
 
 # Build Production MCP Agents Without Claude Desktop
 https://medium.com/@the_manoj_desai/build-production-mcp-agents-without-claude-desktop-65ec39e168fb
+
+# Kiro
+https://kiro.dev/
