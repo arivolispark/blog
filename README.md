@@ -1598,3 +1598,5 @@ https://medium.com/the-ai-forum/building-an-ai-powered-study-assistant-with-mcp-
 
 # Building a Multi-Agent Chatbot with Gemini 2.0 for ServiceNow, Jira, and Confluence
 https://bgiri-gcloud.medium.com/building-a-multi-agent-chatbot-with-gemini-2-0-for-servicenow-jira-and-confluence-a3243ee4517b
+
+# Build Production MCP Agents Without Claude Desktop
