@@ -1604,3 +1604,6 @@ https://medium.com/@the_manoj_desai/build-production-mcp-agents-without-claude-d
 
 # Kiro
 https://kiro.dev/
+
+# Understanding the MCP Workflow: Building a Local MCP client using Ollama and LangChain MCP adapters
+
