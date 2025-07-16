@@ -1609,3 +1609,4 @@ https://kiro.dev/
 https://medium.com/the-ai-forum/understanding-the-mcp-workflow-building-a-local-mcp-client-using-ollama-and-langchain-mcp-5997b8a5fded
 
 # The complete guide to building MCP Agents
+https://levelup.gitconnected.com/the-complete-guide-to-building-mcp-agents-ec877f30136d
