@@ -1607,3 +1607,5 @@ https://kiro.dev/
 
 # Understanding the MCP Workflow: Building a Local MCP client using Ollama and LangChain MCP adapters
 https://medium.com/the-ai-forum/understanding-the-mcp-workflow-building-a-local-mcp-client-using-ollama-and-langchain-mcp-5997b8a5fded
+
+# The complete guide to building MCP Agents
