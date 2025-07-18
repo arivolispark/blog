@@ -1610,3 +1610,6 @@ https://medium.com/the-ai-forum/understanding-the-mcp-workflow-building-a-local-
 
 # The complete guide to building MCP Agents
 https://levelup.gitconnected.com/the-complete-guide-to-building-mcp-agents-ec877f30136d
+
+# Building Tool-Calling Agents with RAG in LangGraph
+
