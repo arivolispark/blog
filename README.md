@@ -1619,3 +1619,7 @@ https://ai.plainenglish.io/rag-as-a-tool-in-langgraph-agents-a6797cbf1d48
 
 # Building an Intelligent AWS Cloud Engineer Agent with Strands Agents SDK
 https://aws.plainenglish.io/building-an-intelligent-aws-cloud-engineer-agent-with-strands-agents-sdk-13d5a003c8be
+
+# MCP
+## 1. 12 MCP Servers You Can Use in 2025
+https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7352362961673306114-Ri3o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABnXL8B3rVGKTDwu3DrnCDElC94Xerv0Cg
