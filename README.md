@@ -1151,7 +1151,10 @@ https://github.com/lnugraha/trimap_generator
 https://www.cis.upenn.edu/~jshi/ped_html/
 
 # Siamese networks
+https://en.wikipedia.org/wiki/Siamese_neural_network
+
 https://www.analyticsvidhya.com/blog/2023/08/introduction-and-implementation-of-siamese-networks/
+
 
 # Popular Similarity measures
 https://dataaspirant.com/five-most-popular-similarity-measures-implementation-in-python/
