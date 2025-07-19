@@ -1630,5 +1630,5 @@ https://pypi.org/project/pytesseract/
 # StatQuest
 https://www.youtube.com/@statquest
 
-## StatQuest: Principal Component Analysis (PCA), Step-by-Step
+## 1. StatQuest: Principal Component Analysis (PCA), Step-by-Step
 https://www.youtube.com/watch?v=FgakZw6K1QQ
