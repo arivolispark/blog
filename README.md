@@ -1623,3 +1623,6 @@ https://aws.plainenglish.io/building-an-intelligent-aws-cloud-engineer-agent-wit
 # MCP
 ## 1. 12 MCP Servers You Can Use in 2025
 https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7352362961673306114-Ri3o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABnXL8B3rVGKTDwu3DrnCDElC94Xerv0Cg
+
+# pytesseract
+https://pypi.org/project/pytesseract/
