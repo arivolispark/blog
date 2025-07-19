@@ -1626,3 +1626,9 @@ https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-acti
 
 # pytesseract
 https://pypi.org/project/pytesseract/
+
+# StatQuest
+https://www.youtube.com/@statquest
+
+## StatQuest: Principal Component Analysis (PCA), Step-by-Step
+https://www.youtube.com/watch?v=FgakZw6K1QQ
