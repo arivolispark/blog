@@ -1613,3 +1613,5 @@ https://levelup.gitconnected.com/the-complete-guide-to-building-mcp-agents-ec877
 
 # Building Tool-Calling Agents with RAG in LangGraph
 https://ai.plainenglish.io/rag-as-a-tool-in-langgraph-agents-a6797cbf1d48
+
+# Building an Intelligent AWS Cloud Engineer Agent with Strands Agents SDK
