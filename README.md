@@ -1635,3 +1635,6 @@ https://www.youtube.com/watch?v=FgakZw6K1QQ
 
 # labelImg
 https://pypi.org/project/labelImg/
+
+# Application Tracking Software (ATS)
+https://www.indeed.com/hire/c/info/what-is-ats?gad_source=1&gclid=CjwKCAjwp_LDBhBCEiwAK7FnklSESujBR9MnYC6wa0HPCxABcOhqFe0BNFVIwSmvvpl2Il0tNDjOZRoCfqcQAvD_BwE&gad_campaignid=696031637&hl=en&gbraid=0AAAAADfh6_t-1F1GQLhqun6pY4M6ckSyO&aceid=&co=US&gclsrc=aw.ds
