@@ -1641,3 +1641,5 @@ https://www.indeed.com/hire/c/info/what-is-ats?gad_source=1&gclid=CjwKCAjwp_LDBh
 
 # Bounding boxes examples by Meta
 https://segment-anything.com/
+
+# Demystifying Amazon Q, Kiro, and Strands
