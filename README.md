@@ -1643,3 +1643,4 @@ https://www.indeed.com/hire/c/info/what-is-ats?gad_source=1&gclid=CjwKCAjwp_LDBh
 https://segment-anything.com/
 
 # Demystifying Amazon Q, Kiro, and Strands
+https://www.linkedin.com/pulse/demystifying-amazon-q-kiro-strands-bharanendra-nallamotu-py6pc/
