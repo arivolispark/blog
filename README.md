@@ -1646,4 +1646,4 @@ https://segment-anything.com/
 https://www.linkedin.com/pulse/demystifying-amazon-q-kiro-strands-bharanendra-nallamotu-py6pc/
 
 # AWS Strands Agents: Building and Connecting Your First Model Context Protocol (MCP) Server
-
+https://aws.plainenglish.io/aws-strands-agents-building-and-connecting-your-first-model-context-protocol-mcp-server-5b987d508d4d
