@@ -1644,3 +1644,6 @@ https://segment-anything.com/
 
 # Demystifying Amazon Q, Kiro, and Strands
 https://www.linkedin.com/pulse/demystifying-amazon-q-kiro-strands-bharanendra-nallamotu-py6pc/
+
+# AWS Strands Agents: Building and Connecting Your First Model Context Protocol (MCP) Server
+
