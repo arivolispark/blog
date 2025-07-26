@@ -1649,3 +1649,4 @@ https://www.linkedin.com/pulse/demystifying-amazon-q-kiro-strands-bharanendra-na
 https://aws.plainenglish.io/aws-strands-agents-building-and-connecting-your-first-model-context-protocol-mcp-server-5b987d508d4d
 
 # Amazon Bedrock AgentCore Explained
+https://medium.com/@servifyspheresolutions/amazon-bedrock-agentcore-explained-51ff42ca68c0
