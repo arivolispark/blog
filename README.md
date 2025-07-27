@@ -1652,3 +1652,4 @@ https://aws.plainenglish.io/aws-strands-agents-building-and-connecting-your-firs
 https://medium.com/@servifyspheresolutions/amazon-bedrock-agentcore-explained-51ff42ca68c0
 
 # Building a Learning Coach AI: Generating Personalised Curricula and Curated Resources with LLM Agents
+https://ai.gopubby.com/building-a-learning-coach-ai-generating-personalised-curricula-and-curated-resources-with-llm-9b82fee7129a
