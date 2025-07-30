@@ -1661,3 +1661,4 @@ https://medium.com/data-science/evaluating-rag-applications-with-ragas-81d67b0ee
 https://amazon-berkeley-objects.s3.amazonaws.com/index.html
 
 # https://github.com/awslabs
+https://github.com/awslabs/amazon-bedrock-agent-samples
