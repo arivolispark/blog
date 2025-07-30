@@ -1664,3 +1664,6 @@ https://amazon-berkeley-objects.s3.amazonaws.com/index.html
 https://github.com/awslabs/amazon-bedrock-agent-samples
 
 https://github.com/awslabs/amazon-bedrock-agentcore-samples/
+
+# repos
+https://www.linkedin.com/posts/shivam-shrivastava-ab6404179_%F0%9D%9F%AD%F0%9D%9F%AC-%F0%9D%97%9A%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%9B%F0%9D%98%82%F0%9D%97%AF-%F0%9D%97%A5%F0%9D%97%B2%F0%9D%97%BD%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%B6%F0%9D%97%B2%F0%9D%98%80-activity-7354477880136908801-dniE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABnXL8B3rVGKTDwu3DrnCDElC94Xerv0Cg
