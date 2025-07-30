@@ -1662,3 +1662,5 @@ https://amazon-berkeley-objects.s3.amazonaws.com/index.html
 
 # https://github.com/awslabs
 https://github.com/awslabs/amazon-bedrock-agent-samples
+
+https://github.com/awslabs/amazon-bedrock-agentcore-samples/
