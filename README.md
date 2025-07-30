@@ -1659,3 +1659,5 @@ https://medium.com/data-science/evaluating-rag-applications-with-ragas-81d67b0ee
 
 # Amazon Berkeley Objects (ABO) Dataset
 https://amazon-berkeley-objects.s3.amazonaws.com/index.html
+
+# https://github.com/awslabs
