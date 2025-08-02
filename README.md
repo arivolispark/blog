@@ -1670,3 +1670,6 @@ https://www.linkedin.com/posts/shivam-shrivastava-ab6404179_%F0%9D%9F%AD%F0%9D%9
 
 # LangGraph Tutorial - How to Build Advanced AI Agent Systems
 https://www.youtube.com/watch?v=1w5cCXlh7JQ
+
+# AWS Labs MCP servers
+https://awslabs.github.io/mcp/
