@@ -1673,3 +1673,9 @@ https://www.youtube.com/watch?v=1w5cCXlh7JQ
 
 # AWS Labs MCP servers
 https://awslabs.github.io/mcp/
+
+# AI killed PowerPoint
+https://www.linkedin.com/posts/vikas-singh-546643206_al-just-killed-powerpoint-no-more-endless-activity-7354118234540855296-wt5z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABnXL8B3rVGKTDwu3DrnCDElC94Xerv0Cg
+
+Power Point
+1987-2025
