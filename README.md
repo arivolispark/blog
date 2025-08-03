@@ -1679,3 +1679,5 @@ https://www.linkedin.com/posts/vikas-singh-546643206_al-just-killed-powerpoint-n
 
 Power Point
 1987-2025
+
+# Bedrock Agentcore
