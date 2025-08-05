@@ -1682,3 +1682,6 @@ Power Point
 
 # Bedrock Agentcore
 https://aws.amazon.com/bedrock/agentcore/
+
+#
+https://www.langchain.com/langgraph
