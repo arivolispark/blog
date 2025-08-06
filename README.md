@@ -1687,3 +1687,4 @@ https://aws.amazon.com/bedrock/agentcore/
 https://www.langchain.com/langgraph
 
 # Building AI Workflows with FastAPI and LangGraph (Step-by-Step Guide)
+https://pub.towardsai.net/building-ai-workflows-with-fastapi-and-langgraph-step-by-step-guide-599937ab84f3
