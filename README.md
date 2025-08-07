@@ -1690,3 +1690,4 @@ https://www.langchain.com/langgraph
 https://pub.towardsai.net/building-ai-workflows-with-fastapi-and-langgraph-step-by-step-guide-599937ab84f3
 
 # Building your first production-ready AI agent with Amazon Bedrock AgentCore | AWS Show & Tell
+https://www.youtube.com/watch?v=wzIQDPFQx30
