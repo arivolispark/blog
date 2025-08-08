@@ -1693,3 +1693,4 @@ https://pub.towardsai.net/building-ai-workflows-with-fastapi-and-langgraph-step-
 https://www.youtube.com/watch?v=wzIQDPFQx30
 
 # Zero to One: Learning Agentic Patterns
+https://www.philschmid.de/agentic-pattern
