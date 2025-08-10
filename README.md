@@ -1701,5 +1701,5 @@ https://github.com/neural-maze/agentic-patterns-course
 # Build dynamic web research agents with the Strands Agents SDK and Tavily
 https://aws.amazon.com/blogs/machine-learning/build-dynamic-web-research-agents-with-the-strands-agents-sdk-and-tavily/
 
-#
+# Amazon Nova Reel 1.1: Featuring up to 2-minutes multi-shot videos
 https://aws.amazon.com/blogs/aws/amazon-nova-reel-1-1-featuring-up-to-2-minutes-multi-shot-videos/
