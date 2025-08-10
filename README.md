@@ -1699,4 +1699,4 @@ https://www.philschmid.de/agentic-pattern
 https://github.com/neural-maze/agentic-patterns-course
 
 # Build dynamic web research agents with the Strands Agents SDK and Tavily
-
+https://aws.amazon.com/blogs/machine-learning/build-dynamic-web-research-agents-with-the-strands-agents-sdk-and-tavily/
