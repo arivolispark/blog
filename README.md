@@ -1697,3 +1697,6 @@ https://www.philschmid.de/agentic-pattern
 
 # Agentic Patterns using groq
 https://github.com/neural-maze/agentic-patterns-course
+
+# Build dynamic web research agents with the Strands Agents SDK and Tavily
+
