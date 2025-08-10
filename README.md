@@ -1705,3 +1705,4 @@ https://aws.amazon.com/blogs/machine-learning/build-dynamic-web-research-agents-
 https://aws.amazon.com/blogs/aws/amazon-nova-reel-1-1-featuring-up-to-2-minutes-multi-shot-videos/
 
 # Amazon Bedrock Agentcore samples
+https://github.com/awslabs/amazon-bedrock-agentcore-samples
