@@ -1708,3 +1708,4 @@ https://aws.amazon.com/blogs/aws/amazon-nova-reel-1-1-featuring-up-to-2-minutes-
 https://github.com/awslabs/amazon-bedrock-agentcore-samples
 
 # Amazon Bedrock AgentCore Explained
+https://medium.com/@servifyspheresolutions/amazon-bedrock-agentcore-explained-51ff42ca68c0
