@@ -1711,3 +1711,4 @@ https://github.com/awslabs/amazon-bedrock-agentcore-samples
 https://medium.com/@servifyspheresolutions/amazon-bedrock-agentcore-explained-51ff42ca68c0
 
 # 7 Practical Design Patterns for Agentic Systems
+https://www.mongodb.com/resources/basics/artificial-intelligence/agentic-systems
