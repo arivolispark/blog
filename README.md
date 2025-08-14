@@ -1714,4 +1714,4 @@ https://medium.com/@servifyspheresolutions/amazon-bedrock-agentcore-explained-51
 https://www.mongodb.com/resources/basics/artificial-intelligence/agentic-systems
 
 # [Session] MCP vs ACP vs A2A: Comparing Agent Protocols with Laurie Voss from LlamaIndex
-
+https://www.youtube.com/watch?v=kqB_xML1SfA
