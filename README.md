@@ -1712,3 +1712,6 @@ https://medium.com/@servifyspheresolutions/amazon-bedrock-agentcore-explained-51
 
 # 7 Practical Design Patterns for Agentic Systems
 https://www.mongodb.com/resources/basics/artificial-intelligence/agentic-systems
+
+# [Session] MCP vs ACP vs A2A: Comparing Agent Protocols with Laurie Voss from LlamaIndex
+
