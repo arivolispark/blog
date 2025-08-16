@@ -1718,3 +1718,5 @@ https://www.youtube.com/watch?v=kqB_xML1SfA
 
 # Building Production-Ready MCP Workflows with Amazon Bedrock AgentCore Gateway
 https://medium.com/@wael-saideni/building-production-ready-mcp-workflows-with-amazon-bedrock-agentcore-gateway-d8386db65df3
+
+# SearchRelevantContent
