@@ -1723,3 +1723,4 @@ https://medium.com/@wael-saideni/building-production-ready-mcp-workflows-with-am
 https://docs.aws.amazon.com/amazonq/latest/api-reference/API_SearchRelevantContent.html
 
 # Kagent: When AI Agents Meet Kubernetes
+https://medium.com/craine-operators-blog/kagent-when-ai-agents-meet-kubernetes-ac84da909ef5
