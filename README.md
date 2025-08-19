@@ -1724,3 +1724,6 @@ https://docs.aws.amazon.com/amazonq/latest/api-reference/API_SearchRelevantConte
 
 # Kagent: When AI Agents Meet Kubernetes
 https://medium.com/craine-operators-blog/kagent-when-ai-agents-meet-kubernetes-ac84da909ef5
+
+# ‘We’ll be history’: ‘Godfather of AI’ says AI might destroy humanity - the one thing that could save us is…
+
