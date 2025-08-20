@@ -1729,3 +1729,4 @@ https://medium.com/craine-operators-blog/kagent-when-ai-agents-meet-kubernetes-a
 https://www.livemint.com/technology/tech-news/well-be-history-godfather-of-ai-geoffrey-hinton-says-ai-might-destroy-humanity-the-one-thing-that-could-save-us-11755230126298.html
 
 # Getting started with Bedrock AgentCore Runtime
+https://heeki.medium.com/getting-started-with-bedrock-agentcore-runtime-3eaae1f517cc
