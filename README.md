@@ -1727,3 +1727,5 @@ https://medium.com/craine-operators-blog/kagent-when-ai-agents-meet-kubernetes-a
 
 # ‘We’ll be history’: ‘Godfather of AI’ says AI might destroy humanity - the one thing that could save us is…
 https://www.livemint.com/technology/tech-news/well-be-history-godfather-of-ai-geoffrey-hinton-says-ai-might-destroy-humanity-the-one-thing-that-could-save-us-11755230126298.html
+
+# Getting started with Bedrock AgentCore Runtime
