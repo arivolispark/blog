@@ -1730,3 +1730,6 @@ https://www.livemint.com/technology/tech-news/well-be-history-godfather-of-ai-ge
 
 # Getting started with Bedrock AgentCore Runtime
 https://heeki.medium.com/getting-started-with-bedrock-agentcore-runtime-3eaae1f517cc
+
+# Why Amazon is Quietly Abandoning the Cloud
+
