@@ -1735,3 +1735,4 @@ https://heeki.medium.com/getting-started-with-bedrock-agentcore-runtime-3eaae1f5
 https://techpreneurr.medium.com/why-amazon-is-quietly-abandoning-the-cloud-11a6691d5967
 
 # Developer experience customization and centralized guidance using Amazon Bedrock
+https://github.com/aws-samples/serverless-samples/tree/main/apigw-ai-agents
