@@ -1736,3 +1736,6 @@ https://techpreneurr.medium.com/why-amazon-is-quietly-abandoning-the-cloud-11a66
 
 # Developer experience customization and centralized guidance using Amazon Bedrock
 https://github.com/aws-samples/serverless-samples/tree/main/apigw-ai-agents
+
+# 
+https://a2a-protocol.org/latest/tutorials/python/3-agent-skills-and-card/
