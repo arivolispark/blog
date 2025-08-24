@@ -1739,3 +1739,6 @@ https://github.com/aws-samples/serverless-samples/tree/main/apigw-ai-agents
 
 # A2A - Agent skills card
 https://a2a-protocol.org/latest/tutorials/python/3-agent-skills-and-card/
+
+# Launching a Strands Agent using Bedrock AgentCore Runtime
+
