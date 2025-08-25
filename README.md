@@ -1742,3 +1742,5 @@ https://a2a-protocol.org/latest/tutorials/python/3-agent-skills-and-card/
 
 # Launching a Strands Agent using Bedrock AgentCore Runtime
 https://www.youtube.com/watch?v=-H6teCGBYuQ
+
+# Anthropic quickstarts
