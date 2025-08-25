@@ -1744,3 +1744,4 @@ https://a2a-protocol.org/latest/tutorials/python/3-agent-skills-and-card/
 https://www.youtube.com/watch?v=-H6teCGBYuQ
 
 # Anthropic quickstarts
+https://github.com/anthropics/anthropic-quickstarts
