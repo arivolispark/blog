@@ -1745,3 +1745,6 @@ https://www.youtube.com/watch?v=-H6teCGBYuQ
 
 # Anthropic quickstarts
 https://github.com/anthropics/anthropic-quickstarts
+
+# MCP Quickstart
+https://modelcontextprotocol.io/quickstart/
