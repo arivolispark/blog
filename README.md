@@ -1748,3 +1748,6 @@ https://github.com/anthropics/anthropic-quickstarts
 
 # MCP Quickstart
 https://modelcontextprotocol.io/quickstart/
+
+#
+https://github.com/awslabs/mcp/tree/main/src
