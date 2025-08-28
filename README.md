@@ -1751,3 +1751,5 @@ https://modelcontextprotocol.io/quickstart/
 
 # AWS MCP Servers
 https://github.com/awslabs/mcp/tree/main/src
+
+# MCP with KB
