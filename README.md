@@ -1754,3 +1754,5 @@ https://github.com/awslabs/mcp/tree/main/src
 
 # MCP with KB
 https://github.com/awslabs/mcp/tree/main/samples/mcp-integration-with-kb
+
+# Kiro MCP
