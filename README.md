@@ -1762,3 +1762,4 @@ https://kiro.dev/docs/mcp/
 https://composio.dev/blog/gemini-cli-vs-claude-code-the-better-coding-agent
 
 # Using AWS Strands with Ollama
+https://medium.com/techbull/using-aws-strands-with-ollama-0cba83009a2b
