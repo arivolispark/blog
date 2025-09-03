@@ -1766,3 +1766,6 @@ https://medium.com/techbull/using-aws-strands-with-ollama-0cba83009a2b
 
 # Using AWS Strands with Ollama
 https://medium.com/techbull/using-aws-strands-with-ollama-0cba83009a2b
+
+# Getting Started with AWS Bedrock AgentCore : Part 1
+
