@@ -1769,3 +1769,5 @@ https://medium.com/techbull/using-aws-strands-with-ollama-0cba83009a2b
 
 # Getting Started with AWS Bedrock AgentCore : Part 1
 https://aws.plainenglish.io/getting-started-with-aws-bedrock-agentcore-part-1-5a63836674ea
+
+# AI for technical design and documentation
