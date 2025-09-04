@@ -1772,3 +1772,5 @@ https://aws.plainenglish.io/getting-started-with-aws-bedrock-agentcore-part-1-5a
 
 # AI for technical design and documentation
 https://www.eraser.io/
+
+# Leveraging Amazon Q Developer CLI and Strands Agent for Fantasy Football Agentic AI
