@@ -1775,3 +1775,6 @@ https://www.eraser.io/
 
 # Leveraging Amazon Q Developer CLI and Strands Agent for Fantasy Football Agentic AI
 https://elesin-olalekan.medium.com/leveraging-amazon-q-developer-cli-and-strands-agent-for-fantasy-football-agentic-ai-364408940e16
+
+#
+https://strandsagents.com/latest/documentation/docs/user-guide/deploy/deploy_to_amazon_eks/
