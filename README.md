@@ -1778,3 +1778,6 @@ https://elesin-olalekan.medium.com/leveraging-amazon-q-developer-cli-and-strands
 
 # Deploying Strands Agents SDK Agents to Amazon EKS
 https://strandsagents.com/latest/documentation/docs/user-guide/deploy/deploy_to_amazon_eks/
+
+#
+https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-agentcore-gateway-transforming-enterprise-ai-agent-tool-development/
