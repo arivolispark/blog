@@ -1783,3 +1783,4 @@ https://strandsagents.com/latest/documentation/docs/user-guide/deploy/deploy_to_
 https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-agentcore-gateway-transforming-enterprise-ai-agent-tool-development/
 
 # Build an AI PDF Search Engine in a Weekend (Python, FAISS, RAG — Full Code)
+https://pub.towardsai.net/build-an-ai-pdf-search-engine-in-a-weekend-python-faiss-rag-full-code-b6edb33f8e89
