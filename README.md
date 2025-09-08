@@ -1781,3 +1781,5 @@ https://strandsagents.com/latest/documentation/docs/user-guide/deploy/deploy_to_
 
 # Introducing Amazon Bedrock AgentCore Gateway: Transforming enterprise AI agent tool development
 https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-agentcore-gateway-transforming-enterprise-ai-agent-tool-development/
+
+# Build an AI PDF Search Engine in a Weekend (Python, FAISS, RAG — Full Code)
