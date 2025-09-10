@@ -1789,3 +1789,4 @@ https://pub.towardsai.net/build-an-ai-pdf-search-engine-in-a-weekend-python-fais
 https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/preview?tab=t.0#heading=h.pxcur8v2qagu
 
 # Agentic Design Patterns Part 1
+https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance/
