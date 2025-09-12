@@ -1795,3 +1795,4 @@ https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance/
 https://medium.com/@moussab.kobisy/stop-debating-copilot-vs-cursor-aws-kiro-is-here-to-rewrite-the-ai-ide-rulebook-f14dfe7bf774
 
 # Cursor vs Claude Code and vibe coding
+https://medium.com/jonathans-musings/cursor-vs-claude-code-and-vibe-coding-e13788042a17
