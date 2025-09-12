@@ -1793,3 +1793,5 @@ https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance/
 
 # Stop Debating Copilot vs. Cursor, AWS Kiro Is Here to Rewrite the AI IDE Rulebook
 https://medium.com/@moussab.kobisy/stop-debating-copilot-vs-cursor-aws-kiro-is-here-to-rewrite-the-ai-ide-rulebook-f14dfe7bf774
+
+# Cursor vs Claude Code and vibe coding
