@@ -1798,4 +1798,4 @@ https://medium.com/@moussab.kobisy/stop-debating-copilot-vs-cursor-aws-kiro-is-h
 https://medium.com/jonathans-musings/cursor-vs-claude-code-and-vibe-coding-e13788042a17
 
 # Terraform + MCP: Your Fast Track to Smarter, Faster Infrastructure
-
+https://medium.com/genusoftechnology/terraform-mcp-your-fast-track-to-smarter-faster-infrastructure-3b343a1b1cef
