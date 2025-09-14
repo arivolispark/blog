@@ -1801,3 +1801,4 @@ https://medium.com/jonathans-musings/cursor-vs-claude-code-and-vibe-coding-e1378
 https://medium.com/genusoftechnology/terraform-mcp-your-fast-track-to-smarter-faster-infrastructure-3b343a1b1cef
 
 # Confluence + Bedrock KnowledgeBase + OpenSearch Serverless: Console & CDK
+https://medium.com/aws-tip/confluence-bedrock-knowledgebase-opensearch-serverless-console-cdk-93ec05abe8ce
