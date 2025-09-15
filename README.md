@@ -1802,3 +1802,9 @@ https://medium.com/genusoftechnology/terraform-mcp-your-fast-track-to-smarter-fa
 
 # Confluence + Bedrock KnowledgeBase + OpenSearch Serverless: Console & CDK
 https://medium.com/aws-tip/confluence-bedrock-knowledgebase-opensearch-serverless-console-cdk-93ec05abe8ce
+
+# A Cloud Security Platform
+https://asecure.cloud/
+
+# Strands + Lambda
+https://strandsagents.com/latest/documentation/docs/user-guide/deploy/deploy_to_aws_lambda/
