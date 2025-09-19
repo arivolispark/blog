@@ -1817,3 +1817,6 @@ https://kiro.dev/docs/steering/
 
 # aws-cost-explorer-mcp-server
 https://github.com/aarora79/aws-cost-explorer-mcp-server
+
+# Hands on LangGraph — Building a multi agent assistant
+
