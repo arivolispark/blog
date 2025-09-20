@@ -1820,3 +1820,5 @@ https://github.com/aarora79/aws-cost-explorer-mcp-server
 
 # Hands on LangGraph — Building a multi agent assistant
 https://medium.com/@lucas.dahan/hands-on-langgraph-building-a-multi-agent-assistant-06aa68ed942f
+
+# Amazon Bedrock Agent & AgentCore | Deploy Bedrock Agent to Talk to Your k8s Cluster using MCP Server
