@@ -1823,3 +1823,6 @@ https://medium.com/@lucas.dahan/hands-on-langgraph-building-a-multi-agent-assist
 
 # Amazon Bedrock Agent & AgentCore | Deploy Bedrock Agent to Talk to Your k8s Cluster using MCP Server
 https://www.youtube.com/watch?v=fimJXVPcYXk
+
+# Deploying Strands Agents SDK Agents to Amazon EKS¶
+
