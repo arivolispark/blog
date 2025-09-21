@@ -1825,4 +1825,4 @@ https://medium.com/@lucas.dahan/hands-on-langgraph-building-a-multi-agent-assist
 https://www.youtube.com/watch?v=fimJXVPcYXk
 
 # Deploying Strands Agents SDK Agents to Amazon EKS¶
-
+https://strandsagents.com/latest/documentation/docs/user-guide/deploy/deploy_to_amazon_eks/
