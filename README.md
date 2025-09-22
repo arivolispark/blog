@@ -1826,3 +1826,6 @@ https://www.youtube.com/watch?v=fimJXVPcYXk
 
 # Deploying Strands Agents SDK Agents to Amazon EKS¶
 https://strandsagents.com/latest/documentation/docs/user-guide/deploy/deploy_to_amazon_eks/
+
+# MCP vs ACP vs A2A: Comparing Agent Protocols with Laurie Voss from LlamaIndex
+
