@@ -1828,4 +1828,4 @@ https://www.youtube.com/watch?v=fimJXVPcYXk
 https://strandsagents.com/latest/documentation/docs/user-guide/deploy/deploy_to_amazon_eks/
 
 # MCP vs ACP vs A2A: Comparing Agent Protocols with Laurie Voss from LlamaIndex
-
+https://www.youtube.com/watch?v=kqB_xML1SfA&list=PLjULwdJUtFdigAsQ_GMzcPyXaZOeLG04L&index=3
