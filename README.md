@@ -1834,3 +1834,4 @@ https://www.youtube.com/watch?v=kqB_xML1SfA&list=PLjULwdJUtFdigAsQ_GMzcPyXaZOeLG
 https://www.youtube.com/watch?v=XreKuebKpaA&list=PLjULwdJUtFdigAsQ_GMzcPyXaZOeLG04L&index=4
 
 # Next Generation Agent Architectures with MCP with Darren Shepherd from Acorn Labs
+https://www.youtube.com/watch?v=z4vgc3lFMYM&list=PLjULwdJUtFdigAsQ_GMzcPyXaZOeLG04L&index=5
