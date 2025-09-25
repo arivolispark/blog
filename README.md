@@ -1837,3 +1837,4 @@ https://www.youtube.com/watch?v=XreKuebKpaA&list=PLjULwdJUtFdigAsQ_GMzcPyXaZOeLG
 https://www.youtube.com/watch?v=z4vgc3lFMYM&list=PLjULwdJUtFdigAsQ_GMzcPyXaZOeLG04L&index=5
 
 # Davis AI
+https://www.dynatrace.com/platform/artificial-intelligence/
