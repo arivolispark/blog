@@ -1838,3 +1838,6 @@ https://www.youtube.com/watch?v=z4vgc3lFMYM&list=PLjULwdJUtFdigAsQ_GMzcPyXaZOeLG
 
 # Davis AI
 https://www.dynatrace.com/platform/artificial-intelligence/
+
+#
+https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/browser-building-agents.html
