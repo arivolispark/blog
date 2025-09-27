@@ -1841,3 +1841,5 @@ https://www.dynatrace.com/platform/artificial-intelligence/
 
 # Browser agent
 https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/browser-building-agents.html
+
+# Market Trends Agent
