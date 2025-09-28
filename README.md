@@ -1846,3 +1846,4 @@ https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/browser-building-a
 https://github.com/awslabs/amazon-bedrock-agentcore-samples/tree/main/02-use-cases/market-trends-agent
 
 # Amazon Bedrock AgentCore Onboarding
+https://github.com/aws-samples/sample-amazon-bedrock-agentcore-onboarding
