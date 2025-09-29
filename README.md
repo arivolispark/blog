@@ -1849,4 +1849,4 @@ https://github.com/awslabs/amazon-bedrock-agentcore-samples/tree/main/02-use-cas
 https://github.com/aws-samples/sample-amazon-bedrock-agentcore-onboarding
 
 # Building 17 Agentic AI Patterns and Their Role in Large-Scale AI Systems
-
+https://levelup.gitconnected.com/building-17-agentic-ai-patterns-and-their-role-in-large-scale-ai-systems-f4915b5615ce
