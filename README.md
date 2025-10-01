@@ -1853,3 +1853,5 @@ https://levelup.gitconnected.com/building-17-agentic-ai-patterns-and-their-role-
 
 # GitHub Copilot CLI (Public Preview)
 https://github.com/github/copilot-cli
+
+# Build Agentic Video RAG with Strands Agents and Containerized Infrastructure
