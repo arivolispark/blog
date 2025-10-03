@@ -1862,3 +1862,5 @@ https://github.com/github/spec-kit
 
 # Powering AI commerce with the new Agent Payments Protocol (AP2)
 https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol
+
+# AWS Lambda as MCP Tools: AWS Lambda MCP Server vs AgentCore Gateway
