@@ -1861,3 +1861,4 @@ https://builder.aws.com/content/33CRY7pz3IIKCtTYqeezk48A4tg/build-agentic-video-
 https://github.com/github/spec-kit
 
 # Powering AI commerce with the new Agent Payments Protocol (AP2)
+https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol
