@@ -1865,3 +1865,5 @@ https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-
 
 # AWS Lambda as MCP Tools: AWS Lambda MCP Server vs AgentCore Gateway
 https://awstip.com/aws-lambda-as-mcp-tools-aws-lambda-mcp-server-vs-agentcore-gateway-495999063932
+
+# Claude Code 2.0: Coding Has NEVER Been This Easy
