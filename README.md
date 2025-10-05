@@ -1867,3 +1867,4 @@ https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-
 https://awstip.com/aws-lambda-as-mcp-tools-aws-lambda-mcp-server-vs-agentcore-gateway-495999063932
 
 # Claude Code 2.0: Coding Has NEVER Been This Easy
+https://www.youtube.com/watch?v=LFVIcpck8KI
