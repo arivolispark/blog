@@ -1868,3 +1868,6 @@ https://awstip.com/aws-lambda-as-mcp-tools-aws-lambda-mcp-server-vs-agentcore-ga
 
 # Claude Code 2.0: Coding Has NEVER Been This Easy
 https://www.youtube.com/watch?v=LFVIcpck8KI
+
+# apple-mcp
+
