@@ -1870,4 +1870,4 @@ https://awstip.com/aws-lambda-as-mcp-tools-aws-lambda-mcp-server-vs-agentcore-ga
 https://www.youtube.com/watch?v=LFVIcpck8KI
 
 # apple-mcp
-
+https://github.com/supermemoryai/apple-mcp
