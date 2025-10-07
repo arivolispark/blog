@@ -1873,3 +1873,4 @@ https://www.youtube.com/watch?v=LFVIcpck8KI
 https://github.com/supermemoryai/apple-mcp
 
 # Amazon Quick Suite
+https://www.cosmico.org/amazon-is-testing-quick-suite-an-ai-workplace-tool-for-custom-agents/
