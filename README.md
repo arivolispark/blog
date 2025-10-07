@@ -1871,3 +1871,5 @@ https://www.youtube.com/watch?v=LFVIcpck8KI
 
 # apple-mcp
 https://github.com/supermemoryai/apple-mcp
+
+# Amazon Quick Suite
