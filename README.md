@@ -1876,4 +1876,4 @@ https://github.com/supermemoryai/apple-mcp
 https://www.cosmico.org/amazon-is-testing-quick-suite-an-ai-workplace-tool-for-custom-agents/
 
 # Claude Sonnet 4.5 + Claude Code 2.0: Agentic Coding Masterclass
-
+https://www.youtube.com/watch?v=50tzzaOvcO0
