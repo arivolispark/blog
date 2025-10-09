@@ -1877,3 +1877,5 @@ https://www.cosmico.org/amazon-is-testing-quick-suite-an-ai-workplace-tool-for-c
 
 # Claude Sonnet 4.5 + Claude Code 2.0: Agentic Coding Masterclass
 https://www.youtube.com/watch?v=50tzzaOvcO0
+
+# Master ALL 20 Agentic AI Design Patterns [Complete Course]
