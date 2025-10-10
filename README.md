@@ -1880,3 +1880,6 @@ https://www.youtube.com/watch?v=50tzzaOvcO0
 
 # Master ALL 20 Agentic AI Design Patterns [Complete Course]
 https://www.youtube.com/watch?v=e2zIr_2JMbE
+
+# Amazon Quick Suite
+https://aws.amazon.com/quicksuite/
