@@ -1891,3 +1891,4 @@ https://www.foxbusiness.com/video/6382588712112
 https://ai.plainenglish.io/debugging-production-issues-with-aws-agentcore-how-agentic-ai-speeds-up-root-cause-analysis-d8c9eeef1217
 
 # Master ALL 20 Agentic AI Design Patterns [Complete Course]
+https://www.youtube.com/watch?v=e2zIr_2JMbE
