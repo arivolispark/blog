@@ -1889,3 +1889,5 @@ https://www.foxbusiness.com/video/6382588712112
 
 # Debugging Production Issues with AWS AgentCore: How Agentic AI Speeds Up Root Cause Analysis
 https://ai.plainenglish.io/debugging-production-issues-with-aws-agentcore-how-agentic-ai-speeds-up-root-cause-analysis-d8c9eeef1217
+
+# Master ALL 20 Agentic AI Design Patterns [Complete Course]
