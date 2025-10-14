@@ -1892,3 +1892,6 @@ https://ai.plainenglish.io/debugging-production-issues-with-aws-agentcore-how-ag
 
 # Master ALL 20 Agentic AI Design Patterns [Complete Course]
 https://www.youtube.com/watch?v=e2zIr_2JMbE
+
+# AWS Cost Explorer MCP Server
+https://github.com/aarora79/aws-cost-explorer-mcp-server
