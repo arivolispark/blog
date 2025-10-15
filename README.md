@@ -1897,3 +1897,4 @@ https://www.youtube.com/watch?v=e2zIr_2JMbE
 https://github.com/aarora79/aws-cost-explorer-mcp-server
 
 # Amazon Q Suite: Business, Developer, and QuickSight Solutions
+https://aws.amazon.com/marketplace/pp/prodview-3e42kn2lg3n26
