@@ -1898,3 +1898,6 @@ https://github.com/aarora79/aws-cost-explorer-mcp-server
 
 # Amazon Q Suite: Business, Developer, and QuickSight Solutions
 https://aws.amazon.com/marketplace/pp/prodview-3e42kn2lg3n26
+
+# AQS - Getting-started
+https://aws.amazon.com/quicksuite/getting-started/
