@@ -1901,3 +1901,6 @@ https://aws.amazon.com/marketplace/pp/prodview-3e42kn2lg3n26
 
 # AQS - Getting-started
 https://aws.amazon.com/quicksuite/getting-started/
+
+# Introducing Amazon Quick Automate | Automate complex processes | Amazon Web Services
+https://www.youtube.com/watch?v=lyNI-bCrpP4
