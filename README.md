@@ -1906,3 +1906,4 @@ https://aws.amazon.com/quicksuite/getting-started/
 https://www.youtube.com/watch?v=lyNI-bCrpP4
 
 # Automate Tasks with Quick Flows | Getting Started with Amazon Quick Suite
+https://www.youtube.com/watch?v=ki_MHsn0HqI
