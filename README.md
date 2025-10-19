@@ -1904,3 +1904,5 @@ https://aws.amazon.com/quicksuite/getting-started/
 
 # Introducing Amazon Quick Automate | Automate complex processes | Amazon Web Services
 https://www.youtube.com/watch?v=lyNI-bCrpP4
+
+# Automate Tasks with Quick Flows | Getting Started with Amazon Quick Suite
