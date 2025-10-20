@@ -1907,3 +1907,6 @@ https://www.youtube.com/watch?v=lyNI-bCrpP4
 
 # Automate Tasks with Quick Flows | Getting Started with Amazon Quick Suite
 https://www.youtube.com/watch?v=ki_MHsn0HqI
+
+# Create a Plan with Quick Research | Getting Started with Amazon Quick Suite
+https://www.youtube.com/watch?v=5vHLxCMwvh4
