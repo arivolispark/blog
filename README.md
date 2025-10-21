@@ -1910,3 +1910,5 @@ https://www.youtube.com/watch?v=ki_MHsn0HqI
 
 # Create a Plan with Quick Research | Getting Started with Amazon Quick Suite
 https://www.youtube.com/watch?v=5vHLxCMwvh4
+
+# Create an agent that uses your AgentCore gateway
