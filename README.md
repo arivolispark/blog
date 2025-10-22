@@ -1913,3 +1913,6 @@ https://www.youtube.com/watch?v=5vHLxCMwvh4
 
 # Create an agent that uses your AgentCore gateway
 https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-agent-integration.html
+
+# Agentic Design Patterns
+https://medium.com/@bijit211987/agentic-design-patterns-cbd0aae2962f
