@@ -1916,3 +1916,6 @@ https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-agent-inte
 
 # Agentic Design Patterns
 https://medium.com/@bijit211987/agentic-design-patterns-cbd0aae2962f
+
+# Amazon Quick Suite connections
+https://aws.amazon.com/quicksuite/connections/
