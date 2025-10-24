@@ -888,6 +888,7 @@ https://www.youtube.com/watch?v=JIWXbzRXk1I
 
 
 # RNN
+
 https://en.wikipedia.org/wiki/Recurrent_neural_network
 
 # GRU
