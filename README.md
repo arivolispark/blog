@@ -1922,3 +1922,4 @@ https://medium.com/@bijit211987/agentic-design-patterns-cbd0aae2962f
 https://aws.amazon.com/quicksuite/connections/
 
 # Amazon takes on Microsoft and Google in the workplace with new ‘Quick Suite’ business AI platform
+https://www.geekwire.com/2025/amazon-takes-on-microsoft-and-google-in-the-workplace-with-new-quick-suite-business-ai-platform/
