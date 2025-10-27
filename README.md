@@ -1926,3 +1926,6 @@ https://www.geekwire.com/2025/amazon-takes-on-microsoft-and-google-in-the-workpl
 
 # Flappy Bird Gameplay
 https://www.youtube.com/watch?v=fQoJZuBwrkU&t=1s
+
+# Agent Patterns
+https://docs.aws.amazon.com/prescriptive-guidance/latest/agentic-ai-patterns/agent-patterns.html
