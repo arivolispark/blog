@@ -1932,3 +1932,6 @@ https://docs.aws.amazon.com/prescriptive-guidance/latest/agentic-ai-patterns/age
 
 # AQS Pricing
 https://aws.amazon.com/quicksuite/pricing/
+
+# Getting started with Amazon Quick Suite
+https://aws.amazon.com/quicksuite/getting-started/
