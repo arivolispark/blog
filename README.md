@@ -1929,3 +1929,6 @@ https://www.youtube.com/watch?v=fQoJZuBwrkU&t=1s
 
 # Agent Patterns
 https://docs.aws.amazon.com/prescriptive-guidance/latest/agentic-ai-patterns/agent-patterns.html
+
+# AQS Pricing
+https://aws.amazon.com/quicksuite/pricing/
