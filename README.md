@@ -1937,3 +1937,4 @@ https://aws.amazon.com/quicksuite/pricing/
 https://aws.amazon.com/quicksuite/getting-started/
 
 # Transformer (deep learning architecture)
+https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)
