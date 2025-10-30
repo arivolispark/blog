@@ -1940,3 +1940,4 @@ https://aws.amazon.com/quicksuite/getting-started/
 https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)
 
 # Claude code
+https://www.claude.com/product/claude-code
