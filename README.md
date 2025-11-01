@@ -1946,4 +1946,4 @@ https://www.claude.com/product/claude-code
 https://medium.com/@visrow/comprehensive-guide-to-spec-driven-development-kiro-github-spec-kit-and-bmad-method-5d28ff61b9b1
 
 # The Future of Work is Here: Amazon Quick Suite's Unified AI Platform for Modern Enterprises
-
+https://community.ibm.com/community/user/blogs/diptanu-roy/2025/10/10/amazon-quick-suite
