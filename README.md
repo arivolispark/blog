@@ -1950,3 +1950,6 @@ https://community.ibm.com/community/user/blogs/diptanu-roy/2025/10/10/amazon-qui
 
 # AWS Outage Explained with root cause in simple words
 https://www.youtube.com/watch?v=bHZup_marhk
+
+# The billion Dollar-o-Gram
+https://informationisbeautiful.net/visualizations/the-billion-dollar-gram/
