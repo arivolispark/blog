@@ -1953,3 +1953,6 @@ https://www.youtube.com/watch?v=bHZup_marhk
 
 # The billion Dollar-o-Gram
 https://informationisbeautiful.net/visualizations/the-billion-dollar-gram/
+
+# How to Build Ollama-Powered AI Agents with ADK, Tool Calling, and MCP Integration
+https://ai.plainenglish.io/how-to-build-ollama-powered-ai-agents-with-adk-tool-calling-and-mcp-integration-c25d98fc4816
