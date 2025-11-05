@@ -1956,3 +1956,6 @@ https://informationisbeautiful.net/visualizations/the-billion-dollar-gram/
 
 # How to Build Ollama-Powered AI Agents with ADK, Tool Calling, and MCP Integration
 https://ai.plainenglish.io/how-to-build-ollama-powered-ai-agents-with-adk-tool-calling-and-mcp-integration-c25d98fc4816
+
+# AWS launches Amazon Quick Suite, aims to automate business workflows
+https://www.constellationr.com/blog-news/insights/aws-launches-amazon-quick-suite-aims-automate-business-workflows
