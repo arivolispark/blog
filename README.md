@@ -1959,3 +1959,6 @@ https://ai.plainenglish.io/how-to-build-ollama-powered-ai-agents-with-adk-tool-c
 
 # AWS launches Amazon Quick Suite, aims to automate business workflows
 https://www.constellationr.com/blog-news/insights/aws-launches-amazon-quick-suite-aims-automate-business-workflows
+
+# Amazon Quick Flows
+https://aws.amazon.com/quicksuite/flows/
