@@ -1965,3 +1965,7 @@ https://aws.amazon.com/quicksuite/flows/
 
 # AWS Quicksight | AWS Essentials
 https://www.youtube.com/watch?v=rxyLC247h6E&t=1s
+
+# Amazon Quick Automate
+https://aws.amazon.com/quicksuite/automate/
+
