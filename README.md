@@ -1963,9 +1963,11 @@ https://www.constellationr.com/blog-news/insights/aws-launches-amazon-quick-suit
 # Amazon Quick Flows
 https://aws.amazon.com/quicksuite/flows/
 
+# Automate Tasks with Quick Flows | Getting Started with Amazon Quick Suite
+https://www.youtube.com/watch?v=ki_MHsn0HqI&t=6s
+
 # AWS Quicksight | AWS Essentials
 https://www.youtube.com/watch?v=rxyLC247h6E&t=1s
 
 # Amazon Quick Automate
 https://aws.amazon.com/quicksuite/automate/
-
