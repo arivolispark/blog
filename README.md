@@ -1971,3 +1971,6 @@ https://www.youtube.com/watch?v=rxyLC247h6E&t=1s
 
 # Amazon Quick Automate
 https://aws.amazon.com/quicksuite/automate/
+
+# Deep Research Agents: A Systematic Examination And Roadmap
+https://arxiv.org/abs/2506.18096
