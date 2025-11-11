@@ -1974,3 +1974,6 @@ https://aws.amazon.com/quicksuite/automate/
 
 # Deep Research Agents: A Systematic Examination And Roadmap
 https://arxiv.org/abs/2506.18096
+
+# Glean - Prompt Library
+https://www.glean.com/prompt-library
