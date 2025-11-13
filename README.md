@@ -1980,3 +1980,6 @@ https://www.glean.com/prompt-library
 
 # Microsoft 365 Copilot
 https://www.microsoft.com/en-us/microsoft-365-copilot?ef_id=_k_CjwKCAiA2svIBhB-EiwARWDPjgOtXehvv0R4tUtaQHvaB8L_WNm2EZnSkK1xrv4JeRSZP44MVV8ntBoC7rQQAvD_BwE_k_&OCID=AIDcmmhexn0fwe_SEM__k_CjwKCAiA2svIBhB-EiwARWDPjgOtXehvv0R4tUtaQHvaB8L_WNm2EZnSkK1xrv4JeRSZP44MVV8ntBoC7rQQAvD_BwE_k_&gad_source=1&gad_campaignid=22353285968&gbraid=0AAAAADcJh_vi8-E5CpiFvakJQPcpvjE9e&gclid=CjwKCAiA2svIBhB-EiwARWDPjgOtXehvv0R4tUtaQHvaB8L_WNm2EZnSkK1xrv4JeRSZP44MVV8ntBoC7rQQAvD_BwE
+
+# Generate AWS architectural diagrams using this simple method.
+https://medium.com/data-ai-and-beyond/generate-aws-architectural-diagrams-using-this-simple-method-3b92b4e3e355
