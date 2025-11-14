@@ -1984,5 +1984,5 @@ https://www.microsoft.com/en-us/microsoft-365-copilot?ef_id=_k_CjwKCAiA2svIBhB-E
 # Generate AWS architectural diagrams using this simple method.
 https://medium.com/data-ai-and-beyond/generate-aws-architectural-diagrams-using-this-simple-method-3b92b4e3e355
 
-Make agents a reality with Amazon Bedrock AgentCore: Now generally available
+# Make agents a reality with Amazon Bedrock AgentCore: Now generally available
 https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-is-now-generally-available/
