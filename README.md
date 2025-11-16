@@ -1986,3 +1986,6 @@ https://medium.com/data-ai-and-beyond/generate-aws-architectural-diagrams-using-
 
 # Make agents a reality with Amazon Bedrock AgentCore: Now generally available
 https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-is-now-generally-available/
+
+# Why MCP Servers Are the New Tomcat for AI Agents — Deploying on Amazon Bedrock AgentCore
+https://levelup.gitconnected.com/why-mcp-servers-are-the-new-tomcat-for-ai-agents-deploying-on-amazon-bedrock-agentcore-780eb8747b31
