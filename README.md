@@ -1989,3 +1989,6 @@ https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-is-now-ge
 
 # Why MCP Servers Are the New Tomcat for AI Agents — Deploying on Amazon Bedrock AgentCore
 https://levelup.gitconnected.com/why-mcp-servers-are-the-new-tomcat-for-ai-agents-deploying-on-amazon-bedrock-agentcore-780eb8747b31
+
+# Using Amazon Quick Automate
+https://docs.aws.amazon.com/quicksuite/latest/userguide/using-amazon-quick-automate.html
