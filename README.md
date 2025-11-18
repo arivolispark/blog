@@ -1992,3 +1992,6 @@ https://levelup.gitconnected.com/why-mcp-servers-are-the-new-tomcat-for-ai-agent
 
 # Using Amazon Quick Automate
 https://docs.aws.amazon.com/quicksuite/latest/userguide/using-amazon-quick-automate.html
+
+# Kiro CLI
+https://kiro.dev/cli/
