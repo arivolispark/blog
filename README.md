@@ -1995,3 +1995,5 @@ https://docs.aws.amazon.com/quicksuite/latest/userguide/using-amazon-quick-autom
 
 # Kiro CLI
 https://kiro.dev/cli/
+
+https://kiro.dev/docs/getting-started/authentication/
