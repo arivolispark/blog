@@ -2000,3 +2000,6 @@ https://kiro.dev/docs/getting-started/authentication/
 
 # Automate Tasks with Quick Flows | Getting Started with Amazon Quick Suite
 https://www.youtube.com/watch?v=ki_MHsn0HqI
+
+# Meta Data Center engineering
+https://engineering.fb.com/category/data-center-engineering/
