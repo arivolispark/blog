@@ -2003,3 +2003,6 @@ https://www.youtube.com/watch?v=ki_MHsn0HqI
 
 # Meta Data Center engineering
 https://engineering.fb.com/category/data-center-engineering/
+
+# Your complete guide to Amazon Quick Suite at AWS re:Invent 2025
+https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-amazon-quick-suite-at-aws-reinvent-2025/
