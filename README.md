@@ -2007,5 +2007,5 @@ https://engineering.fb.com/category/data-center-engineering/
 # Your complete guide to Amazon Quick Suite at AWS re:Invent 2025
 https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-amazon-quick-suite-at-aws-reinvent-2025/
 
-# 
+# Amazon Quick Suite Embedded Chat is now available
 https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-suite-embedded-chat/
