@@ -2009,3 +2009,6 @@ https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-amazon-quic
 
 # Amazon Quick Suite Embedded Chat is now available
 https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-suite-embedded-chat/
+
+# AI agent platforms comparison
+https://www.restack.io/compare?gad_source=1&gad_campaignid=23269673011&gbraid=0AAAABBvvXG-_JhP3YXHx3joWjryZMfXM5&gclid=CjwKCAiA55rJBhByEiwAFkY1QDOXd56LFAY97G2QSRBw-SBB7vmYp2aYXI-OB9evh5qVG9zS1bIOehoCzDIQAvD_BwE
