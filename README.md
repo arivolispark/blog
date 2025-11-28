@@ -2012,3 +2012,6 @@ https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-suite-embedded-c
 
 # AI agent platforms comparison
 https://www.restack.io/compare?gad_source=1&gad_campaignid=23269673011&gbraid=0AAAABBvvXG-_JhP3YXHx3joWjryZMfXM5&gclid=CjwKCAiA55rJBhByEiwAFkY1QDOXd56LFAY97G2QSRBw-SBB7vmYp2aYXI-OB9evh5qVG9zS1bIOehoCzDIQAvD_BwE
+
+# Claude Code Beginner to Pro: Agentic Coding for Developers
+https://www.udemy.com/course/learn-claude-code/?utm_campaign=Search_DSA_Beta_Prof_la.EN_cc.US&utm_source=google&utm_medium=paid-search&portfolio=USA&utm_audience=mx&utm_tactic=nb&utm_term=&utm_content=g&funnel=&test=&gad_source=1&gad_campaignid=21164973268&gbraid=0AAAAADROdO3aaYMAZu-blrIvPTpVffEJp&gclid=Cj0KCQiAiqDJBhCXARIsABk2kSkEEooBl9x6Cl1nwwopgmzFKC_btVA6uOnoO6pHhA0nz7negugIAMEaAhnEEALw_wcB&couponCode=CP251118BG1
