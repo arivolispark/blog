@@ -2015,3 +2015,6 @@ https://www.restack.io/compare?gad_source=1&gad_campaignid=23269673011&gbraid=0A
 
 # Claude Code Beginner to Pro: Agentic Coding for Developers
 https://www.udemy.com/course/learn-claude-code/?utm_campaign=Search_DSA_Beta_Prof_la.EN_cc.US&utm_source=google&utm_medium=paid-search&portfolio=USA&utm_audience=mx&utm_tactic=nb&utm_term=&utm_content=g&funnel=&test=&gad_source=1&gad_campaignid=21164973268&gbraid=0AAAAADROdO3aaYMAZu-blrIvPTpVffEJp&gclid=Cj0KCQiAiqDJBhCXARIsABk2kSkEEooBl9x6Cl1nwwopgmzFKC_btVA6uOnoO6pHhA0nz7negugIAMEaAhnEEALw_wcB&couponCode=CP251118BG1
+
+# Copilot CLI
+https://github.com/features/copilot/cli
