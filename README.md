@@ -2018,3 +2018,6 @@ https://www.udemy.com/course/learn-claude-code/?utm_campaign=Search_DSA_Beta_Pro
 
 # Copilot CLI
 https://github.com/features/copilot/cli
+
+# SRE agent
+https://github.com/fuzzylabs/sre-agent
