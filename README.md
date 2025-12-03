@@ -2024,3 +2024,6 @@ https://github.com/fuzzylabs/sre-agent
 
 # Comprehensive Guide to Spec-Driven Development Kiro, GitHub Spec Kit, and BMAD-METHOD
 https://medium.com/@visrow/comprehensive-guide-to-spec-driven-development-kiro-github-spec-kit-and-bmad-method-5d28ff61b9b1
+
+# AWS re:Invent 2025 - Keynote with CEO Matt Garman
+https://www.youtube.com/watch?v=q3Sb9PemsSo&t=1s
