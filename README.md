@@ -2027,3 +2027,5 @@ https://medium.com/@visrow/comprehensive-guide-to-spec-driven-development-kiro-g
 
 # AWS re:Invent 2025 - Keynote with CEO Matt Garman
 https://www.youtube.com/watch?v=q3Sb9PemsSo&t=1s
+
+# AWS re:Invent 2025 - Partner Keynote with Dr. Ruba Borno
