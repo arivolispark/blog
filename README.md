@@ -2029,3 +2029,4 @@ https://medium.com/@visrow/comprehensive-guide-to-spec-driven-development-kiro-g
 https://www.youtube.com/watch?v=q3Sb9PemsSo&t=1s
 
 # AWS re:Invent 2025 - Partner Keynote with Dr. Ruba Borno
+https://www.youtube.com/watch?v=JVj-r7B0gOU
