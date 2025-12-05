@@ -2030,3 +2030,6 @@ https://www.youtube.com/watch?v=q3Sb9PemsSo&t=1s
 
 # AWS re:Invent 2025 - Partner Keynote with Dr. Ruba Borno
 https://www.youtube.com/watch?v=JVj-r7B0gOU
+
+# AWS re:Invent 2025 | Special Closing Keynote with Dr. Werner Vogels
+https://www.youtube.com/watch?v=tksd2dLFskY
