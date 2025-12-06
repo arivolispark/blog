@@ -2033,3 +2033,6 @@ https://www.youtube.com/watch?v=JVj-r7B0gOU
 
 # AWS re:Invent 2025 | Special Closing Keynote with Dr. Werner Vogels
 https://www.youtube.com/watch?v=tksd2dLFskY
+
+# Kiro powers
+https://kiro.dev/powers/
