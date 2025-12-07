@@ -2036,3 +2036,6 @@ https://www.youtube.com/watch?v=tksd2dLFskY
 
 # Kiro powers
 https://kiro.dev/powers/
+
+# Amazon Bedrock AgentCore Integrations
+https://github.com/awslabs/amazon-bedrock-agentcore-samples/tree/main/03-integrations
