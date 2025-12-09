@@ -2042,3 +2042,6 @@ https://github.com/awslabs/amazon-bedrock-agentcore-samples/tree/main/03-integra
 
 # Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl
 https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
+
+# Google Antigravity
+https://antigravity.google/
