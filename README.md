@@ -2045,3 +2045,6 @@ https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
 
 # Google Antigravity
 https://antigravity.google/
+
+# EARS: The Easy Approach to Requirements Syntax
+https://medium.com/paramtech/ears-the-easy-approach-to-requirements-syntax-b09597aae31d
