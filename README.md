@@ -2048,3 +2048,6 @@ https://antigravity.google/
 
 # EARS: The Easy Approach to Requirements Syntax
 https://medium.com/paramtech/ears-the-easy-approach-to-requirements-syntax-b09597aae31d
+
+# Get started with Amazon Bedrock AgentCore
+https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/agentcore-get-started-toolkit.html
