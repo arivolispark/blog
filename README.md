@@ -2051,3 +2051,6 @@ https://medium.com/paramtech/ears-the-easy-approach-to-requirements-syntax-b0959
 
 # Get started with Amazon Bedrock AgentCore
 https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/agentcore-get-started-toolkit.html
+
+# AWS Transform custom
+https://aws.amazon.com/transform/custom/
