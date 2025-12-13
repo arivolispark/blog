@@ -2054,3 +2054,6 @@ https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/agentcore-get-star
 
 # AWS Transform custom
 https://aws.amazon.com/transform/custom/
+
+# Amazon Nova Act
+https://nova.amazon.com/act?tab=playground
