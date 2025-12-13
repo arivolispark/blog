@@ -2057,3 +2057,6 @@ https://aws.amazon.com/transform/custom/
 
 # Amazon Nova Act
 https://nova.amazon.com/act?tab=playground
+
+# Partial dependency plot (PDP)
+https://scikit-learn.org/stable/modules/partial_dependence.html
