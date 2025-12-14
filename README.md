@@ -2067,3 +2067,5 @@ https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback
 # Bilingual Evaluation Understudy (BLEU)
 https://en.wikipedia.org/wiki/BLEU
 
+# F1 score
+The F1 Score is a key machine learning metric that balances Precision (how accurate positive predictions are) and Recall (how many actual positives are found) by calculating their harmonic mean, giving a single score from 0 to 1 (best) that's crucial for evaluating models, especially with imbalanced datasets where high accuracy can be misleading. A high F1 score means the model excels at both finding relevant instances (recall) and making correct positive predictions (precision).  
