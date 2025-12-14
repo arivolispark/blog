@@ -2063,3 +2063,7 @@ https://scikit-learn.org/stable/modules/partial_dependence.html
 
 # Reinforcement Learning from Human Feedback
 https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback
+
+# Bilingual Evaluation Understudy (BLEU)
+https://en.wikipedia.org/wiki/BLEU
+
