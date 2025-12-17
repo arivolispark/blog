@@ -2072,3 +2072,6 @@ The F1 Score is a key machine learning metric that balances Precision (how accur
 
 # Strands Agents SDK
 https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/strands-sdk-memory.html
+
+# Get started with AgentCore Gateway
+https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-quick-start.html
