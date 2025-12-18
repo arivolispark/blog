@@ -2075,3 +2075,6 @@ https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/strands-sdk-memory
 
 # Get started with AgentCore Gateway
 https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-quick-start.html
+
+# Using Amazon Quick Suite automations
+https://docs.aws.amazon.com/quicksuite/latest/userguide/using-amazon-quick-automations.html
