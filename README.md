@@ -2078,3 +2078,6 @@ https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-quick-star
 
 # Using Amazon Quick Suite automations
 https://docs.aws.amazon.com/quicksuite/latest/userguide/using-amazon-quick-automations.html
+
+# Establishing enterprise governance in Amazon Quick Suite using custom permissions
+https://aws.amazon.com/blogs/business-intelligence/establishing-enterprise-governance-in-amazon-quick-suite-using-custom-permissions/
