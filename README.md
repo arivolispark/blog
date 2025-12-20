@@ -2081,3 +2081,6 @@ https://docs.aws.amazon.com/quicksuite/latest/userguide/using-amazon-quick-autom
 
 # Establishing enterprise governance in Amazon Quick Suite using custom permissions
 https://aws.amazon.com/blogs/business-intelligence/establishing-enterprise-governance-in-amazon-quick-suite-using-custom-permissions/
+
+# Kiro Autonomous Agent
+https://kiro.dev/autonomous-agent/
