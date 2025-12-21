@@ -2084,3 +2084,6 @@ https://aws.amazon.com/blogs/business-intelligence/establishing-enterprise-gover
 
 # Kiro Autonomous Agent
 https://kiro.dev/autonomous-agent/
+
+# AQS + Confluence
+https://docs.aws.amazon.com/quicksuite/latest/userguide/confluence-integration.html
