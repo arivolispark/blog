@@ -2087,3 +2087,6 @@ https://kiro.dev/autonomous-agent/
 
 # AQS + Confluence
 https://docs.aws.amazon.com/quicksuite/latest/userguide/confluence-integration.html
+
+# Gemini CLI
+https://docs.cloud.google.com/gemini/docs/codeassist/gemini-cli?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-bkws-all-all-trial-e-dr-1710134&utm_content=text-ad-none-any-DEV_c-CRE_775390603869-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt-AIML-Generative%20AI-Gemini%20CLI-KWID_2429519406635-kwd-2429519406635&utm_term=KW_gemini%20cli-ST_gemini%20cli&gclsrc=aw.ds&gad_source=1&gad_campaignid=22970352462&gclid=Cj0KCQiA0p7KBhCkARIsAE6Xlan6r7hQxXTJQuHwuo70hnRGotWAk9CCWXL4GV8vaQGsjybo8pV4SFMaAt_hEALw_wcB
