@@ -2093,3 +2093,6 @@ https://docs.cloud.google.com/gemini/docs/codeassist/gemini-cli?utm_source=googl
 
 # The Best AI Tools for 2026
 https://medium.com/artificial-corner/the-best-ai-tools-for-2026-933535a44f8b
+
+# Kiro vs Copilot: This Could Change the Way You Code Forever
+https://dev.to/alifar/kiro-vs-copilot-this-could-change-the-way-you-code-forever-4kaa
