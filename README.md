@@ -2096,3 +2096,6 @@ https://medium.com/artificial-corner/the-best-ai-tools-for-2026-933535a44f8b
 
 # Kiro vs Copilot: This Could Change the Way You Code Forever
 https://dev.to/alifar/kiro-vs-copilot-this-could-change-the-way-you-code-forever-4kaa
+
+# OpenSec
+https://github.com/Fission-AI/OpenSpec
