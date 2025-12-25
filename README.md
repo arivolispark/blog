@@ -2099,3 +2099,6 @@ https://dev.to/alifar/kiro-vs-copilot-this-could-change-the-way-you-code-forever
 
 # OpenSec
 https://github.com/Fission-AI/OpenSpec
+
+# AWS Frontier Agents - Kiro Autonomous Agent, AWS DevOps Agent, AWS Security Agent
+https://www.youtube.com/watch?v=byp2IxKTLLw
