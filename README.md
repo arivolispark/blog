@@ -2102,3 +2102,6 @@ https://github.com/Fission-AI/OpenSpec
 
 # AWS Frontier Agents - Kiro Autonomous Agent, AWS DevOps Agent, AWS Security Agent
 https://www.youtube.com/watch?v=byp2IxKTLLw
+
+#Claude Code
+https://claude.com/product/claude-code?utm_source=google&utm_medium=paid_search_coder&utm_campaign=acq_code_us_q3&utm_term=ai%20development%20agent&gclsrc=aw.ds&gad_source=1&gad_campaignid=22795617257&gbraid=0AAAAA99jmqvSbEOGP5cdDMSBpYlX6jJDA&gclid=CjwKCAiA3rPKBhBZEiwAhPNFQLp7skNiMHi8pDFmoHdABR265_7bnQuztaOefzVUrSqS6aZdzA5S2hoC9xcQAvD_BwE
