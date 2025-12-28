@@ -2108,3 +2108,6 @@ https://claude.com/product/claude-code?utm_source=google&utm_medium=paid_search_
 
 # Spec-driven AI coding: Spec-kit, BMAD, Agent OS and Kiro
 https://medium.com/@tim_wang/spec-kit-bmad-and-agent-os-e8536f6bf8a4
+
+# OpenSpec by Fission AI
+https://www.linkedin.com/posts/betterstack_openspec-by-fission-ai-makes-spec-driven-activity-7381697499264262144-LzYY/
