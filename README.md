@@ -2111,3 +2111,6 @@ https://medium.com/@tim_wang/spec-kit-bmad-and-agent-os-e8536f6bf8a4
 
 # OpenSpec by Fission AI
 https://www.linkedin.com/posts/betterstack_openspec-by-fission-ai-makes-spec-driven-activity-7381697499264262144-LzYY/
+
+# Cline vs Kiro
+https://sourceforge.net/software/compare/Cline-AI-vs-Kiro/
