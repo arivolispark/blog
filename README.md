@@ -2114,3 +2114,6 @@ https://www.linkedin.com/posts/betterstack_openspec-by-fission-ai-makes-spec-dri
 
 # Cline vs Kiro
 https://sourceforge.net/software/compare/Cline-AI-vs-Kiro/
+
+# The Open Group
+https://en.wikipedia.org/wiki/The_Open_Group
