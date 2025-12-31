@@ -2117,3 +2117,6 @@ https://sourceforge.net/software/compare/Cline-AI-vs-Kiro/
 
 # The Open Group
 https://en.wikipedia.org/wiki/The_Open_Group
+
+# Introducing Amazon Nova 2 Lite, a fast, cost-effective reasoning model
+https://aws.amazon.com/blogs/aws/introducing-amazon-nova-2-lite-a-fast-cost-effective-reasoning-model/
