@@ -2123,3 +2123,9 @@ https://aws.amazon.com/blogs/aws/introducing-amazon-nova-2-lite-a-fast-cost-effe
 
 # Microsoft Copilot
 https://en.wikipedia.org/wiki/Microsoft_Copilot
+
+# Amazon Quick Suite competitors
+- Microsoft 365 Copilot: A major rival, integrating AI directly into familiar Microsoft apps (Word, Excel, Teams), a potential advantage over Quick Suite's separate environment.
+- Google Gemini for Enterprise: Launched around the same time, offering comparable AI agent capabilities, with potential strength in existing Google ecosystem integrations.
+- Salesforce Agentforce: Competes with AI agents within the CRM and Slack ecosystems, encouraging users to stay within Salesforce.
+- IBM watsonx Orchestrate: An advanced automation platform for building AI assistants and managing tasks, competing with Quick Suite's agentic capabilities. 
