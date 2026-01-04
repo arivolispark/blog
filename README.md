@@ -2129,3 +2129,6 @@ https://en.wikipedia.org/wiki/Microsoft_Copilot
 - Google Gemini for Enterprise: Launched around the same time, offering comparable AI agent capabilities, with potential strength in existing Google ecosystem integrations.
 - Salesforce Agentforce: Competes with AI agents within the CRM and Slack ecosystems, encouraging users to stay within Salesforce.
 - IBM watsonx Orchestrate: An advanced automation platform for building AI assistants and managing tasks, competing with Quick Suite's agentic capabilities. 
+
+# Agentic Design Patterns
+https://github.com/sarwarbeing-ai/Agentic_Design_Patterns
