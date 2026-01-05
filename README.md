@@ -2132,3 +2132,6 @@ https://en.wikipedia.org/wiki/Microsoft_Copilot
 
 # Agentic Design Patterns
 https://github.com/sarwarbeing-ai/Agentic_Design_Patterns
+
+# Peter Gutmann - Why Quantum Cryptanalysis is Bollocks
+https://www.youtube.com/watch?v=xa4Ok7WNFHY
