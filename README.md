@@ -1,6 +1,5 @@
 # blog
 
-
 # Tools
 https://explaineverything.com/
 
