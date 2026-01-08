@@ -2135,3 +2135,6 @@ https://github.com/sarwarbeing-ai/Agentic_Design_Patterns
 
 # Peter Gutmann - Why Quantum Cryptanalysis is Bollocks
 https://www.youtube.com/watch?v=xa4Ok7WNFHY
+
+# KIRO-CLI as Teacher for AWS Certified Generative AI Developer Pro Certification
+https://builder.aws.com/content/37WkIA5gZe7W23kR29TbLGyn6SF/kiro-cli-as-teacher-for-aws-certified-generative-ai-developer-pro-certification
