@@ -2141,3 +2141,6 @@ https://builder.aws.com/content/37WkIA5gZe7W23kR29TbLGyn6SF/kiro-cli-as-teacher-
 
 # Kiro Creating custom agents
 https://kiro.dev/docs/cli/custom-agents/creating/
+
+# Setup Kiro and Amazon Q Developer Authentication with IAM Identity Center SSO
+https://builder.aws.com/content/30SCQvE8v6GAjCZUV5DRaSXPW3T/setup-kiro-and-amazon-q-developer-authentication-with-iam-identity-center-sso
