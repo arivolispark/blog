@@ -2144,3 +2144,6 @@ https://kiro.dev/docs/cli/custom-agents/creating/
 
 # Setup Kiro and Amazon Q Developer Authentication with IAM Identity Center SSO
 https://builder.aws.com/content/30SCQvE8v6GAjCZUV5DRaSXPW3T/setup-kiro-and-amazon-q-developer-authentication-with-iam-identity-center-sso
+
+# Kiro for Enterprise
+https://kiro.dev/enterprise/
