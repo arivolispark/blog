@@ -2147,3 +2147,6 @@ https://builder.aws.com/content/30SCQvE8v6GAjCZUV5DRaSXPW3T/setup-kiro-and-amazo
 
 # Kiro for Enterprise
 https://kiro.dev/enterprise/
+
+# Using Kiro Autonomous Agent
+https://kiro.dev/docs/autonomous-agent/using-the-agent/
