@@ -2153,3 +2153,6 @@ https://kiro.dev/docs/autonomous-agent/using-the-agent/
 
 # Install Kiro powers
 https://kiro.dev/docs/powers/installation/
+
+# Claude Code in Action
+https://anthropic.skilljar.com/claude-code-in-action
