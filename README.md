@@ -2162,3 +2162,6 @@ https://docs.aws.amazon.com/transform/latest/userguide/custom-get-started.html
 
 # Amazon Kiro vs GitHub Copilot: Which AI Dev Tool Wins?
 https://scalevise.com/resources/amazon-kiro-vs-github-copilot/
+
+# Kiro - Learn by playing*
+https://kiro.dev/docs/guides/learn-by-playing/
