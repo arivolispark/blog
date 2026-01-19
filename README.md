@@ -2168,3 +2168,6 @@ https://kiro.dev/docs/guides/learn-by-playing/
 
 # PR/FAQ: the Amazon Working Backwards Framework for Product Innovation (2024)
 https://productstrategy.co/working-backwards-the-amazon-prfaq-for-product-innovation/
+
+# Skills, Custom Diff Tools, Improved Code Intelligence, and Conversation Compaction
+https://kiro.dev/changelog/cli/1-24/
