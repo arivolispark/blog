@@ -2171,3 +2171,6 @@ https://productstrategy.co/working-backwards-the-amazon-prfaq-for-product-innova
 
 # Skills, Custom Diff Tools, Improved Code Intelligence, and Conversation Compaction
 https://kiro.dev/changelog/cli/1-24/
+
+# Supabase Tutorial #1 - What is Supabase?
+https://www.youtube.com/watch?v=ydz7Dj5QHKY
