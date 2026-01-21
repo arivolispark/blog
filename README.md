@@ -2174,3 +2174,6 @@ https://kiro.dev/changelog/cli/1-24/
 
 # Supabase Tutorial #1 - What is Supabase?
 https://www.youtube.com/watch?v=ydz7Dj5QHKY
+
+# Introducing Amazon Aurora powers for Kiro
+https://aws.amazon.com/blogs/database/introducing-amazon-aurora-powers-for-kiro/
