@@ -2177,3 +2177,6 @@ https://www.youtube.com/watch?v=ydz7Dj5QHKY
 
 # Introducing Amazon Aurora powers for Kiro
 https://aws.amazon.com/blogs/database/introducing-amazon-aurora-powers-for-kiro/
+
+# Kiro Did It: Using Powers to Test Your APIs in Postman!
+https://www.youtube.com/watch?v=Ec1_eA-dMa4
