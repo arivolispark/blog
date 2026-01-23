@@ -2180,3 +2180,6 @@ https://aws.amazon.com/blogs/database/introducing-amazon-aurora-powers-for-kiro/
 
 # Kiro Did It: Using Powers to Test Your APIs in Postman!
 https://www.youtube.com/watch?v=Ec1_eA-dMa4
+
+# Claude Skills
+https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview
