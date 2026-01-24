@@ -2183,3 +2183,6 @@ https://www.youtube.com/watch?v=Ec1_eA-dMa4
 
 # Claude Skills
 https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview
+
+# Using knowledge graphs to build GraphRAG applications with Amazon Bedrock and Amazon Neptune
+https://aws.amazon.com/blogs/database/using-knowledge-graphs-to-build-graphrag-applications-with-amazon-bedrock-and-amazon-neptune/
