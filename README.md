@@ -2189,3 +2189,6 @@ https://aws.amazon.com/blogs/database/using-knowledge-graphs-to-build-graphrag-a
 
 # Claude code
 https://github.com/anthropics/claude-code
+
+# Claude Code Is Taking Over (And We Don't Hate It)
+https://www.youtube.com/watch?v=y5W26N-Opys
