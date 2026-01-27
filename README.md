@@ -2192,3 +2192,6 @@ https://github.com/anthropics/claude-code
 
 # Claude Code Is Taking Over (And We Don't Hate It)
 https://www.youtube.com/watch?v=y5W26N-Opys
+
+# guidance-for-claude-code-with-amazon-bedrock
+https://github.com/aws-solutions-library-samples/guidance-for-claude-code-with-amazon-bedrock
