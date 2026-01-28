@@ -2195,3 +2195,6 @@ https://www.youtube.com/watch?v=y5W26N-Opys
 
 # guidance-for-claude-code-with-amazon-bedrock
 https://github.com/aws-solutions-library-samples/guidance-for-claude-code-with-amazon-bedrock
+
+# Anthropic Skills
+https://github.com/anthropics/skills
