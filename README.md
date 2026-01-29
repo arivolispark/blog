@@ -2198,3 +2198,6 @@ https://github.com/aws-solutions-library-samples/guidance-for-claude-code-with-a
 
 # Anthropic Skills
 https://github.com/anthropics/skills
+
+# ACP support in Copilot CLI is now in public preview
+https://github.blog/changelog/2026-01-28-acp-support-in-copilot-cli-is-now-in-public-preview/
