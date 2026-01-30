@@ -2201,3 +2201,6 @@ https://github.com/anthropics/skills
 
 # ACP support in Copilot CLI is now in public preview
 https://github.blog/changelog/2026-01-28-acp-support-in-copilot-cli-is-now-in-public-preview/
+
+# Getting started with Amazon Neptune
+https://docs.aws.amazon.com/neptune/latest/userguide/graph-get-started.html
