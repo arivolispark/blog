@@ -2204,3 +2204,6 @@ https://github.blog/changelog/2026-01-28-acp-support-in-copilot-cli-is-now-in-pu
 
 # Getting started with Amazon Neptune
 https://docs.aws.amazon.com/neptune/latest/userguide/graph-get-started.html
+
+# Web Tools, Subagents, Contextual Hooks, and Per-File Code Review
+https://kiro.dev/changelog/ide/0-8/#patch-0-8-206
