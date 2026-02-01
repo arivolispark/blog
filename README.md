@@ -2207,3 +2207,6 @@ https://docs.aws.amazon.com/neptune/latest/userguide/graph-get-started.html
 
 # Web Tools, Subagents, Contextual Hooks, and Per-File Code Review
 https://kiro.dev/changelog/ide/0-8/#patch-0-8-206
+
+# Get Shit Done
+https://github.com/glittercowboy/get-shit-done
