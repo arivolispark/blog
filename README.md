@@ -2210,3 +2210,6 @@ https://kiro.dev/changelog/ide/0-8/#patch-0-8-206
 
 # Get Shit Done
 https://github.com/glittercowboy/get-shit-done
+
+# Claude’s Constitution
+https://www.anthropic.com/constitution
