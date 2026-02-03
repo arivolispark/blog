@@ -2213,3 +2213,6 @@ https://github.com/glittercowboy/get-shit-done
 
 # Claude’s Constitution
 https://www.anthropic.com/constitution
+
+# Kiro: The agentic IDE changing the way developers work || Amazon Q Podcast | Amazon Web Services
+https://www.youtube.com/watch?v=lW0MiXh8R1Y&t=1s
