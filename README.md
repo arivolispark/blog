@@ -2216,3 +2216,6 @@ https://www.anthropic.com/constitution
 
 # Kiro: The agentic IDE changing the way developers work || Amazon Q Podcast | Amazon Web Services
 https://www.youtube.com/watch?v=lW0MiXh8R1Y&t=1s
+
+# I Tried Running Claude Code Inside Kiro Amazon’s IDE (And Got a Sweet Surprise)
+https://medium.com/@joe.njenga/i-tried-running-claude-code-inside-kiro-amazons-ide-and-got-a-sweet-surprise-d8fddcb93d22
