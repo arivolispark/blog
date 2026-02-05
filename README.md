@@ -2219,3 +2219,6 @@ https://www.youtube.com/watch?v=lW0MiXh8R1Y&t=1s
 
 # I Tried Running Claude Code Inside Kiro Amazon’s IDE (And Got a Sweet Surprise)
 https://medium.com/@joe.njenga/i-tried-running-claude-code-inside-kiro-amazons-ide-and-got-a-sweet-surprise-d8fddcb93d22
+
+# Claude is a space to think
+https://www.anthropic.com/news/claude-is-a-space-to-think
