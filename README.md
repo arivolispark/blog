@@ -2222,3 +2222,6 @@ https://medium.com/@joe.njenga/i-tried-running-claude-code-inside-kiro-amazons-i
 
 # Claude is a space to think
 https://www.anthropic.com/news/claude-is-a-space-to-think
+
+# Introducing Claude Opus 4.6
+https://www.anthropic.com/news/claude-opus-4-6
