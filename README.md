@@ -2225,3 +2225,6 @@ https://www.anthropic.com/news/claude-is-a-space-to-think
 
 # Introducing Claude Opus 4.6
 https://www.anthropic.com/news/claude-opus-4-6
+
+# Anthropic partners with Allen Institute and Howard Hughes Medical Institute to accelerate scientific discovery
+https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute
