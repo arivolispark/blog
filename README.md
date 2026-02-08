@@ -2228,3 +2228,6 @@ https://www.anthropic.com/news/claude-opus-4-6
 
 # Anthropic partners with Allen Institute and Howard Hughes Medical Institute to accelerate scientific discovery
 https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute
+
+# The Two Best AI Models/Enemies Just Got Released Simultaneously
+https://www.youtube.com/watch?v=1PxEziv5XIU&t=5s
