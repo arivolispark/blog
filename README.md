@@ -2231,3 +2231,6 @@ https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howar
 
 # The Two Best AI Models/Enemies Just Got Released Simultaneously
 https://www.youtube.com/watch?v=1PxEziv5XIU&t=5s
+
+# Codex vs Claude Code: which is the better AI coding agent?
+https://www.builder.io/blog/codex-vs-claude-code
