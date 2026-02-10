@@ -2234,3 +2234,6 @@ https://www.youtube.com/watch?v=1PxEziv5XIU&t=5s
 
 # Codex vs Claude Code: which is the better AI coding agent?
 https://www.builder.io/blog/codex-vs-claude-code
+
+# Kiro Help Agent
+https://kiro.dev/docs/cli/chat/help-agent/
