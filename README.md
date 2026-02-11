@@ -2240,3 +2240,6 @@ https://kiro.dev/docs/cli/chat/help-agent/
 
 # Open weight models are here: more choice, more speed, less cost
 https://kiro.dev/blog/open-weight-models/
+
+# Zoominfo
+docs.zoominfo.com/docs/zi-api-mcp-overview
