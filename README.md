@@ -2237,3 +2237,6 @@ https://www.builder.io/blog/codex-vs-claude-code
 
 # Kiro Help Agent
 https://kiro.dev/docs/cli/chat/help-agent/
+
+# Open weight models are here: more choice, more speed, less cost
+https://kiro.dev/blog/open-weight-models/
