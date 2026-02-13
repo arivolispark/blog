@@ -2243,3 +2243,6 @@ https://kiro.dev/blog/open-weight-models/
 
 # Zoominfo
 docs.zoominfo.com/docs/zi-api-mcp-overview
+
+# External Identity provider support for Kiro
+https://kiro.dev/changelog/ide/external-identity-provider-support-for-kiro-ide/
