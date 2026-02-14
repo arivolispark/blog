@@ -2246,3 +2246,6 @@ docs.zoominfo.com/docs/zi-api-mcp-overview
 
 # External Identity provider support for Kiro
 https://kiro.dev/changelog/ide/external-identity-provider-support-for-kiro-ide/
+
+# Retrieval Augmented Generation (RAG) with Knowledge Graph using SPARQL
+https://github.com/aws-samples/rag-with-knowledge-graph-using-sparql
