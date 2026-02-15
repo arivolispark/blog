@@ -2249,3 +2249,6 @@ https://kiro.dev/changelog/ide/external-identity-provider-support-for-kiro-ide/
 
 # Retrieval Augmented Generation (RAG) with Knowledge Graph using SPARQL
 https://github.com/aws-samples/rag-with-knowledge-graph-using-sparql
+
+# Anthropic Skills
+https://github.com/anthropics/skills
