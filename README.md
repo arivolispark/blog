@@ -2252,3 +2252,6 @@ https://github.com/aws-samples/rag-with-knowledge-graph-using-sparql
 
 # Anthropic Skills
 https://github.com/anthropics/skills
+
+# Claude Skills From Zero to Pro In 22 Minutes
+https://www.youtube.com/watch?v=TzJecWCbex0
