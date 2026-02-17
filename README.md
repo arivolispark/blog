@@ -2255,3 +2255,6 @@ https://github.com/anthropics/skills
 
 # Claude Skills From Zero to Pro In 22 Minutes
 https://www.youtube.com/watch?v=TzJecWCbex0
+
+# Hands-on Demo: Generate & Load Graph Data into Amazon Neptune
+https://www.youtube.com/watch?v=kCmmgt2f278&t=2s
