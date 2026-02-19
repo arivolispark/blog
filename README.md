@@ -2261,3 +2261,6 @@ https://www.youtube.com/watch?v=kCmmgt2f278&t=2s
 
 # OpenClaw for Product Managers: Building Products in the AI Agent Era (2026 Guide)
 https://medium.com/@mohit15856/openclaw-for-product-managers-building-products-in-the-ai-agent-era-2026-guide-71d18641200f
+
+# Manufacturing GraphRAG Bot with multi-hop traversal
+https://medium.com/@amitavamanna/manufacturing-graphrag-bot-with-multi-hop-traversal-0992e0bec455
