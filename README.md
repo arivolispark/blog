@@ -2264,3 +2264,6 @@ https://medium.com/@mohit15856/openclaw-for-product-managers-building-products-i
 
 # Manufacturing GraphRAG Bot with multi-hop traversal
 https://medium.com/@amitavamanna/manufacturing-graphrag-bot-with-multi-hop-traversal-0992e0bec455
+
+# Mastering Claude Code in 30 minutes
+https://www.youtube.com/watch?v=6eBSHbLKuN0&t=2s
