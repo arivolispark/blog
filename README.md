@@ -2270,3 +2270,6 @@ https://www.youtube.com/watch?v=6eBSHbLKuN0&t=2s
 
 # Atlassian Rovo agents
 https://support.atlassian.com/rovo/docs/agents/
+
+# Claude Code on Amazon Bedrock
+https://code.claude.com/docs/en/amazon-bedrock
