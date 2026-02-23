@@ -2273,3 +2273,6 @@ https://support.atlassian.com/rovo/docs/agents/
 
 # Claude Code on Amazon Bedrock
 https://code.claude.com/docs/en/amazon-bedrock
+
+# Mark Kashef
+https://www.youtube.com/@Mark_Kashef
