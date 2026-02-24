@@ -2276,3 +2276,6 @@ https://code.claude.com/docs/en/amazon-bedrock
 
 # Mark Kashef
 https://www.youtube.com/@Mark_Kashef
+
+# Claude skills
+https://code.claude.com/docs/en/skills
