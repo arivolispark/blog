@@ -2279,3 +2279,6 @@ https://www.youtube.com/@Mark_Kashef
 
 # Claude skills
 https://code.claude.com/docs/en/skills
+
+# AWS Community Day
+https://aws.amazon.com/events/community-day/?trk=d8ec3b19-0f37-4f8c-8c12-189f913e205c&sc_channel=el
