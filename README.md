@@ -2291,3 +2291,6 @@ https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview
 
 # Claude Code Learning Path: a practical guide to getting started
 https://medium.com/@dan.avila7/claude-code-learning-path-a-practical-guide-to-getting-started-fcc601550476
+
+# Claude Code's Agent Teams Are Insane (Build Your AI Workforce)
+https://www.youtube.com/watch?v=oC3F2SFaF9w
