@@ -2294,3 +2294,6 @@ https://medium.com/@dan.avila7/claude-code-learning-path-a-practical-guide-to-ge
 
 # Claude Code's Agent Teams Are Insane (Build Your AI Workforce)
 https://www.youtube.com/watch?v=oC3F2SFaF9w
+
+# Claude Code in Action
+https://anthropic.skilljar.com/claude-code-in-action
