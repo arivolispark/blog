@@ -2297,3 +2297,6 @@ https://www.youtube.com/watch?v=oC3F2SFaF9w
 
 # Claude Code in Action
 https://anthropic.skilljar.com/claude-code-in-action
+
+# Orchestrate teams of Claude Code sessions
+https://code.claude.com/docs/en/agent-teams
