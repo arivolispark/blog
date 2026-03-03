@@ -2300,3 +2300,6 @@ https://anthropic.skilljar.com/claude-code-in-action
 
 # Orchestrate teams of Claude Code sessions
 https://code.claude.com/docs/en/agent-teams
+
+# Claude Code sub agents 
+https://code.claude.com/docs/en/sub-agents
