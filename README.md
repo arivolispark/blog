@@ -2306,3 +2306,6 @@ https://code.claude.com/docs/en/sub-agents
 
 # Claude-clode changelog
 https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md
+
+# You're Using Claude Code Wrong. Plan First.
+https://www.youtube.com/watch?v=3qUg57KGSVY
