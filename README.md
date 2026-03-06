@@ -2309,3 +2309,6 @@ https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md
 
 # You're Using Claude Code Wrong. Plan First.
 https://www.youtube.com/watch?v=3qUg57KGSVY
+
+# Making frontier cybersecurity capabilities available to defenders
+https://www.anthropic.com/news/claude-code-security
