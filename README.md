@@ -2312,3 +2312,6 @@ https://www.youtube.com/watch?v=3qUg57KGSVY
 
 # Making frontier cybersecurity capabilities available to defenders
 https://www.anthropic.com/news/claude-code-security
+
+# Labor market impacts of AI: A new measure and early evidence
+https://www.anthropic.com/research/labor-market-impacts
