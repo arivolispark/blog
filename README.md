@@ -2315,3 +2315,6 @@ https://www.anthropic.com/news/claude-code-security
 
 # Labor market impacts of AI: A new measure and early evidence
 https://www.anthropic.com/research/labor-market-impacts
+
+# Claude Code Skill jar
+https://anthropic.skilljar.com/
