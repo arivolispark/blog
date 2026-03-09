@@ -2318,3 +2318,6 @@ https://www.anthropic.com/research/labor-market-impacts
 
 # Claude Code Skill jar
 https://anthropic.skilljar.com/
+
+# Anthropic Academy
+https://www.anthropic.com/learn
