@@ -2321,3 +2321,6 @@ https://anthropic.skilljar.com/
 
 # Anthropic Academy
 https://www.anthropic.com/learn
+
+# Claude Code plugins
+https://code.claude.com/docs/en/plugins
