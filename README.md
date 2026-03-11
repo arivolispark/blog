@@ -2324,3 +2324,6 @@ https://www.anthropic.com/learn
 
 # Claude Code plugins
 https://code.claude.com/docs/en/plugins
+
+# Kiro Agent skills
+https://kiro.dev/docs/skills/
