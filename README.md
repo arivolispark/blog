@@ -2327,3 +2327,6 @@ https://code.claude.com/docs/en/plugins
 
 # Kiro Agent skills
 https://kiro.dev/docs/skills/
+
+# Automate workflows with hooks
+https://code.claude.com/docs/en/hooks-guide
