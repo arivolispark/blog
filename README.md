@@ -2330,3 +2330,6 @@ https://kiro.dev/docs/skills/
 
 # Automate workflows with hooks
 https://code.claude.com/docs/en/hooks-guide
+
+# Building with the Claude API
+https://anthropic.skilljar.com/claude-with-the-anthropic-api
