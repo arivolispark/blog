@@ -2333,3 +2333,6 @@ https://code.claude.com/docs/en/hooks-guide
 
 # Building with the Claude API
 https://anthropic.skilljar.com/claude-with-the-anthropic-api
+
+# Claude Code in Action
+https://anthropic.skilljar.com/claude-code-in-action
