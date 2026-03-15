@@ -2336,3 +2336,6 @@ https://anthropic.skilljar.com/claude-with-the-anthropic-api
 
 # Claude Code in Action
 https://anthropic.skilljar.com/claude-code-in-action
+
+# AT Fluency
+https://anthropic.skilljar.com/ai-fluency-framework-foundations
