@@ -2339,3 +2339,6 @@ https://anthropic.skilljar.com/claude-code-in-action
 
 # AT Fluency
 https://anthropic.skilljar.com/ai-fluency-framework-foundations
+
+# Become a Claude Certified Architect
+https://anthropic.skilljar.com/claude-certified-architect-foundations-access-request
