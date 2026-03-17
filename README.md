@@ -2342,3 +2342,6 @@ https://anthropic.skilljar.com/ai-fluency-framework-foundations
 
 # Become a Claude Certified Architect
 https://anthropic.skilljar.com/claude-certified-architect-foundations-access-request
+
+# Claude Skills Explained in 23 Minutes
+https://www.youtube.com/watch?v=vEvytl7wrGM
