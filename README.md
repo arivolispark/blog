@@ -2345,3 +2345,6 @@ https://anthropic.skilljar.com/claude-certified-architect-foundations-access-req
 
 # Claude Skills Explained in 23 Minutes
 https://www.youtube.com/watch?v=vEvytl7wrGM
+
+# Anthropic courses
+https://github.com/anthropics/courses
