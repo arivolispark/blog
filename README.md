@@ -2348,3 +2348,6 @@ https://www.youtube.com/watch?v=vEvytl7wrGM
 
 # Anthropic courses
 https://github.com/anthropics/courses
+
+# Measuring AI agent autonomy in practice
+https://www.anthropic.com/research/measuring-agent-autonomy
