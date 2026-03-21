@@ -2351,3 +2351,6 @@ https://github.com/anthropics/courses
 
 # Measuring AI agent autonomy in practice
 https://www.anthropic.com/research/measuring-agent-autonomy
+
+# Code Review Plugin
+https://github.com/anthropics/claude-code/tree/main/plugins/code-review
