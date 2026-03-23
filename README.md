@@ -2357,3 +2357,6 @@ https://github.com/anthropics/claude-code/tree/main/plugins/code-review
 
 # Claude Code Beginner to Pro: Agentic Coding for Developers
 https://www.udemy.com/course/learn-claude-code/?utm_campaign=Search_DSA_Beta_Prof_la.EN_cc.US_Subs&utm_source=google&utm_medium=paid-search&portfolio=USA&utm_audience=mx&utm_tactic=nb&utm_term=_._ag_181739967057_._ad_769665421412_._kw_&utm_content=g&funnel=&test=&gad_source=1&gad_campaignid=22894902714&gbraid=0AAAAADROdO3PVoGOFjFTrD4H_6HalKID2&gclid=CjwKCAjwg_nNBhAGEiwAiYPYA7EfEl28BE4MH4PLwBKkg578VWn3X7IPtmMZevL0veMgdXg0JHEKAhoC2iUQAvD_BwE
+
+# Amazon bedrock models support for Cursor
+https://forum.cursor.com/t/amazon-bedrock-models-support-for-cursor/68243
