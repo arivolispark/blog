@@ -2371,3 +2371,6 @@ https://mlflow.org/docs/latest/genai/
 https://www.youtube.com/@RamVegiraju/videos
 
 https://x.com/RamVegiraju
+
+# Claude with Anthropic API
+https://anthropic.skilljar.com/claude-with-the-anthropic-api
