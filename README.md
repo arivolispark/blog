@@ -2363,3 +2363,6 @@ https://forum.cursor.com/t/amazon-bedrock-models-support-for-cursor/68243
 
 # Claude Code Masterclass
 https://www.udemy.com/course/claude-code-master-class/?utm_campaign=Search_DSA_Beta_Prof_la.EN_cc.US&utm_source=google&utm_medium=paid-search&portfolio=USA&utm_audience=mx&utm_tactic=nb&utm_term=_._ag_162107351193_._ad_696074114838_._kw_&utm_content=g&funnel=&test=&gad_source=1&gad_campaignid=21164973268&gbraid=0AAAAADROdO0lzAG7Tc542A7zybFOk6kPB&gclid=CjwKCAjwyYPOBhBxEiwAgpT8PyNcK4LtNcaqG-InDgsKOhrbwLNT5Ypz5HHXnI0sB9gzrnkBzPmfThoCPWwQAvD_BwE
+
+# MlFlow
+https://mlflow.org/docs/latest/genai/
