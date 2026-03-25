@@ -2366,3 +2366,8 @@ https://www.udemy.com/course/claude-code-master-class/?utm_campaign=Search_DSA_B
 
 # MlFlow
 https://mlflow.org/docs/latest/genai/
+
+# Ram Vegiraju videos
+https://www.youtube.com/@RamVegiraju/videos
+
+https://x.com/RamVegiraju
