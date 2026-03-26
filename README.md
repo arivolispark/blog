@@ -2377,3 +2377,6 @@ https://anthropic.skilljar.com/claude-with-the-anthropic-api
 
 # Agentic AI, by Andrew Ng
 https://learn.deeplearning.ai/courses/agentic-ai/information
+
+# Eureka Claw
+https://www.eurekaclaw.ai/
