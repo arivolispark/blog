@@ -2380,3 +2380,6 @@ https://learn.deeplearning.ai/courses/agentic-ai/information
 
 # Eureka Claw
 https://www.eurekaclaw.ai/
+
+# MCP Boilerplate
+https://github.com/anshajk/mcp_boilerplate?tab=readme-ov-file
