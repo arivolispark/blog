@@ -2383,3 +2383,6 @@ https://www.eurekaclaw.ai/
 
 # MCP Boilerplate
 https://github.com/anshajk/mcp_boilerplate?tab=readme-ov-file
+
+# Claude Code best practices
+https://code.claude.com/docs/en/best-practices
