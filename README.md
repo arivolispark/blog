@@ -2386,3 +2386,6 @@ https://github.com/anshajk/mcp_boilerplate?tab=readme-ov-file
 
 # Claude Code best practices
 https://code.claude.com/docs/en/best-practices
+
+# Anthropic Academy
+https://www.anthropic.com/learn
