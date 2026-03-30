@@ -2389,3 +2389,6 @@ https://code.claude.com/docs/en/best-practices
 
 # Anthropic Academy
 https://www.anthropic.com/learn
+
+# DeepLearning.AI
+https://learn.deeplearning.ai/courses/agentic-ai/information
