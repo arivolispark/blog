@@ -2392,3 +2392,6 @@ https://www.anthropic.com/learn
 
 # DeepLearning.AI
 https://learn.deeplearning.ai/courses/agentic-ai/information
+
+# Making frontier cybersecurity capabilities available to defenders
+https://www.anthropic.com/news/claude-code-security
