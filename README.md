@@ -2398,3 +2398,6 @@ https://www.anthropic.com/news/claude-code-security
 
 # Anthropic 13 free courses
 https://www.linkedin.com/posts/ericmelillo_13-free-anthropic-courses-share-7444005384635211776-mHGQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABnXL8B3rVGKTDwu3DrnCDElC94Xerv0Cg
+
+# AWS DevOps Agent
+https://docs.aws.amazon.com/devopsagent/latest/userguide/about-aws-devops-agent.html
