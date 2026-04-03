@@ -2401,3 +2401,6 @@ https://www.linkedin.com/posts/ericmelillo_13-free-anthropic-courses-share-74440
 
 # AWS DevOps Agent
 https://docs.aws.amazon.com/devopsagent/latest/userguide/about-aws-devops-agent.html
+
+# One-Hot Encoding: The First Step Toward Understanding Vector Embeddings
+https://medium.com/@SaumyaBhatt106/one-hot-encoding-the-first-step-toward-understanding-vector-embeddings-2c891eba56c2
