@@ -2404,3 +2404,6 @@ https://docs.aws.amazon.com/devopsagent/latest/userguide/about-aws-devops-agent.
 
 # One-Hot Encoding: The First Step Toward Understanding Vector Embeddings
 https://medium.com/@SaumyaBhatt106/one-hot-encoding-the-first-step-toward-understanding-vector-embeddings-2c891eba56c2
+
+# Evolution
+N-grams -> RNN -> Transformer
