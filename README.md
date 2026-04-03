@@ -2407,3 +2407,6 @@ https://medium.com/@SaumyaBhatt106/one-hot-encoding-the-first-step-toward-unders
 
 # Evolution
 N-grams -> RNN -> Transformer
+
+# SoftMax
+https://en.wikipedia.org/wiki/Softmax_function
