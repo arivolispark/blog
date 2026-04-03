@@ -2410,3 +2410,7 @@ N-grams -> RNN -> Transformer
 
 # SoftMax
 https://en.wikipedia.org/wiki/Softmax_function
+
+# Jarvis Platform Architecture
+https://ascendingdc.com/jarvis-ai
+
