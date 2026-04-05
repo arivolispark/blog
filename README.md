@@ -2414,3 +2414,5 @@ https://en.wikipedia.org/wiki/Softmax_function
 # Jarvis Platform Architecture
 https://ascendingdc.com/jarvis-ai
 
+# Claude Code Deep Dive
+https://frontendmasters.com/workshops/advanced-claude-code/?gad_source=1&gad_campaignid=22687143500&gbraid=0AAAAADovwT2b7h9BrTWiUk8yqLFEvK-KQ&gclid=Cj0KCQjw7cLOBhDmARIsAGsuA0lBm7HTHClXCfLMd2uNeX3nFlH9pVvd02JzFjYxgpGF6C73M7cL_gMaAlNkEALw_wcB
