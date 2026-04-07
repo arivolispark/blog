@@ -2419,3 +2419,6 @@ https://frontendmasters.com/workshops/advanced-claude-code/?gad_source=1&gad_cam
 
 # Build Claude and Cloud Agent To Get A Job in 2026
 https://www.youtube.com/watch?v=_27sSIwlrko
+
+# What is a Knowledge Graph?
+https://www.youtube.com/watch?v=y7sXDpffzQQ
