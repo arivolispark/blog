@@ -2422,3 +2422,6 @@ https://www.youtube.com/watch?v=_27sSIwlrko
 
 # What is a Knowledge Graph?
 https://www.youtube.com/watch?v=y7sXDpffzQQ
+
+# Frontend masters courses
+https://frontendmasters.com/courses/
