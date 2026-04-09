@@ -2427,3 +2427,4 @@ https://www.youtube.com/watch?v=y7sXDpffzQQ
 https://frontendmasters.com/courses/
 
 # How to master Claude in one week
+![How to master Claude in one week](assets/How_to_master_Claude_in_one_week.jpeg)
