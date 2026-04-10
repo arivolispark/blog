@@ -2428,3 +2428,6 @@ https://frontendmasters.com/courses/
 
 # How to master Claude in one week
 ![How to master Claude in one week](assets/How_to_master_Claude_in_one_week.jpeg)
+
+# Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’
+https://www.nytimes.com/2026/04/07/technology/anthropic-claims-its-new-ai-model-mythos-is-a-cybersecurity-reckoning.html
