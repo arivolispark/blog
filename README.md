@@ -2431,3 +2431,6 @@ https://frontendmasters.com/courses/
 
 # Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’
 https://www.nytimes.com/2026/04/07/technology/anthropic-claims-its-new-ai-model-mythos-is-a-cybersecurity-reckoning.html
+
+# AWS Security Agent FAQs
+https://aws.amazon.com/security-agent/faqs/
