@@ -2434,3 +2434,6 @@ https://www.nytimes.com/2026/04/07/technology/anthropic-claims-its-new-ai-model-
 
 # AWS Security Agent FAQs
 https://aws.amazon.com/security-agent/faqs/
+
+# Generative AI Explained
+https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1
