@@ -2437,3 +2437,6 @@ https://aws.amazon.com/security-agent/faqs/
 
 # Generative AI Explained
 https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1
+
+# Claude Mythos explained
+https://www.youtube.com/watch?v=ENB3lqbCup8
