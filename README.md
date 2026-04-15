@@ -2443,3 +2443,6 @@ https://www.youtube.com/watch?v=ENB3lqbCup8
 
 # Claude Skills Explained in 23 Minutes
 https://www.youtube.com/watch?v=vEvytl7wrGM
+
+# Claude Mythos #2: Cybersecurity and Project Glasswing
+https://thezvi.substack.com/p/claude-mythos-2-cybersecurity-and
