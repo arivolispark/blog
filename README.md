@@ -2446,3 +2446,6 @@ https://www.youtube.com/watch?v=vEvytl7wrGM
 
 # Claude Mythos #2: Cybersecurity and Project Glasswing
 https://thezvi.substack.com/p/claude-mythos-2-cybersecurity-and
+
+# Kiro CLI 2.0: a new look and feel, headless CI/CD pipelines, and Windows support
+https://kiro.dev/blog/cli-2-0/
