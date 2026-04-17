@@ -2449,3 +2449,6 @@ https://thezvi.substack.com/p/claude-mythos-2-cybersecurity-and
 
 # Kiro CLI 2.0: a new look and feel, headless CI/CD pipelines, and Windows support
 https://kiro.dev/blog/cli-2-0/
+
+# Opus 4.7 is now available in Kiro
+https://kiro.dev/blog/opus-4-7/
