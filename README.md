@@ -2452,3 +2452,6 @@ https://kiro.dev/blog/cli-2-0/
 
 # Opus 4.7 is now available in Kiro
 https://kiro.dev/blog/opus-4-7/
+
+# Introducing Claude Design by Anthropic Labs
+https://www.anthropic.com/news/claude-design-anthropic-labs
