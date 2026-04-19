@@ -2455,3 +2455,6 @@ https://kiro.dev/blog/opus-4-7/
 
 # Introducing Claude Design by Anthropic Labs
 https://www.anthropic.com/news/claude-design-anthropic-labs
+
+# Building KiroGraph: a 100% local semantic code knowledge graph for Kiro
+https://dev.to/aws-builders/building-kirograph-a-100-local-semantic-code-knowledge-graph-for-kiro-2ja4
