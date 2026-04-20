@@ -2458,3 +2458,6 @@ https://www.anthropic.com/news/claude-design-anthropic-labs
 
 # Building KiroGraph: a 100% local semantic code knowledge graph for Kiro
 https://dev.to/aws-builders/building-kirograph-a-100-local-semantic-code-knowledge-graph-for-kiro-2ja4
+
+# Why CLIs Beat MCP for AI Agents — And How to Build Your Own CLI Army. The Guy With 190K GitHub Stars Just Proved Me Right.
+https://medium.com/@rentierdigital/why-clis-beat-mcp-for-ai-agents-and-how-to-build-your-own-cli-army-6c27b0aec969
