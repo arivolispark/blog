@@ -2461,3 +2461,6 @@ https://dev.to/aws-builders/building-kirograph-a-100-local-semantic-code-knowled
 
 # Why CLIs Beat MCP for AI Agents — And How to Build Your Own CLI Army. The Guy With 190K GitHub Stars Just Proved Me Right.
 https://medium.com/@rentierdigital/why-clis-beat-mcp-for-ai-agents-and-how-to-build-your-own-cli-army-6c27b0aec969
+
+# Kiro vs Cursor vs Antigravity vs Claude Code: Which AI IDE Belongs in Your Workflow?
+https://medium.com/@mr.sourav.raj/kiro-vs-cursor-vs-antigravity-vs-claude-code-which-ai-ide-belongs-in-your-workflow-f670d3d6ef89
