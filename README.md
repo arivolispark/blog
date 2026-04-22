@@ -2464,3 +2464,6 @@ https://medium.com/@rentierdigital/why-clis-beat-mcp-for-ai-agents-and-how-to-bu
 
 # Kiro vs Cursor vs Antigravity vs Claude Code: Which AI IDE Belongs in Your Workflow?
 https://medium.com/@mr.sourav.raj/kiro-vs-cursor-vs-antigravity-vs-claude-code-which-ai-ide-belongs-in-your-workflow-f670d3d6ef89
+
+# Claude Platform on AWS
+https://aws.amazon.com/claude-platform/
