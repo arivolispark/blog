@@ -2470,3 +2470,6 @@ https://aws.amazon.com/claude-platform/
 
 # Claude Certified Architect
 https://github.com/paullarionov/claude-certified-architect
+
+# Claude status
+https://status.claude.com/
