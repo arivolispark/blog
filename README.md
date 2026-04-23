@@ -2467,3 +2467,6 @@ https://medium.com/@mr.sourav.raj/kiro-vs-cursor-vs-antigravity-vs-claude-code-w
 
 # Claude Platform on AWS
 https://aws.amazon.com/claude-platform/
+
+# Claude Certified Architect
+https://github.com/paullarionov/claude-certified-architect
