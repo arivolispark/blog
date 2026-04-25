@@ -2473,3 +2473,6 @@ https://github.com/paullarionov/claude-certified-architect
 
 # Claude status
 https://status.claude.com/
+
+# Claude Cowork
+https://claude.com/product/cowork?utm_source=google&utm_medium=paid_search_coder&utm_campaign=acq_code_us_q3&utm_term=claude+code&gclsrc=aw.ds&gad_source=1&gad_campaignid=23253558478&gbraid=0AAAAA99jmquNIA1IGjpy7-jNfe-wF_wav&gclid=CjwKCAjwqazPBhALEiwAOuXqdPjXoO7t0BMvERenCl4RY8RvF_N-imAemGZxFXeFGODA_9vWk-G0cBoC5VIQAvD_BwE
