@@ -2485,3 +2485,6 @@ https://claude.com/resources/tutorials/using-claude-design-for-prototypes-and-ux
 Build More Architect Dreams
 
 https://github.com/bmad-code-org/BMAD-METHOD
+
+# Vercel
+https://vercel.com/
