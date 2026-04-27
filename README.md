@@ -2479,3 +2479,9 @@ https://claude.com/product/cowork?utm_source=google&utm_medium=paid_search_coder
 
 # Using  Claude Design for prototypes and UX
 https://claude.com/resources/tutorials/using-claude-design-for-prototypes-and-ux
+
+# BMAD
+
+Build More Architect Dreams
+
+https://github.com/bmad-code-org/BMAD-METHOD
