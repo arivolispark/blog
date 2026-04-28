@@ -2488,3 +2488,6 @@ https://github.com/bmad-code-org/BMAD-METHOD
 
 # Vercel
 https://vercel.com/
+
+# From developer desks to the whole organization: Running Claude Cowork in Amazon Bedrock
+https://aws.amazon.com/blogs/machine-learning/from-developer-desks-to-the-whole-organization-running-claude-cowork-in-amazon-bedrock/
