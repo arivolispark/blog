@@ -2491,3 +2491,6 @@ https://vercel.com/
 
 # From developer desks to the whole organization: Running Claude Cowork in Amazon Bedrock
 https://aws.amazon.com/blogs/machine-learning/from-developer-desks-to-the-whole-organization-running-claude-cowork-in-amazon-bedrock/
+
+# Harness engineering for coding agent users
+https://martinfowler.com/articles/harness-engineering.html
