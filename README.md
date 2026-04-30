@@ -2494,3 +2494,6 @@ https://aws.amazon.com/blogs/machine-learning/from-developer-desks-to-the-whole-
 
 # Harness engineering for coding agent users
 https://martinfowler.com/articles/harness-engineering.html
+
+# Claude + Codex Together Is The Combo You're Missing
+https://www.youtube.com/watch?v=Fu5KIG2Jm1g
