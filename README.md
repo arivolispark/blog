@@ -2497,3 +2497,6 @@ https://martinfowler.com/articles/harness-engineering.html
 
 # Claude + Codex Together Is The Combo You're Missing
 https://www.youtube.com/watch?v=Fu5KIG2Jm1g
+
+# AWS and OpenAI announce expanded partnership to bring frontier intelligence to the infrastructure you already trust
+https://www.aboutamazon.com/news/aws/bedrock-openai-models
