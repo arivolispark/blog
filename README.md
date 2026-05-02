@@ -2500,3 +2500,6 @@ https://www.youtube.com/watch?v=Fu5KIG2Jm1g
 
 # AWS and OpenAI announce expanded partnership to bring frontier intelligence to the infrastructure you already trust
 https://www.aboutamazon.com/news/aws/bedrock-openai-models
+
+# Configure Codex to use AWS Bedrock
+https://nisanthchunduru.com/posts/2db18e24-configure-codex-to-use-aws-bedrock
