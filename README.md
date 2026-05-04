@@ -2506,3 +2506,6 @@ https://nisanthchunduru.com/posts/2db18e24-configure-codex-to-use-aws-bedrock
 
 # Micrometer OTLP
 https://docs.micrometer.io/micrometer/reference/implementations/otlp.html
+
+# Codex vs. Claude Code: Key Differences and When to Use Each
+https://www.datacamp.com/blog/codex-vs-claude-code
