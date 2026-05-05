@@ -2509,3 +2509,6 @@ https://docs.micrometer.io/micrometer/reference/implementations/otlp.html
 
 # Codex vs. Claude Code: Key Differences and When to Use Each
 https://www.datacamp.com/blog/codex-vs-claude-code
+
+# Codex for Builders
+https://academy.openai.com/public/clubs/builders-etkn1/resources/codex-for-builders
