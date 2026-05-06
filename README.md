@@ -2512,3 +2512,6 @@ https://www.datacamp.com/blog/codex-vs-claude-code
 
 # Codex for Builders
 https://academy.openai.com/public/clubs/builders-etkn1/resources/codex-for-builders
+
+# OpenAI models, Codex, and Managed Agents come to AWS
+https://openai.com/index/openai-on-aws/
