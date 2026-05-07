@@ -2515,3 +2515,6 @@ https://academy.openai.com/public/clubs/builders-etkn1/resources/codex-for-build
 
 # OpenAI models, Codex, and Managed Agents come to AWS
 https://openai.com/index/openai-on-aws/
+
+# OpenAI on Bedrock Mantle: early clues in Codex CLI
+https://www.linkedin.com/pulse/openai-bedrock-mantle-early-clues-codex-cli-manu-mishra-2lkbc/
