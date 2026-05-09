@@ -2521,3 +2521,6 @@ https://www.linkedin.com/pulse/openai-bedrock-mantle-early-clues-codex-cli-manu-
 
 # Anthropic is increasing Claude Code usage limits — here’s everything you need to know
 https://www.itpro.com/software/development/anthropic-claude-code-usage-limits-increase-spacex-compute-deal
+
+# OpenAI on Amazon Bedrock (Limited preview)
+https://aws.amazon.com/bedrock/openai/
