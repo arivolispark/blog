@@ -2527,3 +2527,6 @@ https://aws.amazon.com/bedrock/openai/
 
 # Deploy Codex across your organization
 https://chatgpt.com/codex/enterprise/?utm_source=google&utm_medium=paid_search&utm_campaign=GOOG_X_SEM_GBR_Codex_CDX_BAU_ACQ_PER_DMA_ALL_NAMER_US_EN_031826&c_id=23655882150&c_agid=197861433244&c_crid=807850089499&c_kwid=kwd-21294781&c_ims=&c_pms=9032030&c_nw=g&c_dvc=c&gad_source=1&gad_campaignid=23655882150&gbraid=0AAAAA-I0E5eC1dQm4hKknwR3s4MFf4pkT&gclid=Cj0KCQjw2YDQBhD_ARIsAE1qeSdPW0vilcW6cSN8-mqFTfe-5Dv958aOqJJAaCc_uVb1vbr08bL0vuwaAhTwEALw_wcB
+
+# Learn Claude with hands-on tutorials
+https://claude.com/resources/tutorials
