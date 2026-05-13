@@ -2530,3 +2530,6 @@ https://chatgpt.com/codex/enterprise/?utm_source=google&utm_medium=paid_search&u
 
 # Learn Claude with hands-on tutorials
 https://claude.com/resources/tutorials
+
+# AWS + Claude BIG Announcement! What is Claude Platform on AWS?
+https://www.youtube.com/watch?v=VYEdXDjUplA
