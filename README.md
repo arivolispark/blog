@@ -2533,3 +2533,6 @@ https://claude.com/resources/tutorials
 
 # AWS + Claude BIG Announcement! What is Claude Platform on AWS?
 https://www.youtube.com/watch?v=VYEdXDjUplA
+
+# AI Engineer
+https://www.youtube.com/@aiDotEngineer
