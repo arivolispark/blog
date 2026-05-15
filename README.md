@@ -2536,3 +2536,6 @@ https://www.youtube.com/watch?v=VYEdXDjUplA
 
 # AI Engineer
 https://www.youtube.com/@aiDotEngineer
+
+# Introducing Claude Platform on AWS: Anthropic’s native platform, through your AWS account
+https://aws.amazon.com/blogs/machine-learning/introducing-claude-platform-on-aws-anthropics-native-platform-through-your-aws-account/
