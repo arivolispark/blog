@@ -2542,3 +2542,6 @@ https://aws.amazon.com/blogs/machine-learning/introducing-claude-platform-on-aws
 
 # Introducing the Codex app
 https://openai.com/index/introducing-the-codex-app/
+
+# LangChain Anthropic integrations
+https://docs.langchain.com/oss/python/integrations/providers/anthropic
