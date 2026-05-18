@@ -2545,3 +2545,6 @@ https://openai.com/index/introducing-the-codex-app/
 
 # LangChain Anthropic integrations
 https://docs.langchain.com/oss/python/integrations/providers/anthropic
+
+# Anthropic Economic Index
+https://www.anthropic.com/economic-index#us-usage
