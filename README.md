@@ -2551,3 +2551,6 @@ https://www.anthropic.com/economic-index#us-usage
 
 # NEW Claude Code Update is INSANE!
 https://www.youtube.com/watch?v=oCOsgt9Hyac
+
+# Kiro web
+https://kiro.dev/blog/introducing-kiro-web/
