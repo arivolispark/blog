@@ -2554,3 +2554,6 @@ https://www.youtube.com/watch?v=oCOsgt9Hyac
 
 # Kiro web
 https://kiro.dev/blog/introducing-kiro-web/
+
+# I tried Amazon Bedrock support for Codex CLI v0.124.0
+https://dev.classmethod.jp/en/articles/codex-cli-amazon-bedrock-mantle-responses-api/
