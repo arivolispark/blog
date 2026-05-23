@@ -2560,3 +2560,6 @@ https://dev.classmethod.jp/en/articles/codex-cli-amazon-bedrock-mantle-responses
 
 # Claude Enterprise
 https://aws.amazon.com/marketplace/pp/prodview-nnvi6wff6ef6m
+
+# Claude code subagents - Mongodb 
+https://github.com/0xfurai/claude-code-subagents/blob/main/agents/mongodb-expert.md
