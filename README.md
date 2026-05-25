@@ -2566,3 +2566,6 @@ https://github.com/0xfurai/claude-code-subagents/blob/main/agents/mongodb-expert
 
 # Agent Garden
 https://console.cloud.google.com/agent-platform/agent-garden?project=sample-heron-project-1
+
+# How Dangerous Is Anthropic’s New AI Model? Its Chief Science Officer Explains
+https://www.thefp.com/p/how-dangerous-is-anthropics-new-ai?utm_source=linkedin&utm_medium=paid_social&utm_campaign=abe_tfp_li_trial_exec_q2_2026&utm_content=mythos&li_fat_id=0dbc6f98-acf0-4b2a-bf04-8ccbcc02d005
