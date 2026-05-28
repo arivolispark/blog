@@ -2572,3 +2572,6 @@ https://www.thefp.com/p/how-dangerous-is-anthropics-new-ai?utm_source=linkedin&u
 
 # Hands-On AI: Build an Autonomous Agent with the Claude
 https://www.linkedin.com/learning/hands-on-ai-build-an-autonomous-agent-with-the-claude-agent-sdk/build-a-q-a-research-agent-using-agent-sdk?u=0
+
+# AWS Transform custom
+https://github.com/aws-samples/aws-transform-custom-samples
