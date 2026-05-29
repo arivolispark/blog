@@ -2575,3 +2575,6 @@ https://www.linkedin.com/learning/hands-on-ai-build-an-autonomous-agent-with-the
 
 # AWS Transform custom
 https://github.com/aws-samples/aws-transform-custom-samples
+
+# Bedrock Managed Agents, OpenAI on AWS, and Cursor Nukes PocketOS
+https://www.youtube.com/watch?v=J7a8KOjgdwE
