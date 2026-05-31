@@ -2581,3 +2581,6 @@ https://www.youtube.com/watch?v=J7a8KOjgdwE
 
 # Anthropic raises $65B in Series H funding at $965B post-money valuation
 https://www.anthropic.com/news/series-h
+
+# AWS Transform custom
+https://github.com/aws-samples/aws-transform-custom-samples
