@@ -2584,3 +2584,6 @@ https://www.anthropic.com/news/series-h
 
 # AWS Transform custom
 https://github.com/aws-samples/aws-transform-custom-samples
+
+# Introducing dynamic workflows in Claude Code
+https://claude.com/blog/introducing-dynamic-workflows-in-claude-code
