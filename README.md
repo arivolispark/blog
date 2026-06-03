@@ -2587,3 +2587,6 @@ https://github.com/aws-samples/aws-transform-custom-samples
 
 # Introducing dynamic workflows in Claude Code
 https://claude.com/blog/introducing-dynamic-workflows-in-claude-code
+
+# Claude Code Explained in 47 Minutes [Complete Course]
+https://www.youtube.com/watch?v=wtOnAZUdP0A
