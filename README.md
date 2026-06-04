@@ -2590,3 +2590,6 @@ https://claude.com/blog/introducing-dynamic-workflows-in-claude-code
 
 # Claude Code Explained in 47 Minutes [Complete Course]
 https://www.youtube.com/watch?v=wtOnAZUdP0A
+
+# Claude Code Goal
+https://www.reddit.com/r/ClaudeCode/comments/1t9tdow/goal_for_claude_code/
