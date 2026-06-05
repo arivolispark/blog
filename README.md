@@ -2593,3 +2593,6 @@ https://www.youtube.com/watch?v=wtOnAZUdP0A
 
 # Claude Code Goal
 https://www.reddit.com/r/ClaudeCode/comments/1t9tdow/goal_for_claude_code/
+
+# Build, Test, and Deploy AI-Powered Web Applications
+https://onlineexeced.mccombs.utexas.edu/genai-for-software-development-online-course?utm_source=google&utm_medium=search&utm_campaign=GenAI_SD_Int_Search_FullStackDev_Phrase_US_Tools&campaign_id=23392737517&adgroup_id=191147614512&ad_id=789948760225&utm_target=kwd-2435905717325&Keyword=claude%20code%20training&placement=&gad_source=1&gad_campaignid=23392737517&gbraid=0AAAAACoiIDpfPOD5d9m_sq0mBhXBiHwNs&gclid=CjwKCAjwxITRBhBYEiwA6mZm7doYbUVTyHq5eTLsr3MmXE5xvw2ouJborD3ZFhGsLQ3v3648o3akohoCQ_QQAvD_BwE
