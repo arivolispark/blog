@@ -2599,3 +2599,6 @@ https://onlineexeced.mccombs.utexas.edu/genai-for-software-development-online-co
 
 # Building a C compiler with a team of parallel Claudes
 https://www.anthropic.com/engineering/building-c-compiler
+
+# How Social Media Algorithms Actually Work (And How to Beat Them)
+https://www.youtube.com/watch?v=8cQidXgtGmU
