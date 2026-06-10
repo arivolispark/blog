@@ -2602,3 +2602,6 @@ https://www.anthropic.com/engineering/building-c-compiler
 
 # How Social Media Algorithms Actually Work (And How to Beat Them)
 https://www.youtube.com/watch?v=8cQidXgtGmU
+
+# OpenAI models and Codex on Amazon Bedrock are now generally available
+https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-bedrock-are-now-generally-available/
