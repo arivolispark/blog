@@ -2605,3 +2605,6 @@ https://www.youtube.com/watch?v=8cQidXgtGmU
 
 # OpenAI models and Codex on Amazon Bedrock are now generally available
 https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-bedrock-are-now-generally-available/
+
+# Use Codex with Amazon Bedrock
+https://help.openai.com/en/articles/20001252-use-codex-with-amazon-bedrock
