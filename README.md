@@ -2608,3 +2608,6 @@ https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-
 
 # Use Codex with Amazon Bedrock
 https://help.openai.com/en/articles/20001252-use-codex-with-amazon-bedrock
+
+# Claude Fable 5 and Mythos 5
+https://www.anthropic.com/news/claude-fable-5-mythos-5
