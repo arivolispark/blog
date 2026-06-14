@@ -2612,4 +2612,5 @@ https://help.openai.com/en/articles/20001252-use-codex-with-amazon-bedrock
 # Claude Fable 5 and Mythos 5
 https://www.anthropic.com/news/claude-fable-5-mythos-5
 
-# 
+# Anthropic is pulling its two newest AI models after a U.S. government directive
+https://qz.com/anthropic-fable-5-mythos-5-export-control-directive-061226
