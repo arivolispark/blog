@@ -2617,3 +2617,6 @@ https://qz.com/anthropic-fable-5-mythos-5-export-control-directive-061226
 
 # Redesigning Claude Code on desktop for parallel agents
 https://claude.com/blog/claude-code-desktop-redesign?utm_source=google_brand&utm_medium=cpc&utm_campaign=def_acq_us_code_search_google-brand_swe_en_claude-code-brand&utm_content=806769451331&utm_term=claude+cli&gclid=Cj0KCQjwornRBhCrARIsAON5exErBHXCoUJGQsyOLQjjG38Lq7jqjyaqaVmicFc-7TjCS4zsQYnv9lIaAnWvEALw_wcB&gbraid=0AAAAAqwcL8mdzjwzvHEZyv0LPe5_OiNKR
+
+# Claude latest news
+https://code.claude.com/docs/en/whats-new
