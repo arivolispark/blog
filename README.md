@@ -2620,3 +2620,6 @@ https://claude.com/blog/claude-code-desktop-redesign?utm_source=google_brand&utm
 
 # Claude latest news
 https://code.claude.com/docs/en/whats-new
+
+# Claude Code's Agent Teams Are Insane (Build Your AI Workforce)
+https://www.youtube.com/watch?v=oC3F2SFaF9w&t=39s
