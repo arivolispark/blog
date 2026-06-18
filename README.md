@@ -2623,3 +2623,6 @@ https://code.claude.com/docs/en/whats-new
 
 # Claude Code's Agent Teams Are Insane (Build Your AI Workforce)
 https://www.youtube.com/watch?v=oC3F2SFaF9w&t=39s
+
+# I tried 20+ Open AI Codex courses on Udemy: Here Are My Top 5 Recommendations for 2026
+https://medium.com/javarevisited/i-tried-20-open-ai-codex-courses-on-udemy-here-are-my-top-5-recommendations-for-2026-475783639772
