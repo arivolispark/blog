@@ -2632,3 +2632,6 @@ https://www.youtube.com/watch?v=bC3gi-6RsrY
 
 # ChatGPT for Excel and Google Sheets
 https://chatgpt.com/apps/spreadsheets/?utm_source=google&utm_medium=paid_search&utm_campaign=GOOG_X_SEM_GBR_Codex_CDX_BAU_ACQ_PER_DMA_ALL_NAMER_US_EN_031826&c_id=23655882150&c_agid=197861433244&c_crid=807850089496&c_kwid=kwd-21294781&c_ims=&c_pms=9032030&c_nw=g&c_dvc=c&gad_source=1&gad_campaignid=23655882150&gbraid=0AAAAA-I0E5cEBBGhLZeI5BsonjVI62hv_&gclid=CjwKCAjw0dPRBhAPEiwAE5vTTs_WozDveBJmgk7vjg9OTfD_nOgdijkN3ZQKctjtYTmUE-PxN4QGWRoCaF8QAvD_BwE
+
+# Codex for Developers
+https://chatgpt.com/codex/for-developers
