@@ -2635,3 +2635,6 @@ https://chatgpt.com/apps/spreadsheets/?utm_source=google&utm_medium=paid_search&
 
 # Codex for Developers
 https://chatgpt.com/codex/for-developers
+
+# CLAUDE CODE FULL COURSE 12 HOURS: Build Real AI Projects (2026)
+https://www.youtube.com/watch?v=05aY2LRIC3s
