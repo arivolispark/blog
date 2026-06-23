@@ -2638,3 +2638,6 @@ https://chatgpt.com/codex/for-developers
 
 # CLAUDE CODE FULL COURSE 12 HOURS: Build Real AI Projects (2026)
 https://www.youtube.com/watch?v=05aY2LRIC3s
+
+# Build a meeting prep and follow-up assistant with Amazon Quick and Cisco Webex MCP servers
+https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/
