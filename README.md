@@ -2641,3 +2641,6 @@ https://www.youtube.com/watch?v=05aY2LRIC3s
 
 # Build a meeting prep and follow-up assistant with Amazon Quick and Cisco Webex MCP servers
 https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/
+
+# Configure Codex with Amazon Bedrock
+https://help.openai.com/en/articles/20001253-configure-codex-with-amazon-bedrock
