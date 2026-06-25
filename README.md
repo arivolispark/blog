@@ -2644,3 +2644,6 @@ https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up
 
 # Configure Codex with Amazon Bedrock
 https://help.openai.com/en/articles/20001253-configure-codex-with-amazon-bedrock
+
+# Codex best practices
+https://developers.openai.com/codex/learn/best-practices
