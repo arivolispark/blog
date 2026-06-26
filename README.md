@@ -2647,3 +2647,6 @@ https://help.openai.com/en/articles/20001253-configure-codex-with-amazon-bedrock
 
 # Codex best practices
 https://developers.openai.com/codex/learn/best-practices
+
+# codex-plugin-cc
+https://github.com/openai/codex-plugin-cc
