@@ -2653,3 +2653,6 @@ https://github.com/openai/codex-plugin-cc
 
 # Codex 101: Introduction and Onboarding
 https://academy.openai.com/public/clubs/builders-etkn1/resources/codex-101-introduction-and-onboarding-2026-03-18
+
+# Codex academy
+https://openai.com/academy/codex/
