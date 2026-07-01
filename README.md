@@ -2657,3 +2657,6 @@ https://academy.openai.com/public/clubs/builders-etkn1/resources/codex-101-intro
 
 # Codex academy
 https://openai.com/academy/codex/
+
+# Redeploying Fable 5
+https://www.anthropic.com/news/redeploying-fable-5
