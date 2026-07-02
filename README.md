@@ -2383,6 +2383,7 @@ https://learn.deeplearning.ai/courses/agentic-ai/information
 https://www.eurekaclaw.ai/
 
 # MCP Boilerplate
+
 https://github.com/anshajk/mcp_boilerplate?tab=readme-ov-file
 
 # Claude Code best practices
