@@ -2663,3 +2663,6 @@ https://www.anthropic.com/news/redeploying-fable-5
 
 # Anthropic Economic Index report: Cadences
 https://www.anthropic.com/research/economic-index-june-2026-report
+
+# Claude Certification Guide
+https://claudecertificationguide.com/mock-exam
