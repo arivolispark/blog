@@ -2666,3 +2666,7 @@ https://www.anthropic.com/research/economic-index-june-2026-report
 
 # Introducing GeneBench-Pro
 https://openai.com/index/introducing-genebench-pro/
+
+# Swarmia
+https://www.swarmia.com/product/developer-productivity/?device=c&matchtype=e&utm_term=tools%20to%20measure%20developer%20productivity&utm_campaign=gg_search_generic_nam_en_acq_t1&utm_source=adwords&utm_medium=ppc&utm_content=productivity&hsa_acc=6644081770&hsa_cam=21868797111&hsa_grp=170941172538&hsa_ad=808194841666&hsa_src=g&hsa_tgt=kwd-896796012180&hsa_kw=tools%20to%20measure%20developer%20productivity&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=21868797111&gbraid=0AAAAABfaHY5GMBdvVbg67PvZ1nySXju9O&gclid=CjwKCAjwpK3SBhASEiwAtV1SPMpd709grA5UiZTlquYM9lkGjr8bH8yjInXsldLmCJf6Mx_c7Q1f1BoCuhgQAvD_BwE
+
