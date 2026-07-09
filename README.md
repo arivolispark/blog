@@ -2672,3 +2672,6 @@ https://www.swarmia.com/product/developer-productivity/?device=c&matchtype=e&utm
 
 # Claude Certified Architect (CCA-F) - 2026 Exam Prep
 https://www.udemy.com/course/certified-claude-architect-masterclass-2026/?utm_campaign=Search_DSA_Beta_Prof_la.EN_cc.US&utm_source=google&utm_medium=paid-search&portfolio=USA&utm_audience=mx&utm_tactic=nb&utm_term=_._ag_162107351193_._ad_696074114838_._kw_&utm_content=g&funnel=&test=&gad_source=1&gad_campaignid=21164973268&gbraid=0AAAAADROdO1wFIBEIYzgiEnNJuBz67sv7&gclid=CjwKCAjwx7LSBhB3EiwAjcodxL8S4GfZYR8poy4ErWD7Ocv4SK3o6n_TRRaCTymLG3JR970-xOyaFRoCflYQAvD_BwE&couponCode=PMNVD1525
+
+# AI SRE
+https://resolve.ai/
