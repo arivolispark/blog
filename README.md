@@ -2675,3 +2675,6 @@ https://www.udemy.com/course/certified-claude-architect-masterclass-2026/?utm_ca
 
 # AI SRE
 https://resolve.ai/
+
+# Other LLM gateways
+https://code.claude.com/docs/en/llm-gateway
