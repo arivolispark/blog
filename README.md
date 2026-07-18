@@ -2681,3 +2681,5 @@ https://code.claude.com/docs/en/llm-gateway
 # Introducing Claude apps gateway for AWS
 https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/
 
+# Tree-sitter
+https://tree-sitter.github.io/tree-sitter/
