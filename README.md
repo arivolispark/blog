@@ -2683,3 +2683,6 @@ https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-fo
 
 # Tree-sitter
 https://tree-sitter.github.io/tree-sitter/
+
+# What is LiteLLM and How to Use it
+https://www.codecademy.com/article/what-is-litellm
