@@ -2687,3 +2687,6 @@ https://tree-sitter.github.io/tree-sitter/
 
 # What is LiteLLM and How to Use it
 https://www.codecademy.com/article/what-is-litellm
+
+# LiteLLM: Free Open Source Gateway to Manage All Your LLM Providers
+https://www.youtube.com/watch?v=mwP4sdp7gW0
