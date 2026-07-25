@@ -2690,3 +2690,6 @@ https://www.codecademy.com/article/what-is-litellm
 
 # LiteLLM: Free Open Source Gateway to Manage All Your LLM Providers
 https://www.youtube.com/watch?v=mwP4sdp7gW0
+
+# Tokenomics
+https://github.com/Tokenomics-AI/Tokenomics
