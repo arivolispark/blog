@@ -2693,3 +2693,6 @@ https://www.youtube.com/watch?v=mwP4sdp7gW0
 
 # Tokenomics
 https://github.com/Tokenomics-AI/Tokenomics
+
+# OpenAI Academy
+https://openai.com/academy/codex/
