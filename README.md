@@ -2696,3 +2696,6 @@ https://github.com/Tokenomics-AI/Tokenomics
 
 # OpenAI Academy
 https://openai.com/academy/codex/
+
+# Bifrost LLM Proxy Tutorial: Route and Monitor Requests Across Multiple Providers
+https://www.youtube.com/watch?v=5hk5d_GKY_s
