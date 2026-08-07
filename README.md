@@ -2699,3 +2699,6 @@ https://openai.com/academy/codex/
 
 # Bifrost LLM Proxy Tutorial: Route and Monitor Requests Across Multiple Providers
 https://www.youtube.com/watch?v=5hk5d_GKY_s
+
+# LiteLLM Crash Course | For Complete Beginners
+https://www.youtube.com/watch?v=WyW4Ifu4rSo
