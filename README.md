@@ -2702,3 +2702,6 @@ https://www.youtube.com/watch?v=5hk5d_GKY_s
 
 # LiteLLM Crash Course | For Complete Beginners
 https://www.youtube.com/watch?v=WyW4Ifu4rSo
+
+# Introducing Claude apps gateway for AWS
+https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/
