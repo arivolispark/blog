@@ -2709,3 +2709,6 @@ https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-fo
 
 # Tokenomics: The Token Is the New Currency of the Agent Era
 https://www.splunk.com/en_us/blog/artificial-intelligence/token-the-new-currency.html
+
+# LiteLLM
+https://github.com/jamesypub/tg-litellm/
