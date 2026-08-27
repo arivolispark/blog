@@ -2712,3 +2712,6 @@ https://www.splunk.com/en_us/blog/artificial-intelligence/token-the-new-currency
 
 # LiteLLM
 https://github.com/jamesypub/tg-litellm/
+
+# Claude Certified Architect – Foundations
+https://anthropic-partners.skilljar.com/claude-certified-architect-foundations-certification
