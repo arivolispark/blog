@@ -2,8 +2,6 @@
 
 
 
-
-
 # Tools
 https://explaineverything.com/
 
