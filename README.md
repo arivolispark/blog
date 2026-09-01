@@ -2714,3 +2714,6 @@ https://github.com/jamesypub/tg-litellm/
 
 # Claude Certified Architect – Foundations
 https://anthropic-partners.skilljar.com/claude-certified-architect-foundations-certification
+
+# What is agent tokenomics?
+https://www.cisco.com/site/us/en/learn/topics/artificial-intelligence/agent-tokenomics.html
