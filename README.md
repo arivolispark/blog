@@ -2717,3 +2717,9 @@ https://anthropic-partners.skilljar.com/claude-certified-architect-foundations-c
 
 # What is agent tokenomics?
 https://www.cisco.com/site/us/en/learn/topics/artificial-intelligence/agent-tokenomics.html
+
+# What is happening with code reviews?
+https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews
+
+# The End of Code Review: Coding Agents Supersede Human Inspection
+https://arxiv.org/html/2606.13175v1
