@@ -2723,3 +2723,6 @@ https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews
 
 # The End of Code Review: Coding Agents Supersede Human Inspection
 https://arxiv.org/html/2606.13175v1
+
+# 9 Claude Code Plugins Every Developer Should Install in 2026
+https://medium.com/@hii_mohit/9-claude-code-plugins-every-developer-should-install-in-2026-9a35b8fe5a83
