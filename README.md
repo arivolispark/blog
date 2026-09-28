@@ -1,5 +1,4 @@
 # blog
-asdfaf
 
 # Tools
 https://explaineverything.com/
