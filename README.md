@@ -1,7 +1,5 @@
 # blog
 
-fgdgf
-
 # Tools
 https://explaineverything.com/
 
