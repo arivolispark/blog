@@ -2730,3 +2730,6 @@ https://medium.com/@hii_mohit/9-claude-code-plugins-every-developer-should-insta
 
 # Claude code-modernization plugin
 https://claudecowork.im/resources/code-modernization
+
+# The ₹56,600 Crore Binance Hack Explained
+https://www.youtube.com/watch?v=PzK-XYKyn30
